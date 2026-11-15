@@ -1,11 +1,13 @@
 # Props
 
-2,105 free low-poly models. [All types](../README.md#browse-by-type)
+2,107 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Runway Guard Light](https://polyfork.dev/asset/runway-guard-light-5a6541) | [Airport](../kits/airport-43b137.md) | 588 | [GLB](https://polyfork.dev/cdn/runway-guard-light-5a6541.glb) · [module](https://polyfork.dev/cdn/runway-guard-light-5a6541.mjs) |
+| [Rustic Wooden Ladder](https://polyfork.dev/asset/rustic-wooden-ladder-a40b5f) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 508 | [GLB](https://polyfork.dev/cdn/rustic-wooden-ladder-a40b5f.glb) · [module](https://polyfork.dev/cdn/rustic-wooden-ladder-a40b5f.mjs) |
 | [Sack of Toys](https://polyfork.dev/asset/sack-of-toys-c53e9e) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 849 | [GLB](https://polyfork.dev/cdn/sack-of-toys-c53e9e.glb) · [module](https://polyfork.dev/cdn/sack-of-toys-c53e9e.mjs) |
 | [Saddle on a Rack](https://polyfork.dev/asset/saddle-on-a-rack-f034cd) | [Frontier Town](../kits/frontier-town-a0085b.md) | 634 | [GLB](https://polyfork.dev/cdn/saddle-on-a-rack-f034cd.glb) · [module](https://polyfork.dev/cdn/saddle-on-a-rack-f034cd.mjs) |
 | [Saddle Quern Food Mill](https://polyfork.dev/asset/saddle-quern-food-mill-8e3657) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 660 | [GLB](https://polyfork.dev/cdn/saddle-quern-food-mill-8e3657.glb) · [module](https://polyfork.dev/cdn/saddle-quern-food-mill-8e3657.mjs) |
@@ -504,6 +506,4 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 | [Wardrobe](https://polyfork.dev/asset/wardrobe-f3b2f2) | [Open Plan](../kits/open-plan-b2ebd3.md) | 364 | [GLB](https://polyfork.dev/cdn/wardrobe-f3b2f2.glb) · [module](https://polyfork.dev/cdn/wardrobe-f3b2f2.mjs) |
 | [Wash Bottle Set](https://polyfork.dev/asset/wash-bottle-set-88f3aa) | [Research Lab](../kits/research-lab-9b9b5d.md) | 669 | [GLB](https://polyfork.dev/cdn/wash-bottle-set-88f3aa.glb) · [module](https://polyfork.dev/cdn/wash-bottle-set-88f3aa.mjs) |
 | [Washing line](https://polyfork.dev/asset/washing-line-06b44e) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 776 | [GLB](https://polyfork.dev/cdn/washing-line-06b44e.glb) · [module](https://polyfork.dev/cdn/washing-line-06b44e.mjs) |
-| [Waste Bin](https://polyfork.dev/asset/waste-bin-sharps-bca988) | [Research Lab](../kits/research-lab-9b9b5d.md) | 556 | [GLB](https://polyfork.dev/cdn/waste-bin-sharps-bca988.glb) · [module](https://polyfork.dev/cdn/waste-bin-sharps-bca988.mjs) |
-| [Waste Sorting Station](https://polyfork.dev/asset/waste-sorting-station-adeefd) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 362 | [GLB](https://polyfork.dev/cdn/waste-sorting-station-adeefd.glb) · [module](https://polyfork.dev/cdn/waste-sorting-station-adeefd.mjs) |
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)

@@ -1,6 +1,6 @@
 # Buildings
 
-434 free low-poly models. [All types](../README.md#browse-by-type)
+435 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -147,6 +147,7 @@
 | [Forest Outhouse](https://polyfork.dev/asset/forest-outhouse-e968d1) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 568 | [GLB](https://polyfork.dev/cdn/forest-outhouse-e968d1.glb) · [module](https://polyfork.dev/cdn/forest-outhouse-e968d1.mjs) |
 | [Formwork Wall Panel Run](https://polyfork.dev/asset/formwork-wall-panel-run-52e9f5) | [Construction Site](../kits/construction-site-9e40b0.md) | 1,934 | [GLB](https://polyfork.dev/cdn/formwork-wall-panel-run-52e9f5.glb) · [module](https://polyfork.dev/cdn/formwork-wall-panel-run-52e9f5.mjs) |
 | [Foundation Access Wedge](https://polyfork.dev/asset/foundation-access-wedge-5d2716) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 1,766 | [GLB](https://polyfork.dev/cdn/foundation-access-wedge-5d2716.glb) · [module](https://polyfork.dev/cdn/foundation-access-wedge-5d2716.mjs) |
+| [French Quarter Townhouse](https://polyfork.dev/asset/french-quarter-townhouse-fd109f) |  | 4,204 | [GLB](https://polyfork.dev/cdn/french-quarter-townhouse-fd109f.glb) · [module](https://polyfork.dev/cdn/french-quarter-townhouse-fd109f.mjs) |
 | [Frescoed Ceiling Dome Bay](https://polyfork.dev/asset/frescoed-ceiling-dome-bay-2c89cd) | [Hotel Casino kit](../kits/casino-3dd029.md) | 1,750 | [GLB](https://polyfork.dev/cdn/frescoed-ceiling-dome-bay-2c89cd.glb) · [module](https://polyfork.dev/cdn/frescoed-ceiling-dome-bay-2c89cd.mjs) |
 | [Front Porch Bay Module](https://polyfork.dev/asset/front-porch-bay-module-6c7864) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 1,716 | [GLB](https://polyfork.dev/cdn/front-porch-bay-module-6c7864.glb) · [module](https://polyfork.dev/cdn/front-porch-bay-module-6c7864.mjs) |
 | [Fuel Depot](https://polyfork.dev/asset/fuel-depot-e57cdc) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 1,436 | [GLB](https://polyfork.dev/cdn/fuel-depot-e57cdc.glb) · [module](https://polyfork.dev/cdn/fuel-depot-e57cdc.mjs) |

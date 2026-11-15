@@ -1,11 +1,13 @@
 # Props
 
-2,105 free low-poly models. [All types](../README.md#browse-by-type)
+2,107 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Waste Bin](https://polyfork.dev/asset/waste-bin-sharps-bca988) | [Research Lab](../kits/research-lab-9b9b5d.md) | 556 | [GLB](https://polyfork.dev/cdn/waste-bin-sharps-bca988.glb) · [module](https://polyfork.dev/cdn/waste-bin-sharps-bca988.mjs) |
+| [Waste Sorting Station](https://polyfork.dev/asset/waste-sorting-station-adeefd) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 362 | [GLB](https://polyfork.dev/cdn/waste-sorting-station-adeefd.glb) · [module](https://polyfork.dev/cdn/waste-sorting-station-adeefd.mjs) |
 | [Wastepaper Bin](https://polyfork.dev/asset/wastepaper-bin-8f76b5) | [Office](../kits/office-794453.md) | 336 | [GLB](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.glb) · [module](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.mjs) |
 | [Water Blob](https://polyfork.dev/asset/water-blob-e2cdf2) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 208 | [GLB](https://polyfork.dev/cdn/water-blob-e2cdf2.glb) · [module](https://polyfork.dev/cdn/water-blob-e2cdf2.mjs) |
 | [Water Blob](https://polyfork.dev/asset/water-blob-f266b8) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 320 | [GLB](https://polyfork.dev/cdn/water-blob-f266b8.glb) · [module](https://polyfork.dev/cdn/water-blob-f266b8.mjs) |

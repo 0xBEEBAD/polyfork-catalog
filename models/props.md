@@ -1,6 +1,6 @@
 # Props
 
-2,105 free low-poly models. [All types](../README.md#browse-by-type)
+2,107 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -401,6 +401,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Cobra-Head Street Light](https://polyfork.dev/asset/cobra-head-street-light-3e25b8) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 464 | [GLB](https://polyfork.dev/cdn/cobra-head-street-light-3e25b8.glb) · [module](https://polyfork.dev/cdn/cobra-head-street-light-3e25b8.mjs) |
 | [Cobweb Drape](https://polyfork.dev/asset/cobweb-drape-f65d43) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 606 | [GLB](https://polyfork.dev/cdn/cobweb-drape-f65d43.glb) · [module](https://polyfork.dev/cdn/cobweb-drape-f65d43.mjs) |
 | [Coffee Grinder](https://polyfork.dev/asset/coffee-grinder-6f962a) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 492 | [GLB](https://polyfork.dev/cdn/coffee-grinder-6f962a.glb) · [module](https://polyfork.dev/cdn/coffee-grinder-6f962a.mjs) |
+| [Coffee Lab](https://polyfork.dev/asset/coffee-lab-97e9a4) |  | 8,675 | [GLB](https://polyfork.dev/cdn/coffee-lab-97e9a4.glb) · [module](https://polyfork.dev/cdn/coffee-lab-97e9a4.mjs) |
 | [Coffee Table](https://polyfork.dev/asset/coffee-table-acc698) | [Open Plan](../kits/open-plan-b2ebd3.md) | 416 | [GLB](https://polyfork.dev/cdn/coffee-table-acc698.glb) · [module](https://polyfork.dev/cdn/coffee-table-acc698.mjs) |
 | [Coffered Ceiling Panel](https://polyfork.dev/asset/coffered-ceiling-panel-b3510f) | [Hotel Casino kit](../kits/casino-3dd029.md) | 500 | [GLB](https://polyfork.dev/cdn/coffered-ceiling-panel-b3510f.glb) · [module](https://polyfork.dev/cdn/coffered-ceiling-panel-b3510f.mjs) |
 | [Coffin Prop](https://polyfork.dev/asset/coffin-prop-d62082) | [Halloween Night](../kits/halloween-night-46ade4.md) | 712 | [GLB](https://polyfork.dev/cdn/coffin-prop-d62082.glb) · [module](https://polyfork.dev/cdn/coffin-prop-d62082.mjs) |
@@ -411,6 +412,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Colour-Light Signal](https://polyfork.dev/asset/colour-light-signal-713276) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 708 | [GLB](https://polyfork.dev/cdn/colour-light-signal-713276.glb) · [module](https://polyfork.dev/cdn/colour-light-signal-713276.mjs) |
 | [Column Radiator](https://polyfork.dev/asset/column-radiator-18af7e) | [Open Plan](../kits/open-plan-b2ebd3.md) | 440 | [GLB](https://polyfork.dev/cdn/column-radiator-18af7e.glb) · [module](https://polyfork.dev/cdn/column-radiator-18af7e.mjs) |
 | [Columnar Evergreen Shrub](https://polyfork.dev/asset/columnar-evergreen-shrub-35a00b) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 381 | [GLB](https://polyfork.dev/cdn/columnar-evergreen-shrub-35a00b.glb) · [module](https://polyfork.dev/cdn/columnar-evergreen-shrub-35a00b.mjs) |
+| [Combat Robot](https://polyfork.dev/asset/combat-robot-17a943) |  | 1,872 | [GLB](https://polyfork.dev/cdn/combat-robot-17a943.glb) · [module](https://polyfork.dev/cdn/combat-robot-17a943.mjs) |
 | [Comm Satellite](https://polyfork.dev/asset/comm-satellite-fdc2cd) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 702 | [GLB](https://polyfork.dev/cdn/comm-satellite-fdc2cd.glb) · [module](https://polyfork.dev/cdn/comm-satellite-fdc2cd.mjs) |
 | [Commander's Camp Stool](https://polyfork.dev/asset/commander-s-camp-stool-d7fa4c) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 561 | [GLB](https://polyfork.dev/cdn/commander-s-camp-stool-d7fa4c.glb) · [module](https://polyfork.dev/cdn/commander-s-camp-stool-d7fa4c.mjs) |
 | [Commercial Range](https://polyfork.dev/asset/commercial-range-a3b2d8) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 622 | [GLB](https://polyfork.dev/cdn/commercial-range-a3b2d8.glb) · [module](https://polyfork.dev/cdn/commercial-range-a3b2d8.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Curb Strip](https://polyfork.dev/asset/curb-strip-28e992) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 140 | [GLB](https://polyfork.dev/cdn/curb-strip-28e992.glb) · [module](https://polyfork.dev/cdn/curb-strip-28e992.mjs) |
 | [Curbside Dining Shed](https://polyfork.dev/asset/curbside-dining-shed-606329) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 926 | [GLB](https://polyfork.dev/cdn/curbside-dining-shed-606329.glb) · [module](https://polyfork.dev/cdn/curbside-dining-shed-606329.mjs) |
 | [Curbside Mailbox](https://polyfork.dev/asset/curbside-mailbox-0e0736) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 374 | [GLB](https://polyfork.dev/cdn/curbside-mailbox-0e0736.glb) · [module](https://polyfork.dev/cdn/curbside-mailbox-0e0736.mjs) |
-| [Curtain Panel](https://polyfork.dev/asset/curtain-panel-ee2ed9) | [Open Plan](../kits/open-plan-b2ebd3.md) | 620 | [GLB](https://polyfork.dev/cdn/curtain-panel-ee2ed9.glb) · [module](https://polyfork.dev/cdn/curtain-panel-ee2ed9.mjs) |
-| [Curved Panel](https://polyfork.dev/asset/curved-panel-97d28a) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 524 | [GLB](https://polyfork.dev/cdn/curved-panel-97d28a.glb) · [module](https://polyfork.dev/cdn/curved-panel-97d28a.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

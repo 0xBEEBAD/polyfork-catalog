@@ -1,11 +1,13 @@
 # Props
 
-2,105 free low-poly models. [All types](../README.md#browse-by-type)
+2,107 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Curtain Panel](https://polyfork.dev/asset/curtain-panel-ee2ed9) | [Open Plan](../kits/open-plan-b2ebd3.md) | 620 | [GLB](https://polyfork.dev/cdn/curtain-panel-ee2ed9.glb) · [module](https://polyfork.dev/cdn/curtain-panel-ee2ed9.mjs) |
+| [Curved Panel](https://polyfork.dev/asset/curved-panel-97d28a) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 524 | [GLB](https://polyfork.dev/cdn/curved-panel-97d28a.glb) · [module](https://polyfork.dev/cdn/curved-panel-97d28a.mjs) |
 | [Curved Track](https://polyfork.dev/asset/curved-track-819ec6) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 624 | [GLB](https://polyfork.dev/cdn/curved-track-819ec6.glb) · [module](https://polyfork.dev/cdn/curved-track-819ec6.mjs) |
 | [Cushion](https://polyfork.dev/asset/cushion-121479) | [Open Plan](../kits/open-plan-b2ebd3.md) | 512 | [GLB](https://polyfork.dev/cdn/cushion-121479.glb) · [module](https://polyfork.dev/cdn/cushion-121479.mjs) |
 | [Cut Amethyst](https://polyfork.dev/asset/cut-amethyst-494337) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 98 | [GLB](https://polyfork.dev/cdn/cut-amethyst-494337.glb) · [module](https://polyfork.dev/cdn/cut-amethyst-494337.mjs) |
@@ -504,6 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Lily Pads](https://polyfork.dev/asset/lily-pads-b0c5d0) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 592 | [GLB](https://polyfork.dev/cdn/lily-pads-b0c5d0.glb) · [module](https://polyfork.dev/cdn/lily-pads-b0c5d0.mjs) |
 | [Lime Mortar Mixing Pit](https://polyfork.dev/asset/lime-mortar-mixing-pit-57c677) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 851 | [GLB](https://polyfork.dev/cdn/lime-mortar-mixing-pit-57c677.glb) · [module](https://polyfork.dev/cdn/lime-mortar-mixing-pit-57c677.mjs) |
 | [Line Marking Cart](https://polyfork.dev/asset/line-marking-cart-2f7b12) | [Stadium](../kits/stadium-5db167.md) | 682 | [GLB](https://polyfork.dev/cdn/line-marking-cart-2f7b12.glb) · [module](https://polyfork.dev/cdn/line-marking-cart-2f7b12.mjs) |
-| [Linen Trolley](https://polyfork.dev/asset/linen-trolley-08a3f6) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 672 | [GLB](https://polyfork.dev/cdn/linen-trolley-08a3f6.glb) · [module](https://polyfork.dev/cdn/linen-trolley-08a3f6.mjs) |
-| [Lineside Buddleia](https://polyfork.dev/asset/lineside-buddleia-36cd9a) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 887 | [GLB](https://polyfork.dev/cdn/lineside-buddleia-36cd9a.glb) · [module](https://polyfork.dev/cdn/lineside-buddleia-36cd9a.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
