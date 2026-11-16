@@ -1,11 +1,13 @@
 # Props
 
-2,107 free low-poly models. [All types](../README.md#browse-by-type)
+2,113 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Curbside Dining Shed](https://polyfork.dev/asset/curbside-dining-shed-606329) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 926 | [GLB](https://polyfork.dev/cdn/curbside-dining-shed-606329.glb) · [module](https://polyfork.dev/cdn/curbside-dining-shed-606329.mjs) |
+| [Curbside Mailbox](https://polyfork.dev/asset/curbside-mailbox-0e0736) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 374 | [GLB](https://polyfork.dev/cdn/curbside-mailbox-0e0736.glb) · [module](https://polyfork.dev/cdn/curbside-mailbox-0e0736.mjs) |
 | [Curtain Panel](https://polyfork.dev/asset/curtain-panel-ee2ed9) | [Open Plan](../kits/open-plan-b2ebd3.md) | 620 | [GLB](https://polyfork.dev/cdn/curtain-panel-ee2ed9.glb) · [module](https://polyfork.dev/cdn/curtain-panel-ee2ed9.mjs) |
 | [Curved Panel](https://polyfork.dev/asset/curved-panel-97d28a) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 524 | [GLB](https://polyfork.dev/cdn/curved-panel-97d28a.glb) · [module](https://polyfork.dev/cdn/curved-panel-97d28a.mjs) |
 | [Curved Track](https://polyfork.dev/asset/curved-track-819ec6) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 624 | [GLB](https://polyfork.dev/cdn/curved-track-819ec6.glb) · [module](https://polyfork.dev/cdn/curved-track-819ec6.mjs) |
@@ -342,6 +344,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Hand Sanitiser Dispenser](https://polyfork.dev/asset/hand-sanitiser-dispenser-a48460) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 446 | [GLB](https://polyfork.dev/cdn/hand-sanitiser-dispenser-a48460.glb) · [module](https://polyfork.dev/cdn/hand-sanitiser-dispenser-a48460.mjs) |
 | [Hand Water Pump](https://polyfork.dev/asset/hand-water-pump-448037) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 626 | [GLB](https://polyfork.dev/cdn/hand-water-pump-448037.glb) · [module](https://polyfork.dev/cdn/hand-water-pump-448037.mjs) |
 | [Hand-Painted Arrow Sign](https://polyfork.dev/asset/hand-painted-arrow-sign-883df2) | [Halloween Night](../kits/halloween-night-46ade4.md) | 450 | [GLB](https://polyfork.dev/cdn/hand-painted-arrow-sign-883df2.glb) · [module](https://polyfork.dev/cdn/hand-painted-arrow-sign-883df2.mjs) |
+| [Hanging Aisle Sign](https://polyfork.dev/asset/hanging-aisle-sign-0b372d) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 698 | [GLB](https://polyfork.dev/cdn/hanging-aisle-sign-0b372d.glb) · [module](https://polyfork.dev/cdn/hanging-aisle-sign-0b372d.mjs) |
 | [Hanging Cheesecloth Ghosts](https://polyfork.dev/asset/hanging-cheesecloth-ghosts-c569cf) | [Halloween Night](../kits/halloween-night-46ade4.md) | 599 | [GLB](https://polyfork.dev/cdn/hanging-cheesecloth-ghosts-c569cf.glb) · [module](https://polyfork.dev/cdn/hanging-cheesecloth-ghosts-c569cf.mjs) |
 | [Hanging Pit Sign](https://polyfork.dev/asset/hanging-pit-sign-64c316) | [Hotel Casino kit](../kits/casino-3dd029.md) | 820 | [GLB](https://polyfork.dev/cdn/hanging-pit-sign-64c316.glb) · [module](https://polyfork.dev/cdn/hanging-pit-sign-64c316.mjs) |
 | [Hanging Plant Basket](https://polyfork.dev/asset/hanging-plant-basket-66a002) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 753 | [GLB](https://polyfork.dev/cdn/hanging-plant-basket-66a002.glb) · [module](https://polyfork.dev/cdn/hanging-plant-basket-66a002.mjs) |
@@ -503,7 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Light-Up Wireframe Reindeer](https://polyfork.dev/asset/light-up-wireframe-reindeer-8627df) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 920 | [GLB](https://polyfork.dev/cdn/light-up-wireframe-reindeer-8627df.glb) · [module](https://polyfork.dev/cdn/light-up-wireframe-reindeer-8627df.mjs) |
 | [Lily Pad](https://polyfork.dev/asset/lily-pad-86edbb) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 398 | [GLB](https://polyfork.dev/cdn/lily-pad-86edbb.glb) · [module](https://polyfork.dev/cdn/lily-pad-86edbb.mjs) |
 | [Lily Pad Cluster](https://polyfork.dev/asset/lily-pad-cluster-457382) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 670 | [GLB](https://polyfork.dev/cdn/lily-pad-cluster-457382.glb) · [module](https://polyfork.dev/cdn/lily-pad-cluster-457382.mjs) |
-| [Lily Pads](https://polyfork.dev/asset/lily-pads-b0c5d0) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 592 | [GLB](https://polyfork.dev/cdn/lily-pads-b0c5d0.glb) · [module](https://polyfork.dev/cdn/lily-pads-b0c5d0.mjs) |
-| [Lime Mortar Mixing Pit](https://polyfork.dev/asset/lime-mortar-mixing-pit-57c677) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 851 | [GLB](https://polyfork.dev/cdn/lime-mortar-mixing-pit-57c677.glb) · [module](https://polyfork.dev/cdn/lime-mortar-mixing-pit-57c677.mjs) |
-| [Line Marking Cart](https://polyfork.dev/asset/line-marking-cart-2f7b12) | [Stadium](../kits/stadium-5db167.md) | 682 | [GLB](https://polyfork.dev/cdn/line-marking-cart-2f7b12.glb) · [module](https://polyfork.dev/cdn/line-marking-cart-2f7b12.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)

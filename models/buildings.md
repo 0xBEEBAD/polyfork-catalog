@@ -1,6 +1,6 @@
 # Buildings
 
-435 free low-poly models. [All types](../README.md#browse-by-type)
+436 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -425,6 +425,7 @@
 | [Wall Breach Repair Insert](https://polyfork.dev/asset/wall-breach-repair-insert-13ce6b) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 1,346 | [GLB](https://polyfork.dev/cdn/wall-breach-repair-insert-13ce6b.glb) · [module](https://polyfork.dev/cdn/wall-breach-repair-insert-13ce6b.mjs) |
 | [Wall Corner](https://polyfork.dev/asset/wall-corner-7d4e04) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 876 | [GLB](https://polyfork.dev/cdn/wall-corner-7d4e04.glb) · [module](https://polyfork.dev/cdn/wall-corner-7d4e04.mjs) |
 | [Wall Module](https://polyfork.dev/asset/wall-module-b92556) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 788 | [GLB](https://polyfork.dev/cdn/wall-module-b92556.glb) · [module](https://polyfork.dev/cdn/wall-module-b92556.mjs) |
+| [Wall Watchtower](https://polyfork.dev/asset/wall-watchtower-721547) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,926 | [GLB](https://polyfork.dev/cdn/wall-watchtower-721547.glb) · [module](https://polyfork.dev/cdn/wall-watchtower-721547.mjs) |
 | [Wall with Door](https://polyfork.dev/asset/wall-with-door-f936e9) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 972 | [GLB](https://polyfork.dev/cdn/wall-with-door-f936e9.glb) · [module](https://polyfork.dev/cdn/wall-with-door-f936e9.mjs) |
 | [Wall with Window](https://polyfork.dev/asset/wall-with-window-6dad8f) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 1,388 | [GLB](https://polyfork.dev/cdn/wall-with-window-6dad8f.glb) · [module](https://polyfork.dev/cdn/wall-with-window-6dad8f.mjs) |
 | [Warp Gate](https://polyfork.dev/asset/warp-gate-b507bf) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 943 | [GLB](https://polyfork.dev/cdn/warp-gate-b507bf.glb) · [module](https://polyfork.dev/cdn/warp-gate-b507bf.mjs) |

@@ -1,6 +1,6 @@
 # Props
 
-2,107 free low-poly models. [All types](../README.md#browse-by-type)
+2,113 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -223,6 +223,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Broad Algae Frond](https://polyfork.dev/asset/broad-algae-frond-88a644) | [Coral Reef](../kits/coral-reef-a7128a.md) | 521 | [GLB](https://polyfork.dev/cdn/broad-algae-frond-88a644.glb) · [module](https://polyfork.dev/cdn/broad-algae-frond-88a644.mjs) |
 | [Broad Canopy Shade Tree](https://polyfork.dev/asset/broad-canopy-shade-tree-e7c4a2) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 394 | [GLB](https://polyfork.dev/cdn/broad-canopy-shade-tree-e7c4a2.glb) · [module](https://polyfork.dev/cdn/broad-canopy-shade-tree-e7c4a2.mjs) |
 | [Broadleaf Oak](https://polyfork.dev/asset/broadleaf-oak-997c22) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 457 | [GLB](https://polyfork.dev/cdn/broadleaf-oak-997c22.glb) · [module](https://polyfork.dev/cdn/broadleaf-oak-997c22.mjs) |
+| [Broken Cathedral Column](https://polyfork.dev/asset/broken-cathedral-column-edcc8c) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 742 | [GLB](https://polyfork.dev/cdn/broken-cathedral-column-edcc8c.glb) · [module](https://polyfork.dev/cdn/broken-cathedral-column-edcc8c.mjs) |
 | [Broken Dragon Shackle](https://polyfork.dev/asset/broken-dragon-shackle-624412) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 720 | [GLB](https://polyfork.dev/cdn/broken-dragon-shackle-624412.glb) · [module](https://polyfork.dev/cdn/broken-dragon-shackle-624412.mjs) |
 | [Broken Stone Column](https://polyfork.dev/asset/broken-stone-column-c91287) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 700 | [GLB](https://polyfork.dev/cdn/broken-stone-column-c91287.glb) · [module](https://polyfork.dev/cdn/broken-stone-column-c91287.mjs) |
 | [Broken-Out Road Tile](https://polyfork.dev/asset/broken-out-road-tile-c9e990) | [Construction Site](../kits/construction-site-9e40b0.md) | 499 | [GLB](https://polyfork.dev/cdn/broken-out-road-tile-c9e990.glb) · [module](https://polyfork.dev/cdn/broken-out-road-tile-c9e990.mjs) |
@@ -495,6 +496,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Crossing Gate](https://polyfork.dev/asset/crossing-gate-50bcee) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 828 | [GLB](https://polyfork.dev/cdn/crossing-gate-50bcee.glb) · [module](https://polyfork.dev/cdn/crossing-gate-50bcee.mjs) |
 | [Crown](https://polyfork.dev/asset/crown-a294ce) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 622 | [GLB](https://polyfork.dev/cdn/crown-a294ce.glb) · [module](https://polyfork.dev/cdn/crown-a294ce.mjs) |
 | [Cruiser and Longboard](https://polyfork.dev/asset/cruiser-and-longboard-b3d081) | [Skatepark kit](../kits/skatepark-0922a9.md) | 860 | [GLB](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.glb) · [module](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.mjs) |
+| [Crypt Grave Markers](https://polyfork.dev/asset/crypt-grave-markers-8fd1ef) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 535 | [GLB](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.glb) · [module](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.mjs) |
 | [Crypt Well Head](https://polyfork.dev/asset/crypt-well-head-d368f3) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 891 | [GLB](https://polyfork.dev/cdn/crypt-well-head-d368f3.glb) · [module](https://polyfork.dev/cdn/crypt-well-head-d368f3.mjs) |
 | [Crystal Chandelier](https://polyfork.dev/asset/crystal-chandelier-55d279) | [Hotel Casino kit](../kits/casino-3dd029.md) | 772 | [GLB](https://polyfork.dev/cdn/crystal-chandelier-55d279.glb) · [module](https://polyfork.dev/cdn/crystal-chandelier-55d279.mjs) |
 | [Crystal Cluster](https://polyfork.dev/asset/crystal-cluster-624138) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 472 | [GLB](https://polyfork.dev/cdn/crystal-cluster-624138.glb) · [module](https://polyfork.dev/cdn/crystal-cluster-624138.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [CT Scanner Gantry](https://polyfork.dev/asset/ct-scanner-gantry-2032b8) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 562 | [GLB](https://polyfork.dev/cdn/ct-scanner-gantry-2032b8.glb) · [module](https://polyfork.dev/cdn/ct-scanner-gantry-2032b8.mjs) |
 | [Cueca Handkerchief](https://polyfork.dev/asset/cueca-handkerchief-8a9e28) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 468 | [GLB](https://polyfork.dev/cdn/cueca-handkerchief-8a9e28.glb) · [module](https://polyfork.dev/cdn/cueca-handkerchief-8a9e28.mjs) |
 | [Curb Strip](https://polyfork.dev/asset/curb-strip-28e992) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 140 | [GLB](https://polyfork.dev/cdn/curb-strip-28e992.glb) · [module](https://polyfork.dev/cdn/curb-strip-28e992.mjs) |
-| [Curbside Dining Shed](https://polyfork.dev/asset/curbside-dining-shed-606329) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 926 | [GLB](https://polyfork.dev/cdn/curbside-dining-shed-606329.glb) · [module](https://polyfork.dev/cdn/curbside-dining-shed-606329.mjs) |
-| [Curbside Mailbox](https://polyfork.dev/asset/curbside-mailbox-0e0736) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 374 | [GLB](https://polyfork.dev/cdn/curbside-mailbox-0e0736.glb) · [module](https://polyfork.dev/cdn/curbside-mailbox-0e0736.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

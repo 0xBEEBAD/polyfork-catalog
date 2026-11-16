@@ -1,6 +1,6 @@
 # Vehicles
 
-196 free low-poly models. [All types](../README.md#browse-by-type)
+198 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -134,11 +134,13 @@
 | [Pora Reed Float](https://polyfork.dev/asset/pora-reed-float-ed9d7e) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 2,494 | [GLB](https://polyfork.dev/cdn/pora-reed-float-ed9d7e.glb) · [module](https://polyfork.dev/cdn/pora-reed-float-ed9d7e.mjs) |
 | [Procession Float](https://polyfork.dev/asset/procession-float-45cf1e) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 3,448 | [GLB](https://polyfork.dev/cdn/procession-float-45cf1e.glb) · [module](https://polyfork.dev/cdn/procession-float-45cf1e.mjs) |
 | [Railbus](https://polyfork.dev/asset/railbus-e972f3) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,166 | [GLB](https://polyfork.dev/cdn/railbus-e972f3.glb) · [module](https://polyfork.dev/cdn/railbus-e972f3.mjs) |
+| [Railway Cartage Lorry](https://polyfork.dev/asset/railway-cartage-lorry-c51950) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 4,430 | [GLB](https://polyfork.dev/cdn/railway-cartage-lorry-c51950.glb) · [module](https://polyfork.dev/cdn/railway-cartage-lorry-c51950.mjs) |
 | [Ranger Pickup Truck](https://polyfork.dev/asset/ranger-pickup-truck-97057d) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 4,580 | [GLB](https://polyfork.dev/cdn/ranger-pickup-truck-97057d.glb) · [module](https://polyfork.dev/cdn/ranger-pickup-truck-97057d.mjs) |
 | [Regional Turboprop](https://polyfork.dev/asset/regional-turboprop-097f26) | [Airport](../kits/airport-43b137.md) | 4,788 | [GLB](https://polyfork.dev/cdn/regional-turboprop-097f26.glb) · [module](https://polyfork.dev/cdn/regional-turboprop-097f26.mjs) |
 | [Regolith Excavator](https://polyfork.dev/asset/regolith-excavator-06689b) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 1,968 | [GLB](https://polyfork.dev/cdn/regolith-excavator-06689b.glb) · [module](https://polyfork.dev/cdn/regolith-excavator-06689b.mjs) |
 | [Riding Lawn Tractor](https://polyfork.dev/asset/riding-lawn-tractor-09e93c) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 1,960 | [GLB](https://polyfork.dev/cdn/riding-lawn-tractor-09e93c.glb) · [module](https://polyfork.dev/cdn/riding-lawn-tractor-09e93c.mjs) |
 | [Rigid Site Dumper](https://polyfork.dev/asset/rigid-site-dumper-224eb0) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,701 | [GLB](https://polyfork.dev/cdn/rigid-site-dumper-224eb0.glb) · [module](https://polyfork.dev/cdn/rigid-site-dumper-224eb0.mjs) |
+| [River Barge](https://polyfork.dev/asset/river-barge-9b9f3d) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,652 | [GLB](https://polyfork.dev/cdn/river-barge-9b9f3d.glb) · [module](https://polyfork.dev/cdn/river-barge-9b9f3d.mjs) |
 | [Rooted gantry arm](https://polyfork.dev/asset/rooted-gantry-arm-f35c8f) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,549 | [GLB](https://polyfork.dev/cdn/rooted-gantry-arm-f35c8f.glb) · [module](https://polyfork.dev/cdn/rooted-gantry-arm-f35c8f.mjs) |
 | [Rowboat](https://polyfork.dev/asset/rowboat-c42d85) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 694 | [GLB](https://polyfork.dev/cdn/rowboat-c42d85.glb) · [module](https://polyfork.dev/cdn/rowboat-c42d85.mjs) |
 | [Rowing Dinghy](https://polyfork.dev/asset/rowing-dinghy-022673) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 2,265 | [GLB](https://polyfork.dev/cdn/rowing-dinghy-022673.glb) · [module](https://polyfork.dev/cdn/rowing-dinghy-022673.mjs) |

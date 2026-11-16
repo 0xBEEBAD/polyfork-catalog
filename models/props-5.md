@@ -1,11 +1,17 @@
 # Props
 
-2,107 free low-poly models. [All types](../README.md#browse-by-type)
+2,113 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [War Drum On Stand](https://polyfork.dev/asset/war-drum-on-stand-cbb91a) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 636 | [GLB](https://polyfork.dev/cdn/war-drum-on-stand-cbb91a.glb) · [module](https://polyfork.dev/cdn/war-drum-on-stand-cbb91a.mjs) |
+| [War Hammer](https://polyfork.dev/asset/war-hammer-656ffd) |  | 712 | [GLB](https://polyfork.dev/cdn/war-hammer-656ffd.glb) · [module](https://polyfork.dev/cdn/war-hammer-656ffd.mjs) |
+| [War Pick](https://polyfork.dev/asset/war-pick-4cd4eb) |  | 548 | [GLB](https://polyfork.dev/cdn/war-pick-4cd4eb.glb) · [module](https://polyfork.dev/cdn/war-pick-4cd4eb.mjs) |
+| [Wardrobe](https://polyfork.dev/asset/wardrobe-f3b2f2) | [Open Plan](../kits/open-plan-b2ebd3.md) | 364 | [GLB](https://polyfork.dev/cdn/wardrobe-f3b2f2.glb) · [module](https://polyfork.dev/cdn/wardrobe-f3b2f2.mjs) |
+| [Wash Bottle Set](https://polyfork.dev/asset/wash-bottle-set-88f3aa) | [Research Lab](../kits/research-lab-9b9b5d.md) | 669 | [GLB](https://polyfork.dev/cdn/wash-bottle-set-88f3aa.glb) · [module](https://polyfork.dev/cdn/wash-bottle-set-88f3aa.mjs) |
+| [Washing line](https://polyfork.dev/asset/washing-line-06b44e) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 776 | [GLB](https://polyfork.dev/cdn/washing-line-06b44e.glb) · [module](https://polyfork.dev/cdn/washing-line-06b44e.mjs) |
 | [Waste Bin](https://polyfork.dev/asset/waste-bin-sharps-bca988) | [Research Lab](../kits/research-lab-9b9b5d.md) | 556 | [GLB](https://polyfork.dev/cdn/waste-bin-sharps-bca988.glb) · [module](https://polyfork.dev/cdn/waste-bin-sharps-bca988.mjs) |
 | [Waste Sorting Station](https://polyfork.dev/asset/waste-sorting-station-adeefd) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 362 | [GLB](https://polyfork.dev/cdn/waste-sorting-station-adeefd.glb) · [module](https://polyfork.dev/cdn/waste-sorting-station-adeefd.mjs) |
 | [Wastepaper Bin](https://polyfork.dev/asset/wastepaper-bin-8f76b5) | [Office](../kits/office-794453.md) | 336 | [GLB](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.glb) · [module](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.mjs) |
