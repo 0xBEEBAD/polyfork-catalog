@@ -1,11 +1,12 @@
 # Props
 
-2,113 free low-poly models. [All types](../README.md#browse-by-type)
+2,122 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Curb Strip](https://polyfork.dev/asset/curb-strip-28e992) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 140 | [GLB](https://polyfork.dev/cdn/curb-strip-28e992.glb) · [module](https://polyfork.dev/cdn/curb-strip-28e992.mjs) |
 | [Curbside Dining Shed](https://polyfork.dev/asset/curbside-dining-shed-606329) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 926 | [GLB](https://polyfork.dev/cdn/curbside-dining-shed-606329.glb) · [module](https://polyfork.dev/cdn/curbside-dining-shed-606329.mjs) |
 | [Curbside Mailbox](https://polyfork.dev/asset/curbside-mailbox-0e0736) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 374 | [GLB](https://polyfork.dev/cdn/curbside-mailbox-0e0736.glb) · [module](https://polyfork.dev/cdn/curbside-mailbox-0e0736.mjs) |
 | [Curtain Panel](https://polyfork.dev/asset/curtain-panel-ee2ed9) | [Open Plan](../kits/open-plan-b2ebd3.md) | 620 | [GLB](https://polyfork.dev/cdn/curtain-panel-ee2ed9.glb) · [module](https://polyfork.dev/cdn/curtain-panel-ee2ed9.mjs) |
@@ -248,6 +249,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Gem Display Cushion](https://polyfork.dev/asset/gem-display-cushion-024541) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 704 | [GLB](https://polyfork.dev/cdn/gem-display-cushion-024541.glb) · [module](https://polyfork.dev/cdn/gem-display-cushion-024541.mjs) |
 | [Geode Boulder](https://polyfork.dev/asset/geode-boulder-e8091d) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 589 | [GLB](https://polyfork.dev/cdn/geode-boulder-e8091d.glb) · [module](https://polyfork.dev/cdn/geode-boulder-e8091d.mjs) |
 | [Geode Dragon Egg](https://polyfork.dev/asset/geode-dragon-egg-89141e) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 657 | [GLB](https://polyfork.dev/cdn/geode-dragon-egg-89141e.glb) · [module](https://polyfork.dev/cdn/geode-dragon-egg-89141e.mjs) |
+| [Geraniums in Olive Oil Tins](https://polyfork.dev/asset/geraniums-in-olive-oil-70e682) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 958 | [GLB](https://polyfork.dev/cdn/geraniums-in-olive-oil-70e682.glb) · [module](https://polyfork.dev/cdn/geraniums-in-olive-oil-70e682.mjs) |
 | [Geyser Cone](https://polyfork.dev/asset/geyser-cone-2b5033) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 524 | [GLB](https://polyfork.dev/cdn/geyser-cone-2b5033.glb) · [module](https://polyfork.dev/cdn/geyser-cone-2b5033.mjs) |
 | [Ghost Net Drape](https://polyfork.dev/asset/ghost-net-drape-50890a) | [Coral Reef](../kits/coral-reef-a7128a.md) | 788 | [GLB](https://polyfork.dev/cdn/ghost-net-drape-50890a.glb) · [module](https://polyfork.dev/cdn/ghost-net-drape-50890a.mjs) |
 | [Giant Dragon Rib](https://polyfork.dev/asset/giant-dragon-rib-0e42d9) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 688 | [GLB](https://polyfork.dev/cdn/giant-dragon-rib-0e42d9.glb) · [module](https://polyfork.dev/cdn/giant-dragon-rib-0e42d9.mjs) |
@@ -504,6 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Lifting Barrier Arm](https://polyfork.dev/asset/lifting-barrier-arm-64a343) | [Airport](../kits/airport-43b137.md) | 658 | [GLB](https://polyfork.dev/cdn/lifting-barrier-arm-64a343.glb) · [module](https://polyfork.dev/cdn/lifting-barrier-arm-64a343.mjs) |
 | [Light Gizmo](https://polyfork.dev/asset/light-gizmo-8efad9) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 698 | [GLB](https://polyfork.dev/cdn/light-gizmo-8efad9.glb) · [module](https://polyfork.dev/cdn/light-gizmo-8efad9.mjs) |
 | [Light-Up Wireframe Reindeer](https://polyfork.dev/asset/light-up-wireframe-reindeer-8627df) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 920 | [GLB](https://polyfork.dev/cdn/light-up-wireframe-reindeer-8627df.glb) · [module](https://polyfork.dev/cdn/light-up-wireframe-reindeer-8627df.mjs) |
-| [Lily Pad](https://polyfork.dev/asset/lily-pad-86edbb) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 398 | [GLB](https://polyfork.dev/cdn/lily-pad-86edbb.glb) · [module](https://polyfork.dev/cdn/lily-pad-86edbb.mjs) |
-| [Lily Pad Cluster](https://polyfork.dev/asset/lily-pad-cluster-457382) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 670 | [GLB](https://polyfork.dev/cdn/lily-pad-cluster-457382.glb) · [module](https://polyfork.dev/cdn/lily-pad-cluster-457382.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)

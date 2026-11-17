@@ -1,6 +1,6 @@
 # Props
 
-2,113 free low-poly models. [All types](../README.md#browse-by-type)
+2,122 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -496,6 +496,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Crossing Gate](https://polyfork.dev/asset/crossing-gate-50bcee) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 828 | [GLB](https://polyfork.dev/cdn/crossing-gate-50bcee.glb) · [module](https://polyfork.dev/cdn/crossing-gate-50bcee.mjs) |
 | [Crown](https://polyfork.dev/asset/crown-a294ce) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 622 | [GLB](https://polyfork.dev/cdn/crown-a294ce.glb) · [module](https://polyfork.dev/cdn/crown-a294ce.mjs) |
 | [Cruiser and Longboard](https://polyfork.dev/asset/cruiser-and-longboard-b3d081) | [Skatepark kit](../kits/skatepark-0922a9.md) | 860 | [GLB](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.glb) · [module](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.mjs) |
+| [Crypt Flagstone Floor](https://polyfork.dev/asset/crypt-flagstone-floor-b86b1a) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 680 | [GLB](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.glb) · [module](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.mjs) |
 | [Crypt Grave Markers](https://polyfork.dev/asset/crypt-grave-markers-8fd1ef) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 535 | [GLB](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.glb) · [module](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.mjs) |
 | [Crypt Well Head](https://polyfork.dev/asset/crypt-well-head-d368f3) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 891 | [GLB](https://polyfork.dev/cdn/crypt-well-head-d368f3.glb) · [module](https://polyfork.dev/cdn/crypt-well-head-d368f3.mjs) |
 | [Crystal Chandelier](https://polyfork.dev/asset/crystal-chandelier-55d279) | [Hotel Casino kit](../kits/casino-3dd029.md) | 772 | [GLB](https://polyfork.dev/cdn/crystal-chandelier-55d279.glb) · [module](https://polyfork.dev/cdn/crystal-chandelier-55d279.mjs) |
@@ -505,5 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Crystal-Veined Slab](https://polyfork.dev/asset/crystal-veined-slab-375a56) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 372 | [GLB](https://polyfork.dev/cdn/crystal-veined-slab-375a56.glb) · [module](https://polyfork.dev/cdn/crystal-veined-slab-375a56.mjs) |
 | [CT Scanner Gantry](https://polyfork.dev/asset/ct-scanner-gantry-2032b8) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 562 | [GLB](https://polyfork.dev/cdn/ct-scanner-gantry-2032b8.glb) · [module](https://polyfork.dev/cdn/ct-scanner-gantry-2032b8.mjs) |
 | [Cueca Handkerchief](https://polyfork.dev/asset/cueca-handkerchief-8a9e28) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 468 | [GLB](https://polyfork.dev/cdn/cueca-handkerchief-8a9e28.glb) · [module](https://polyfork.dev/cdn/cueca-handkerchief-8a9e28.mjs) |
-| [Curb Strip](https://polyfork.dev/asset/curb-strip-28e992) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 140 | [GLB](https://polyfork.dev/cdn/curb-strip-28e992.glb) · [module](https://polyfork.dev/cdn/curb-strip-28e992.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

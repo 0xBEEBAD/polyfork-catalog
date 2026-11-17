@@ -1,6 +1,6 @@
 # Buildings
 
-436 free low-poly models. [All types](../README.md#browse-by-type)
+438 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -179,6 +179,7 @@
 | [Habitat Module](https://polyfork.dev/asset/habitat-module-b8ecc4) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 1,206 | [GLB](https://polyfork.dev/cdn/habitat-module-b8ecc4.glb) · [module](https://polyfork.dev/cdn/habitat-module-b8ecc4.mjs) |
 | [Hall Stage Deck](https://polyfork.dev/asset/hall-stage-deck-1f5a11) |  | 322 | [GLB](https://polyfork.dev/cdn/hall-stage-deck-1f5a11.glb) · [module](https://polyfork.dev/cdn/hall-stage-deck-1f5a11.mjs) |
 | [Harbour Jetty Run](https://polyfork.dev/asset/harbour-jetty-run-bc1c7c) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,772 | [GLB](https://polyfork.dev/cdn/harbour-jetty-run-bc1c7c.glb) · [module](https://polyfork.dev/cdn/harbour-jetty-run-bc1c7c.mjs) |
+| [Harbour Master's Hut](https://polyfork.dev/asset/harbour-master-s-hut-226f34) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 1,468 | [GLB](https://polyfork.dev/cdn/harbour-master-s-hut-226f34.glb) · [module](https://polyfork.dev/cdn/harbour-master-s-hut-226f34.mjs) |
 | [Hare Moa Chicken House](https://polyfork.dev/asset/hare-moa-chicken-house-fb5ed7) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,323 | [GLB](https://polyfork.dev/cdn/hare-moa-chicken-house-fb5ed7.glb) · [module](https://polyfork.dev/cdn/hare-moa-chicken-house-fb5ed7.mjs) |
 | [Hare Paenga Boat House](https://polyfork.dev/asset/hare-paenga-boat-house-8cd4c9) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,713 | [GLB](https://polyfork.dev/cdn/hare-paenga-boat-house-8cd4c9.glb) · [module](https://polyfork.dev/cdn/hare-paenga-boat-house-8cd4c9.mjs) |
 | [Haunted Victorian House](https://polyfork.dev/asset/haunted-victorian-house-886931) | [Halloween Night](../kits/halloween-night-46ade4.md) | 2,322 | [GLB](https://polyfork.dev/cdn/haunted-victorian-house-886931.glb) · [module](https://polyfork.dev/cdn/haunted-victorian-house-886931.mjs) |
@@ -322,6 +323,7 @@
 | [Rope Bridge Span](https://polyfork.dev/asset/rope-bridge-span-159f8c) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 1,540 | [GLB](https://polyfork.dev/cdn/rope-bridge-span-159f8c.glb) · [module](https://polyfork.dev/cdn/rope-bridge-span-159f8c.mjs) |
 | [Rover Garage](https://polyfork.dev/asset/rover-garage-273fb1) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 614 | [GLB](https://polyfork.dev/cdn/rover-garage-273fb1.glb) · [module](https://polyfork.dev/cdn/rover-garage-273fb1.mjs) |
 | [Ruined Gable End](https://polyfork.dev/asset/ruined-gable-end-834895) |  | 1,020 | [GLB](https://polyfork.dev/cdn/ruined-gable-end-834895.glb) · [module](https://polyfork.dev/cdn/ruined-gable-end-834895.mjs) |
+| [Ruined Nave Wall](https://polyfork.dev/asset/ruined-nave-wall-43d9a0) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 1,566 | [GLB](https://polyfork.dev/cdn/ruined-nave-wall-43d9a0.glb) · [module](https://polyfork.dev/cdn/ruined-nave-wall-43d9a0.mjs) |
 | [Saloon](https://polyfork.dev/asset/saloon-6dda1c) | [Frontier Town](../kits/frontier-town-a0085b.md) | 1,394 | [GLB](https://polyfork.dev/cdn/saloon-6dda1c.glb) · [module](https://polyfork.dev/cdn/saloon-6dda1c.mjs) |
 | [Scaffold Bay](https://polyfork.dev/asset/scaffold-bay-4e051b) | [Construction Site](../kits/construction-site-9e40b0.md) | 762 | [GLB](https://polyfork.dev/cdn/scaffold-bay-4e051b.glb) · [module](https://polyfork.dev/cdn/scaffold-bay-4e051b.mjs) |
 | [Scaffold Camera Platform](https://polyfork.dev/asset/scaffold-camera-platform-b6702c) | [Stadium](../kits/stadium-5db167.md) | 1,608 | [GLB](https://polyfork.dev/cdn/scaffold-camera-platform-b6702c.glb) · [module](https://polyfork.dev/cdn/scaffold-camera-platform-b6702c.mjs) |
@@ -349,7 +351,7 @@
 | [Ski Lift Base Station](https://polyfork.dev/asset/ski-lift-base-station-924491) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 1,834 | [GLB](https://polyfork.dev/cdn/ski-lift-base-station-924491.glb) · [module](https://polyfork.dev/cdn/ski-lift-base-station-924491.mjs) |
 | [Sky Bridge Span](https://polyfork.dev/asset/sky-bridge-span-26fcde) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 572 | [GLB](https://polyfork.dev/cdn/sky-bridge-span-26fcde.glb) · [module](https://polyfork.dev/cdn/sky-bridge-span-26fcde.mjs) |
 | [Slab Apartment Block](https://polyfork.dev/asset/slab-apartment-block-1b02a2) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 1,216 | [GLB](https://polyfork.dev/cdn/slab-apartment-block-1b02a2.glb) · [module](https://polyfork.dev/cdn/slab-apartment-block-1b02a2.mjs) |
-| [Slipway Ramp](https://polyfork.dev/asset/slipway-ramp-1e595f) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 1,340 | [GLB](https://polyfork.dev/cdn/slipway-ramp-1e595f.glb) · [module](https://polyfork.dev/cdn/slipway-ramp-1e595f.mjs) |
+| [Slipway Ramp](https://polyfork.dev/asset/slipway-ramp-1e595f) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 1,430 | [GLB](https://polyfork.dev/cdn/slipway-ramp-1e595f.glb) · [module](https://polyfork.dev/cdn/slipway-ramp-1e595f.mjs) |
 | [Small Shrine Hall](https://polyfork.dev/asset/small-shrine-hall-cb8b25) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 1,432 | [GLB](https://polyfork.dev/cdn/small-shrine-hall-cb8b25.glb) · [module](https://polyfork.dev/cdn/small-shrine-hall-cb8b25.mjs) |
 | [Smelting Furnace](https://polyfork.dev/asset/smelting-furnace-3209f1) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 1,870 | [GLB](https://polyfork.dev/cdn/smelting-furnace-3209f1.glb) · [module](https://polyfork.dev/cdn/smelting-furnace-3209f1.mjs) |
 | [Smoking Shelter](https://polyfork.dev/asset/smoking-shelter-7e149f) | [Construction Site](../kits/construction-site-9e40b0.md) | 1,564 | [GLB](https://polyfork.dev/cdn/smoking-shelter-7e149f.glb) · [module](https://polyfork.dev/cdn/smoking-shelter-7e149f.mjs) |

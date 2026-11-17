@@ -1,9 +1,10 @@
 # Terrain
 
-21 free low-poly models. [All types](../README.md#browse-by-type)
+22 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Airport Terrain](https://polyfork.dev/asset/airport-terrain-0871f3) | [Airport](../kits/airport-43b137.md) | 17,252 | [GLB](https://polyfork.dev/cdn/airport-terrain-0871f3.glb) · [module](https://polyfork.dev/cdn/airport-terrain-0871f3.mjs) |
 | [Campground & Lake Terrain](https://polyfork.dev/asset/campground-lake-terrain-b5f899) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 27,564 | [GLB](https://polyfork.dev/cdn/campground-lake-terrain-b5f899.glb) · [module](https://polyfork.dev/cdn/campground-lake-terrain-b5f899.mjs) |
 | [Chile: Fiestas Patrias Terrain](https://polyfork.dev/asset/chile-fiestas-patrias-terrain-c8ce87) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 25,328 | [GLB](https://polyfork.dev/cdn/chile-fiestas-patrias-terrain-c8ce87.glb) · [module](https://polyfork.dev/cdn/chile-fiestas-patrias-terrain-c8ce87.mjs) |
 | [Christmas Village Terrain](https://polyfork.dev/asset/christmas-village-terrain-662c58) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 25,328 | [GLB](https://polyfork.dev/cdn/christmas-village-terrain-662c58.glb) · [module](https://polyfork.dev/cdn/christmas-village-terrain-662c58.mjs) |

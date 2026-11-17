@@ -1,11 +1,20 @@
 # Props
 
-2,113 free low-poly models. [All types](../README.md#browse-by-type)
+2,122 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Wall First Aid Box](https://polyfork.dev/asset/wall-first-aid-box-7ffc6c) | [Office](../kits/office-794453.md) | 402 | [GLB](https://polyfork.dev/cdn/wall-first-aid-box-7ffc6c.glb) · [module](https://polyfork.dev/cdn/wall-first-aid-box-7ffc6c.mjs) |
+| [Wall First Aid Box](https://polyfork.dev/asset/wall-first-aid-box-95c087) |  | 434 | [GLB](https://polyfork.dev/cdn/wall-first-aid-box-95c087.glb) · [module](https://polyfork.dev/cdn/wall-first-aid-box-95c087.mjs) |
+| [Wall Lantern](https://polyfork.dev/asset/wall-lantern-abf2b1) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 882 | [GLB](https://polyfork.dev/cdn/wall-lantern-abf2b1.glb) · [module](https://polyfork.dev/cdn/wall-lantern-abf2b1.mjs) |
+| [Wall Manacle Fitting](https://polyfork.dev/asset/wall-manacle-fitting-e80d3a) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 554 | [GLB](https://polyfork.dev/cdn/wall-manacle-fitting-e80d3a.glb) · [module](https://polyfork.dev/cdn/wall-manacle-fitting-e80d3a.mjs) |
+| [Wall Torch Bracket](https://polyfork.dev/asset/wall-torch-bracket-f5ad14) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 704 | [GLB](https://polyfork.dev/cdn/wall-torch-bracket-f5ad14.glb) · [module](https://polyfork.dev/cdn/wall-torch-bracket-f5ad14.mjs) |
+| [Wall Torch Sconce](https://polyfork.dev/asset/wall-torch-sconce-6ddb52) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 457 | [GLB](https://polyfork.dev/cdn/wall-torch-sconce-6ddb52.glb) · [module](https://polyfork.dev/cdn/wall-torch-sconce-6ddb52.mjs) |
+| [Wall vine curtain](https://polyfork.dev/asset/wall-vine-curtain-c45b4e) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 871 | [GLB](https://polyfork.dev/cdn/wall-vine-curtain-c45b4e.glb) · [module](https://polyfork.dev/cdn/wall-vine-curtain-c45b4e.mjs) |
+| [Wallride Wall](https://polyfork.dev/asset/wallride-wall-ae0128) | [Skatepark kit](../kits/skatepark-0922a9.md) | 292 | [GLB](https://polyfork.dev/cdn/wallride-wall-ae0128.glb) · [module](https://polyfork.dev/cdn/wallride-wall-ae0128.mjs) |
+| [Wanted Poster Board](https://polyfork.dev/asset/wanted-poster-board-ccbeb1) | [Frontier Town](../kits/frontier-town-a0085b.md) | 636 | [GLB](https://polyfork.dev/cdn/wanted-poster-board-ccbeb1.glb) · [module](https://polyfork.dev/cdn/wanted-poster-board-ccbeb1.mjs) |
 | [War Drum On Stand](https://polyfork.dev/asset/war-drum-on-stand-cbb91a) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 636 | [GLB](https://polyfork.dev/cdn/war-drum-on-stand-cbb91a.glb) · [module](https://polyfork.dev/cdn/war-drum-on-stand-cbb91a.mjs) |
 | [War Hammer](https://polyfork.dev/asset/war-hammer-656ffd) |  | 712 | [GLB](https://polyfork.dev/cdn/war-hammer-656ffd.glb) · [module](https://polyfork.dev/cdn/war-hammer-656ffd.mjs) |
 | [War Pick](https://polyfork.dev/asset/war-pick-4cd4eb) |  | 548 | [GLB](https://polyfork.dev/cdn/war-pick-4cd4eb.glb) · [module](https://polyfork.dev/cdn/war-pick-4cd4eb.mjs) |
