@@ -1,6 +1,6 @@
 # Polyfork: free low-poly 3D models
 
-**3,391 free low-poly 3D models and 35 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
+**3,422 free low-poly 3D models and 35 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
 
 [Browse on polyfork.dev](https://polyfork.dev/assets) · [Kits](#kits) · [By type](#browse-by-type) · [catalog.json](catalog.json)
 
@@ -127,7 +127,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 
 ### In production
 
-- [Airport](kits/airport-43b137.md), 37 parts so far
+- [Airport](kits/airport-43b137.md), 66 parts so far
 - [Christmas Village](kits/christmas-village-fbc27a.md), 28 parts so far
 - [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 62 parts so far
 - [Dungeon & Crypt](kits/dungeon-crypt-c27d93.md), 67 parts so far
@@ -136,7 +136,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 - [Industrial Freight Yard](kits/warehouse-and-logistics-activity-f7e79d.md), 2 parts so far
 - [Insect World kit](kits/insect-world-e44b9f.md), 58 parts so far
 - [Medieval Japan](kits/medieval-japan-cb01ad.md), 60 parts so far
-- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 23 parts so far
+- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 25 parts so far
 - [Mythic Character Vault](kits/the-ultimate-rpg-character-a066e1.md), 63 parts so far
 - [Open Plan](kits/open-plan-b2ebd3.md), 63 parts so far
 - [Prehistoric Valley](kits/prehistoric-valley-8638dc.md), 59 parts so far
@@ -151,9 +151,9 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 |---|--:|
 | [Characters](models/characters.md) | 199 |
 | [Animals](models/animals.md) | 272 |
-| [Buildings](models/buildings.md) | 438 |
-| [Vehicles](models/vehicles.md) | 202 |
-| [Props](models/props.md) | 2,122 |
+| [Buildings](models/buildings.md) | 446 |
+| [Vehicles](models/vehicles.md) | 205 |
+| [Props](models/props.md) | 2,142 |
 | [Terrain](models/terrain.md) | 22 |
 | [Attachments](models/attachments.md) | 48 |
 | [Nano](models/nano.md) | 86 |

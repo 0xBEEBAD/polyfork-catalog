@@ -1,12 +1,13 @@
 # Vehicles
 
-202 free low-poly models. [All types](../README.md#browse-by-type)
+205 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
 | [Agile Starfighter](https://polyfork.dev/asset/agile-starfighter-89805f) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 3,707 | [GLB](https://polyfork.dev/cdn/agile-starfighter-89805f.glb) · [module](https://polyfork.dev/cdn/agile-starfighter-89805f.mjs) |
 | [Air Ambulance Helicopter](https://polyfork.dev/asset/air-ambulance-helicopter-ed9acc) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 1,686 | [GLB](https://polyfork.dev/cdn/air-ambulance-helicopter-ed9acc.glb) · [module](https://polyfork.dev/cdn/air-ambulance-helicopter-ed9acc.mjs) |
 | [Airport Crash Tender](https://polyfork.dev/asset/airport-crash-tender-2422ba) | [Airport](../kits/airport-43b137.md) | 3,324 | [GLB](https://polyfork.dev/cdn/airport-crash-tender-2422ba.glb) · [module](https://polyfork.dev/cdn/airport-crash-tender-2422ba.mjs) |
+| [Airstairs Truck](https://polyfork.dev/asset/airstairs-truck-de0f4b) | [Airport](../kits/airport-43b137.md) | 2,954 | [GLB](https://polyfork.dev/cdn/airstairs-truck-de0f4b.glb) · [module](https://polyfork.dev/cdn/airstairs-truck-de0f4b.mjs) |
 | [Alien Raider](https://polyfork.dev/asset/alien-raider-98249f) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 3,632 | [GLB](https://polyfork.dev/cdn/alien-raider-98249f.glb) · [module](https://polyfork.dev/cdn/alien-raider-98249f.mjs) |
 | [Ambulance Van](https://polyfork.dev/asset/ambulance-van-29919a) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 1,656 | [GLB](https://polyfork.dev/cdn/ambulance-van-29919a.glb) · [module](https://polyfork.dev/cdn/ambulance-van-29919a.mjs) |
 | [Anti-Aircraft Gun](https://polyfork.dev/asset/anti-aircraft-gun-93cc80) |  | 1,014 | [GLB](https://polyfork.dev/cdn/anti-aircraft-gun-93cc80.glb) · [module](https://polyfork.dev/cdn/anti-aircraft-gun-93cc80.mjs) |
@@ -30,6 +31,7 @@
 | [Camper-van](https://polyfork.dev/asset/camper-van-8d10e2) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 3,971 | [GLB](https://polyfork.dev/cdn/camper-van-8d10e2.glb) · [module](https://polyfork.dev/cdn/camper-van-8d10e2.mjs) |
 | [Campus Shuttle Bus](https://polyfork.dev/asset/campus-shuttle-bus-27dcaa) | [University](../kits/university-959b66.md) | 2,616 | [GLB](https://polyfork.dev/cdn/campus-shuttle-bus-27dcaa.glb) · [module](https://polyfork.dev/cdn/campus-shuttle-bus-27dcaa.mjs) |
 | [Capital Cruiser](https://polyfork.dev/asset/capital-cruiser-482162) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 4,320 | [GLB](https://polyfork.dev/cdn/capital-cruiser-482162.glb) · [module](https://polyfork.dev/cdn/capital-cruiser-482162.mjs) |
+| [Cargo Forklift](https://polyfork.dev/asset/cargo-forklift-91f591) | [Airport](../kits/airport-43b137.md) | 2,546 | [GLB](https://polyfork.dev/cdn/cargo-forklift-91f591.glb) · [module](https://polyfork.dev/cdn/cargo-forklift-91f591.mjs) |
 | [Cargo Freighter](https://polyfork.dev/asset/cargo-freighter-b4377e) | [Airport](../kits/airport-43b137.md) | 5,151 | [GLB](https://polyfork.dev/cdn/cargo-freighter-b4377e.glb) · [module](https://polyfork.dev/cdn/cargo-freighter-b4377e.mjs) |
 | [Cargo Freighter](https://polyfork.dev/asset/cargo-freighter-d89fdc) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 4,310 | [GLB](https://polyfork.dev/cdn/cargo-freighter-d89fdc.glb) · [module](https://polyfork.dev/cdn/cargo-freighter-d89fdc.mjs) |
 | [Cargo Loader](https://polyfork.dev/asset/cargo-loader-a3da44) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 1,998 | [GLB](https://polyfork.dev/cdn/cargo-loader-a3da44.glb) · [module](https://polyfork.dev/cdn/cargo-loader-a3da44.mjs) |
@@ -38,6 +40,7 @@
 | [Cargo Trailer](https://polyfork.dev/asset/cargo-trailer-66ea3c) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 1,252 | [GLB](https://polyfork.dev/cdn/cargo-trailer-66ea3c.glb) · [module](https://polyfork.dev/cdn/cargo-trailer-66ea3c.mjs) |
 | [Cargo walker](https://polyfork.dev/asset/cargo-walker-6b8a31) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,887 | [GLB](https://polyfork.dev/cdn/cargo-walker-6b8a31.glb) · [module](https://polyfork.dev/cdn/cargo-walker-6b8a31.mjs) |
 | [Carreta](https://polyfork.dev/asset/carreta-caeccd) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 1,424 | [GLB](https://polyfork.dev/cdn/carreta-caeccd.glb) · [module](https://polyfork.dev/cdn/carreta-caeccd.mjs) |
+| [Catering Truck](https://polyfork.dev/asset/catering-truck-496150) | [Airport](../kits/airport-43b137.md) | 2,764 | [GLB](https://polyfork.dev/cdn/catering-truck-496150.glb) · [module](https://polyfork.dev/cdn/catering-truck-496150.mjs) |
 | [Cattle Wagon](https://polyfork.dev/asset/cattle-wagon-0d3070) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,167 | [GLB](https://polyfork.dev/cdn/cattle-wagon-0d3070.glb) · [module](https://polyfork.dev/cdn/cattle-wagon-0d3070.mjs) |
 | [Chain Trencher](https://polyfork.dev/asset/chain-trencher-215857) | [Construction Site](../kits/construction-site-9e40b0.md) | 3,278 | [GLB](https://polyfork.dev/cdn/chain-trencher-215857.glb) · [module](https://polyfork.dev/cdn/chain-trencher-215857.mjs) |
 | [Chairlift Chair](https://polyfork.dev/asset/chairlift-chair-2beb2b) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 2,596 | [GLB](https://polyfork.dev/cdn/chairlift-chair-2beb2b.glb) · [module](https://polyfork.dev/cdn/chairlift-chair-2beb2b.mjs) |
