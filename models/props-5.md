@@ -1,11 +1,19 @@
 # Props
 
-2,142 free low-poly models. [All types](../README.md#browse-by-type)
+2,150 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Velvet Tub Chair](https://polyfork.dev/asset/velvet-tub-chair-b0b5f8) | [Hotel Casino kit](../kits/casino-3dd029.md) | 684 | [GLB](https://polyfork.dev/cdn/velvet-tub-chair-b0b5f8.glb) · [module](https://polyfork.dev/cdn/velvet-tub-chair-b0b5f8.mjs) |
+| [Vending Machine](https://polyfork.dev/asset/vending-machine-471c29) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 692 | [GLB](https://polyfork.dev/cdn/vending-machine-471c29.glb) · [module](https://polyfork.dev/cdn/vending-machine-471c29.mjs) |
+| [Ventilated Hide Food Larder](https://polyfork.dev/asset/ventilated-hide-food-larder-f53174) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 931 | [GLB](https://polyfork.dev/cdn/ventilated-hide-food-larder-f53174.glb) · [module](https://polyfork.dev/cdn/ventilated-hide-food-larder-f53174.mjs) |
+| [Vertical Kanji Signboard](https://polyfork.dev/asset/vertical-kanji-signboard-cc5162) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 330 | [GLB](https://polyfork.dev/cdn/vertical-kanji-signboard-cc5162.glb) · [module](https://polyfork.dev/cdn/vertical-kanji-signboard-cc5162.mjs) |
+| [Vibraphone](https://polyfork.dev/asset/vibraphone-e48315) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 998 | [GLB](https://polyfork.dev/cdn/vibraphone-e48315.glb) · [module](https://polyfork.dev/cdn/vibraphone-e48315.mjs) |
+| [Video Slot Machine](https://polyfork.dev/asset/video-slot-machine-bbecb9) | [Hotel Casino kit](../kits/casino-3dd029.md) | 594 | [GLB](https://polyfork.dev/cdn/video-slot-machine-bbecb9.glb) · [module](https://polyfork.dev/cdn/video-slot-machine-bbecb9.mjs) |
+| [View Cube](https://polyfork.dev/asset/view-cube-1f8553) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 948 | [GLB](https://polyfork.dev/cdn/view-cube-1f8553.glb) · [module](https://polyfork.dev/cdn/view-cube-1f8553.mjs) |
+| [Village Hall](https://polyfork.dev/asset/village-hall-c6d3c8) |  | 11,156 | [GLB](https://polyfork.dev/cdn/village-hall-c6d3c8.glb) · [module](https://polyfork.dev/cdn/village-hall-c6d3c8.mjs) |
 | [Village Well](https://polyfork.dev/asset/village-well-f8e361) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 788 | [GLB](https://polyfork.dev/cdn/village-well-f8e361.glb) · [module](https://polyfork.dev/cdn/village-well-f8e361.mjs) |
 | [Vintage Microphone Stand](https://polyfork.dev/asset/vintage-microphone-stand-c5ba82) | [Hotel Casino kit](../kits/casino-3dd029.md) | 844 | [GLB](https://polyfork.dev/cdn/vintage-microphone-stand-c5ba82.glb) · [module](https://polyfork.dev/cdn/vintage-microphone-stand-c5ba82.mjs) |
 | [Vinyl Event Banner](https://polyfork.dev/asset/vinyl-event-banner-85e835) | [Skatepark kit](../kits/skatepark-0922a9.md) | 559 | [GLB](https://polyfork.dev/cdn/vinyl-event-banner-85e835.glb) · [module](https://polyfork.dev/cdn/vinyl-event-banner-85e835.mjs) |

@@ -2,7 +2,7 @@
 
 <img src="../covers/christmas-village-fbc27a.jpg" width="480" alt="Christmas Village low-poly 3D kit">
 
-In production, 28 parts so far. Every part below is already free to use.
+In production, 29 parts so far. Every part below is already free to use.
 
 [Open the kit on Polyfork](https://polyfork.dev/kit/christmas-village-fbc27a) · [All kits](../README.md#kits)
 
@@ -39,14 +39,17 @@ In production, 28 parts so far. Every part below is already free to use.
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/parent-carrying-a-cut-b77909"><img src="https://polyfork.dev/files/parent-carrying-a-cut-b77909/renders/hero.png?v=1794950861" width="150" alt="Parent Carrying a Cut Tree"></a><br><a href="https://polyfork.dev/asset/parent-carrying-a-cut-b77909">Parent Carrying a Cut Tree</a><br><sub><a href="https://polyfork.dev/cdn/parent-carrying-a-cut-b77909.glb">GLB</a> · <a href="https://polyfork.dev/cdn/parent-carrying-a-cut-b77909.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/reindeer-20ef93"><img src="https://polyfork.dev/files/reindeer-20ef93/renders/hero.png?v=1795042106" width="150" alt="Reindeer"></a><br><a href="https://polyfork.dev/asset/reindeer-20ef93">Reindeer</a><br><sub><a href="https://polyfork.dev/cdn/reindeer-20ef93.glb">GLB</a> · <a href="https://polyfork.dev/cdn/reindeer-20ef93.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/roofline-string-light-run-fa1160"><img src="https://polyfork.dev/files/roofline-string-light-run-fa1160/renders/hero.png?v=1794322407" width="150" alt="Roofline String Light Run"></a><br><a href="https://polyfork.dev/asset/roofline-string-light-run-fa1160">Roofline String Light Run</a><br><sub><a href="https://polyfork.dev/cdn/roofline-string-light-run-fa1160.glb">GLB</a> · <a href="https://polyfork.dev/cdn/roofline-string-light-run-fa1160.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/sack-of-toys-c53e9e"><img src="https://polyfork.dev/files/sack-of-toys-c53e9e/renders/hero.png?v=1794404314" width="150" alt="Sack of Toys"></a><br><a href="https://polyfork.dev/asset/sack-of-toys-c53e9e">Sack of Toys</a><br><sub><a href="https://polyfork.dev/cdn/sack-of-toys-c53e9e.glb">GLB</a> · <a href="https://polyfork.dev/cdn/sack-of-toys-c53e9e.mjs">module</a></sub></td>
-<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/santa-0e0332"><img src="https://polyfork.dev/files/santa-0e0332/renders/hero.png?v=1794954016" width="150" alt="Santa"></a><br><a href="https://polyfork.dev/asset/santa-0e0332">Santa</a><br><sub><a href="https://polyfork.dev/cdn/santa-0e0332.glb">GLB</a> · <a href="https://polyfork.dev/cdn/santa-0e0332.mjs">module</a></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/santa-0e0332"><img src="https://polyfork.dev/files/santa-0e0332/renders/hero.png?v=1794954016" width="150" alt="Santa"></a><br><a href="https://polyfork.dev/asset/santa-0e0332">Santa</a><br><sub><a href="https://polyfork.dev/cdn/santa-0e0332.glb">GLB</a> · <a href="https://polyfork.dev/cdn/santa-0e0332.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/santa-s-sleigh-f1a047"><img src="https://polyfork.dev/files/santa-s-sleigh-f1a047/renders/hero.png?v=1794405244" width="150" alt="Santa&#039;s Sleigh"></a><br><a href="https://polyfork.dev/asset/santa-s-sleigh-f1a047">Santa&#039;s Sleigh</a><br><sub><a href="https://polyfork.dev/cdn/santa-s-sleigh-f1a047.glb">GLB</a> · <a href="https://polyfork.dev/cdn/santa-s-sleigh-f1a047.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/snow-shovel-4196ff"><img src="https://polyfork.dev/files/snow-shovel-4196ff/renders/hero.png?v=1794407115" width="150" alt="Snow Shovel"></a><br><a href="https://polyfork.dev/asset/snow-shovel-4196ff">Snow Shovel</a><br><sub><a href="https://polyfork.dev/cdn/snow-shovel-4196ff.glb">GLB</a> · <a href="https://polyfork.dev/cdn/snow-shovel-4196ff.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/snowman-18c02d"><img src="https://polyfork.dev/files/snowman-18c02d/renders/hero.png?v=1794347187" width="150" alt="Snowman"></a><br><a href="https://polyfork.dev/asset/snowman-18c02d">Snowman</a><br><sub><a href="https://polyfork.dev/cdn/snowman-18c02d.glb">GLB</a> · <a href="https://polyfork.dev/cdn/snowman-18c02d.mjs">module</a></sub></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/wrapped-present-pile-b2ddd9"><img src="https://polyfork.dev/files/wrapped-present-pile-b2ddd9/renders/hero.png?v=1794347605" width="150" alt="Wrapped Present Pile"></a><br><a href="https://polyfork.dev/asset/wrapped-present-pile-b2ddd9">Wrapped Present Pile</a><br><sub><a href="https://polyfork.dev/cdn/wrapped-present-pile-b2ddd9.glb">GLB</a> · <a href="https://polyfork.dev/cdn/wrapped-present-pile-b2ddd9.mjs">module</a></sub></td>
 </tr>
 </table>

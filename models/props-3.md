@@ -1,11 +1,16 @@
 # Props
 
-2,142 free low-poly models. [All types](../README.md#browse-by-type)
+2,150 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Leather Belt Satchel](https://polyfork.dev/asset/leather-belt-satchel-5bb107) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 675 | [GLB](https://polyfork.dev/cdn/leather-belt-satchel-5bb107.glb) · [module](https://polyfork.dev/cdn/leather-belt-satchel-5bb107.mjs) |
+| [Leather Dice Cup](https://polyfork.dev/asset/leather-dice-cup-f99a7e) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 790 | [GLB](https://polyfork.dev/cdn/leather-dice-cup-f99a7e.glb) · [module](https://polyfork.dev/cdn/leather-dice-cup-f99a7e.mjs) |
+| [Leather Forge Bellows](https://polyfork.dev/asset/leather-forge-bellows-7f6d42) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 872 | [GLB](https://polyfork.dev/cdn/leather-forge-bellows-7f6d42.glb) · [module](https://polyfork.dev/cdn/leather-forge-bellows-7f6d42.mjs) |
+| [Lecture Theatre Seating Run](https://polyfork.dev/asset/lecture-theatre-seating-run-71475a) | [University](../kits/university-959b66.md) | 418 | [GLB](https://polyfork.dev/cdn/lecture-theatre-seating-run-71475a.glb) · [module](https://polyfork.dev/cdn/lecture-theatre-seating-run-71475a.mjs) |
+| [Lecturer's Podium](https://polyfork.dev/asset/lecturer-s-podium-e77fe6) | [University](../kits/university-959b66.md) | 174 | [GLB](https://polyfork.dev/cdn/lecturer-s-podium-e77fe6.glb) · [module](https://polyfork.dev/cdn/lecturer-s-podium-e77fe6.mjs) |
 | [Ledge planter box](https://polyfork.dev/asset/ledge-planter-box-2f38f5) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 724 | [GLB](https://polyfork.dev/cdn/ledge-planter-box-2f38f5.glb) · [module](https://polyfork.dev/cdn/ledge-planter-box-2f38f5.mjs) |
 | [Letters-to-Santa Mailbox](https://polyfork.dev/asset/letters-to-santa-mailbox-f223e5) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 648 | [GLB](https://polyfork.dev/cdn/letters-to-santa-mailbox-f223e5.glb) · [module](https://polyfork.dev/cdn/letters-to-santa-mailbox-f223e5.mjs) |
 | [Lettuce Coral](https://polyfork.dev/asset/lettuce-coral-e16e43) | [Coral Reef](../kits/coral-reef-a7128a.md) | 644 | [GLB](https://polyfork.dev/cdn/lettuce-coral-e16e43.glb) · [module](https://polyfork.dev/cdn/lettuce-coral-e16e43.mjs) |
@@ -237,6 +242,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Overbed Table](https://polyfork.dev/asset/overbed-table-7409a5) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 534 | [GLB](https://polyfork.dev/cdn/overbed-table-7409a5.glb) · [module](https://polyfork.dev/cdn/overbed-table-7409a5.mjs) |
 | [Overflowing Treasure Chest](https://polyfork.dev/asset/overflowing-treasure-chest-3d6ee0) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 1,397 | [GLB](https://polyfork.dev/cdn/overflowing-treasure-chest-3d6ee0.glb) · [module](https://polyfork.dev/cdn/overflowing-treasure-chest-3d6ee0.mjs) |
 | [Overhead Service Spine](https://polyfork.dev/asset/overhead-service-spine-04edae) | [Research Lab](../kits/research-lab-9b9b5d.md) | 552 | [GLB](https://polyfork.dev/cdn/overhead-service-spine-04edae.glb) · [module](https://polyfork.dev/cdn/overhead-service-spine-04edae.mjs) |
+| [Overhead Wayfinding Sign](https://polyfork.dev/asset/overhead-wayfinding-sign-64d4e8) | [Airport](../kits/airport-43b137.md) | 482 | [GLB](https://polyfork.dev/cdn/overhead-wayfinding-sign-64d4e8.glb) · [module](https://polyfork.dev/cdn/overhead-wayfinding-sign-64d4e8.mjs) |
 | [Owlbear Miniature](https://polyfork.dev/asset/owlbear-miniature-0218ce) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 957 | [GLB](https://polyfork.dev/cdn/owlbear-miniature-0218ce.glb) · [module](https://polyfork.dev/cdn/owlbear-miniature-0218ce.mjs) |
 | [Oxygen Tank](https://polyfork.dev/asset/oxygen-tank-223f7f) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 322 | [GLB](https://polyfork.dev/cdn/oxygen-tank-223f7f.glb) · [module](https://polyfork.dev/cdn/oxygen-tank-223f7f.mjs) |
 | [PA Horn Post](https://polyfork.dev/asset/pa-horn-post-212ec8) | [Stadium](../kits/stadium-5db167.md) | 698 | [GLB](https://polyfork.dev/cdn/pa-horn-post-212ec8.glb) · [module](https://polyfork.dev/cdn/pa-horn-post-212ec8.mjs) |
@@ -500,10 +506,4 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Rope Coil](https://polyfork.dev/asset/rope-coil-776dcc) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 672 | [GLB](https://polyfork.dev/cdn/rope-coil-776dcc.glb) · [module](https://polyfork.dev/cdn/rope-coil-776dcc.mjs) |
 | [Rope Coil and Harness](https://polyfork.dev/asset/rope-coil-and-harness-5b51d5) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 944 | [GLB](https://polyfork.dev/cdn/rope-coil-and-harness-5b51d5.glb) · [module](https://polyfork.dev/cdn/rope-coil-and-harness-5b51d5.mjs) |
 | [Rope Ladder](https://polyfork.dev/asset/rope-ladder-baf4ac) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 564 | [GLB](https://polyfork.dev/cdn/rope-ladder-baf4ac.glb) · [module](https://polyfork.dev/cdn/rope-ladder-baf4ac.mjs) |
-| [Rope Swing on a Branch](https://polyfork.dev/asset/rope-swing-on-a-ada4bb) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 804 | [GLB](https://polyfork.dev/cdn/rope-swing-on-a-ada4bb.glb) · [module](https://polyfork.dev/cdn/rope-swing-on-a-ada4bb.mjs) |
-| [Rope Tow Run](https://polyfork.dev/asset/rope-tow-run-c0fbbd) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 685 | [GLB](https://polyfork.dev/cdn/rope-tow-run-c0fbbd.glb) · [module](https://polyfork.dev/cdn/rope-tow-run-c0fbbd.mjs) |
-| [Rotary Cannon](https://polyfork.dev/asset/rotary-cannon-e2114b) |  | 922 | [GLB](https://polyfork.dev/cdn/rotary-cannon-e2114b.glb) · [module](https://polyfork.dev/cdn/rotary-cannon-e2114b.mjs) |
-| [Rotary Dial](https://polyfork.dev/asset/rotary-dial-981a5a) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 890 | [GLB](https://polyfork.dev/cdn/rotary-dial-981a5a.glb) · [module](https://polyfork.dev/cdn/rotary-dial-981a5a.mjs) |
-| [Rotating Airport Beacon](https://polyfork.dev/asset/rotating-airport-beacon-e1ea5a) | [Airport](../kits/airport-43b137.md) | 756 | [GLB](https://polyfork.dev/cdn/rotating-airport-beacon-e1ea5a.glb) · [module](https://polyfork.dev/cdn/rotating-airport-beacon-e1ea5a.mjs) |
-| [Rotating Hourglass](https://polyfork.dev/asset/an-hourglass-with-sand-ec9f11) |  | 810 | [GLB](https://polyfork.dev/cdn/an-hourglass-with-sand-ec9f11.glb) · [module](https://polyfork.dev/cdn/an-hourglass-with-sand-ec9f11.mjs) |
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)

@@ -2,7 +2,7 @@
 
 <img src="../covers/dragons-lair-dark-dragon-782570.jpg" width="480" alt="Dragons Lair low-poly 3D kit">
 
-In production, 62 parts so far. Every part below is already free to use.
+62 free low-poly parts on one palette and one scale, so everything you combine belongs to the same world.
 
 [Open the kit on Polyfork](https://polyfork.dev/kit/dragons-lair-dark-dragon-782570) · [All kits](../README.md#kits)
 

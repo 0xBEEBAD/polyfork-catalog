@@ -1,6 +1,6 @@
 # Props
 
-2,142 free low-poly models. [All types](../README.md#browse-by-type)
+2,150 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -104,6 +104,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Backyard Doghouse](https://polyfork.dev/asset/backyard-doghouse-50a492) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 606 | [GLB](https://polyfork.dev/cdn/backyard-doghouse-50a492.glb) · [module](https://polyfork.dev/cdn/backyard-doghouse-50a492.mjs) |
 | [Backyard Swing Set](https://polyfork.dev/asset/backyard-swing-set-38637e) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 568 | [GLB](https://polyfork.dev/cdn/backyard-swing-set-38637e.glb) · [module](https://polyfork.dev/cdn/backyard-swing-set-38637e.mjs) |
 | [Backyard Trampoline](https://polyfork.dev/asset/backyard-trampoline-2779ec) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 588 | [GLB](https://polyfork.dev/cdn/backyard-trampoline-2779ec.glb) · [module](https://polyfork.dev/cdn/backyard-trampoline-2779ec.mjs) |
+| [Baggage Reclaim Carousel](https://polyfork.dev/asset/baggage-reclaim-carousel-7ceef0) | [Airport](../kits/airport-43b137.md) | 276 | [GLB](https://polyfork.dev/cdn/baggage-reclaim-carousel-7ceef0.glb) · [module](https://polyfork.dev/cdn/baggage-reclaim-carousel-7ceef0.mjs) |
 | [Ball Bin](https://polyfork.dev/asset/ball-bin-3198fe) |  | 724 | [GLB](https://polyfork.dev/cdn/ball-bin-3198fe.glb) · [module](https://polyfork.dev/cdn/ball-bin-3198fe.mjs) |
 | [Ball Cart](https://polyfork.dev/asset/ball-cart-8274fd) | [Stadium](../kits/stadium-5db167.md) | 1,155 | [GLB](https://polyfork.dev/cdn/ball-cart-8274fd.glb) · [module](https://polyfork.dev/cdn/ball-cart-8274fd.mjs) |
 | [Ballast Heap](https://polyfork.dev/asset/ballast-heap-2fb138) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 808 | [GLB](https://polyfork.dev/cdn/ballast-heap-2fb138.glb) · [module](https://polyfork.dev/cdn/ballast-heap-2fb138.mjs) |
@@ -367,6 +368,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Chip Carrier Rack](https://polyfork.dev/asset/chip-carrier-rack-62d3b8) | [Hotel Casino kit](../kits/casino-3dd029.md) | 836 | [GLB](https://polyfork.dev/cdn/chip-carrier-rack-62d3b8.glb) · [module](https://polyfork.dev/cdn/chip-carrier-rack-62d3b8.mjs) |
 | [Chocolate Fountain](https://polyfork.dev/asset/chocolate-fountain-5d6fa7) | [Hotel Casino kit](../kits/casino-3dd029.md) | 886 | [GLB](https://polyfork.dev/cdn/chocolate-fountain-5d6fa7.glb) · [module](https://polyfork.dev/cdn/chocolate-fountain-5d6fa7.mjs) |
 | [Chopping Block](https://polyfork.dev/asset/chopping-block-073b5e) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 484 | [GLB](https://polyfork.dev/cdn/chopping-block-073b5e.glb) · [module](https://polyfork.dev/cdn/chopping-block-073b5e.mjs) |
+| [Church Bell](https://polyfork.dev/asset/church-bell-ccef99) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 972 | [GLB](https://polyfork.dev/cdn/church-bell-ccef99.glb) · [module](https://polyfork.dev/cdn/church-bell-ccef99.mjs) |
 | [Church Flagstone Floor Tile](https://polyfork.dev/asset/church-flagstone-floor-tile-ab3cf2) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 486 | [GLB](https://polyfork.dev/cdn/church-flagstone-floor-tile-ab3cf2.glb) · [module](https://polyfork.dev/cdn/church-flagstone-floor-tile-ab3cf2.mjs) |
 | [Church Pew](https://polyfork.dev/asset/church-pew-dae6d7) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 466 | [GLB](https://polyfork.dev/cdn/church-pew-dae6d7.glb) · [module](https://polyfork.dev/cdn/church-pew-dae6d7.mjs) |
 | [Cirio Stand](https://polyfork.dev/asset/cirio-stand-828e85) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 635 | [GLB](https://polyfork.dev/cdn/cirio-stand-828e85.glb) · [module](https://polyfork.dev/cdn/cirio-stand-828e85.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Crypt Flagstone Floor](https://polyfork.dev/asset/crypt-flagstone-floor-b86b1a) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 680 | [GLB](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.glb) · [module](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.mjs) |
 | [Crypt Grave Markers](https://polyfork.dev/asset/crypt-grave-markers-8fd1ef) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 535 | [GLB](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.glb) · [module](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.mjs) |
 | [Crypt Well Head](https://polyfork.dev/asset/crypt-well-head-d368f3) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 891 | [GLB](https://polyfork.dev/cdn/crypt-well-head-d368f3.glb) · [module](https://polyfork.dev/cdn/crypt-well-head-d368f3.mjs) |
-| [Crystal Chandelier](https://polyfork.dev/asset/crystal-chandelier-55d279) | [Hotel Casino kit](../kits/casino-3dd029.md) | 772 | [GLB](https://polyfork.dev/cdn/crystal-chandelier-55d279.glb) · [module](https://polyfork.dev/cdn/crystal-chandelier-55d279.mjs) |
-| [Crystal Cluster](https://polyfork.dev/asset/crystal-cluster-624138) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 472 | [GLB](https://polyfork.dev/cdn/crystal-cluster-624138.glb) · [module](https://polyfork.dev/cdn/crystal-cluster-624138.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

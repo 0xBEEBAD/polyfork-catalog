@@ -1,6 +1,6 @@
 # Buildings
 
-446 free low-poly models. [All types](../README.md#browse-by-type)
+448 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -82,7 +82,7 @@
 | [Clapboard Church](https://polyfork.dev/asset/clapboard-church-03a6f5) | [Frontier Town](../kits/frontier-town-a0085b.md) | 1,513 | [GLB](https://polyfork.dev/cdn/clapboard-church-03a6f5.glb) · [module](https://polyfork.dev/cdn/clapboard-church-03a6f5.mjs) |
 | [Classical Bank](https://polyfork.dev/asset/classical-bank-04954e) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 2,890 | [GLB](https://polyfork.dev/cdn/classical-bank-04954e.glb) · [module](https://polyfork.dev/cdn/classical-bank-04954e.mjs) |
 | [Cleanroom Partition](https://polyfork.dev/asset/cleanroom-partition-solid-a2afb1) | [Research Lab](../kits/research-lab-9b9b5d.md) | 126 | [GLB](https://polyfork.dev/cdn/cleanroom-partition-solid-a2afb1.glb) · [module](https://polyfork.dev/cdn/cleanroom-partition-solid-a2afb1.mjs) |
-| [Climbable Stone Wall](https://polyfork.dev/asset/climbable-stone-wall-0052e0) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 760 | [GLB](https://polyfork.dev/cdn/climbable-stone-wall-0052e0.glb) · [module](https://polyfork.dev/cdn/climbable-stone-wall-0052e0.mjs) |
+| [Climbable Stone Wall](https://polyfork.dev/asset/climbable-stone-wall-0052e0) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 896 | [GLB](https://polyfork.dev/cdn/climbable-stone-wall-0052e0.glb) · [module](https://polyfork.dev/cdn/climbable-stone-wall-0052e0.mjs) |
 | [Climbing Frame](https://polyfork.dev/asset/climbing-frame-e917d5) |  | 872 | [GLB](https://polyfork.dev/cdn/climbing-frame-e917d5.glb) · [module](https://polyfork.dev/cdn/climbing-frame-e917d5.mjs) |
 | [Clinic Annexe](https://polyfork.dev/asset/clinic-annexe-0f56d1) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 480 | [GLB](https://polyfork.dev/cdn/clinic-annexe-0f56d1.glb) · [module](https://polyfork.dev/cdn/clinic-annexe-0f56d1.mjs) |
 | [Clinical Wall Module](https://polyfork.dev/asset/clinical-wall-module-935f50) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 396 | [GLB](https://polyfork.dev/cdn/clinical-wall-module-935f50.glb) · [module](https://polyfork.dev/cdn/clinical-wall-module-935f50.mjs) |
@@ -397,6 +397,8 @@
 | [Telegraph and Post Office](https://polyfork.dev/asset/telegraph-and-post-office-71d3ff) | [Frontier Town](../kits/frontier-town-a0085b.md) | 1,232 | [GLB](https://polyfork.dev/cdn/telegraph-and-post-office-71d3ff.glb) · [module](https://polyfork.dev/cdn/telegraph-and-post-office-71d3ff.mjs) |
 | [Temple Bell Tower](https://polyfork.dev/asset/temple-bell-tower-745387) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,782 | [GLB](https://polyfork.dev/cdn/temple-bell-tower-745387.glb) · [module](https://polyfork.dev/cdn/temple-bell-tower-745387.mjs) |
 | [Tenshu Keep](https://polyfork.dev/asset/tenshu-keep-2ff636) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 2,890 | [GLB](https://polyfork.dev/cdn/tenshu-keep-2ff636.glb) · [module](https://polyfork.dev/cdn/tenshu-keep-2ff636.mjs) |
+| [Terminal Facade Module](https://polyfork.dev/asset/terminal-facade-module-5574b6) | [Airport](../kits/airport-43b137.md) | 500 | [GLB](https://polyfork.dev/cdn/terminal-facade-module-5574b6.glb) · [module](https://polyfork.dev/cdn/terminal-facade-module-5574b6.mjs) |
+| [Terminal Structure Bay](https://polyfork.dev/asset/terminal-structure-bay-ea2467) | [Airport](../kits/airport-43b137.md) | 1,012 | [GLB](https://polyfork.dev/cdn/terminal-structure-bay-ea2467.glb) · [module](https://polyfork.dev/cdn/terminal-structure-bay-ea2467.mjs) |
 | [Terrace Step Run](https://polyfork.dev/asset/terrace-step-run-b631a9) | [Stadium](../kits/stadium-5db167.md) | 740 | [GLB](https://polyfork.dev/cdn/terrace-step-run-b631a9.glb) · [module](https://polyfork.dev/cdn/terrace-step-run-b631a9.mjs) |
 | [Terrace Stone Stair](https://polyfork.dev/asset/terrace-stone-stair-494ef8) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,550 | [GLB](https://polyfork.dev/cdn/terrace-stone-stair-494ef8.glb) · [module](https://polyfork.dev/cdn/terrace-stone-stair-494ef8.mjs) |
 | [Terrain-Sealing Foundation Skirt](https://polyfork.dev/asset/terrain-sealing-foundation-skirt-8cd3fc) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 1,002 | [GLB](https://polyfork.dev/cdn/terrain-sealing-foundation-skirt-8cd3fc.glb) · [module](https://polyfork.dev/cdn/terrain-sealing-foundation-skirt-8cd3fc.mjs) |

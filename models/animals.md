@@ -1,6 +1,6 @@
 # Animals
 
-272 free low-poly models. [All types](../README.md#browse-by-type)
+274 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -175,6 +175,7 @@
 | [One-Eyed Seal Judge](https://polyfork.dev/asset/order-judge-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/order-judge-base.glb) · [module](https://polyfork.dev/cdn/order-judge-base.mjs) |
 | [Opera baritone](https://polyfork.dev/asset/opera-baritone-base) |  | 4,941 | [GLB](https://polyfork.dev/cdn/opera-baritone-base.glb) · [module](https://polyfork.dev/cdn/opera-baritone-base.mjs) |
 | [Opera soprano](https://polyfork.dev/asset/opera-soprano-base) |  | 4,942 | [GLB](https://polyfork.dev/cdn/opera-soprano-base.glb) · [module](https://polyfork.dev/cdn/opera-soprano-base.mjs) |
+| [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) |  | 5,575 | [GLB](https://polyfork.dev/cdn/orc-berserker-base.glb) · [module](https://polyfork.dev/cdn/orc-berserker-base.mjs) |
 | [Orc hunter](https://polyfork.dev/asset/orc-hunter-base) |  | 5,892 | [GLB](https://polyfork.dev/cdn/orc-hunter-base.glb) · [module](https://polyfork.dev/cdn/orc-hunter-base.mjs) |
 | [Orc warrior](https://polyfork.dev/asset/orc-warrior-base) |  | 5,552 | [GLB](https://polyfork.dev/cdn/orc-warrior-base.glb) · [module](https://polyfork.dev/cdn/orc-warrior-base.mjs) |
 | [Owl](https://polyfork.dev/asset/owl-base) |  | 3,502 | [GLB](https://polyfork.dev/cdn/owl-base.glb) · [module](https://polyfork.dev/cdn/owl-base.mjs) |
@@ -207,6 +208,7 @@
 | [Reef fish](https://polyfork.dev/asset/reef-fish-base) |  | 2,996 | [GLB](https://polyfork.dev/cdn/reef-fish-base.glb) · [module](https://polyfork.dev/cdn/reef-fish-base.mjs) |
 | [Reef Grouper](https://polyfork.dev/asset/reef-grouper-964612) | [Coral Reef](../kits/coral-reef-a7128a.md) | 3,948 | [GLB](https://polyfork.dev/cdn/reef-grouper-964612.glb) · [module](https://polyfork.dev/cdn/reef-grouper-964612.mjs) |
 | [Reef shark](https://polyfork.dev/asset/reef-shark-base) |  | 2,462 | [GLB](https://polyfork.dev/cdn/reef-shark-base.glb) · [module](https://polyfork.dev/cdn/reef-shark-base.mjs) |
+| [Reindeer](https://polyfork.dev/asset/reindeer-base) |  | 2,998 | [GLB](https://polyfork.dev/cdn/reindeer-base.glb) · [module](https://polyfork.dev/cdn/reindeer-base.mjs) |
 | [Root colossus](https://polyfork.dev/asset/root-colossus-base) |  | 4,917 | [GLB](https://polyfork.dev/cdn/root-colossus-base.glb) · [module](https://polyfork.dev/cdn/root-colossus-base.mjs) |
 | [Rotting Revenant Knight](https://polyfork.dev/asset/dark-knight-base) |  | 4,990 | [GLB](https://polyfork.dev/cdn/dark-knight-base.glb) · [module](https://polyfork.dev/cdn/dark-knight-base.mjs) |
 | [Royal Gramma](https://polyfork.dev/asset/royal-gramma-6c21fe) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 560 | [GLB](https://polyfork.dev/cdn/royal-gramma-6c21fe.glb) · [module](https://polyfork.dev/cdn/royal-gramma-6c21fe.mjs) |
