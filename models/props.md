@@ -1,6 +1,6 @@
 # Props
 
-2,150 free low-poly models. [All types](../README.md#browse-by-type)
+2,167 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -282,6 +282,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Campus Planter Box](https://polyfork.dev/asset/campus-planter-box-10970a) | [University](../kits/university-959b66.md) | 440 | [GLB](https://polyfork.dev/cdn/campus-planter-box-10970a.glb) · [module](https://polyfork.dev/cdn/campus-planter-box-10970a.mjs) |
 | [Campus Plaza Fountain](https://polyfork.dev/asset/campus-plaza-fountain-a0cab1) | [University](../kits/university-959b66.md) | 689 | [GLB](https://polyfork.dev/cdn/campus-plaza-fountain-a0cab1.glb) · [module](https://polyfork.dev/cdn/campus-plaza-fountain-a0cab1.mjs) |
 | [Candle Spike Cluster](https://polyfork.dev/asset/candle-spike-cluster-d7c566) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 661 | [GLB](https://polyfork.dev/cdn/candle-spike-cluster-d7c566.glb) · [module](https://polyfork.dev/cdn/candle-spike-cluster-d7c566.mjs) |
+| [Candy Cane Arch](https://polyfork.dev/asset/candy-cane-arch-c17ce3) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 928 | [GLB](https://polyfork.dev/cdn/candy-cane-arch-c17ce3.glb) · [module](https://polyfork.dev/cdn/candy-cane-arch-c17ce3.mjs) |
 | [Candy Cane Path Markers](https://polyfork.dev/asset/candy-cane-path-markers-2310e4) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 736 | [GLB](https://polyfork.dev/cdn/candy-cane-path-markers-2310e4.glb) · [module](https://polyfork.dev/cdn/candy-cane-path-markers-2310e4.mjs) |
 | [Cannonball](https://polyfork.dev/asset/cannonball-f87cdc) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 338 | [GLB](https://polyfork.dev/cdn/cannonball-f87cdc.glb) · [module](https://polyfork.dev/cdn/cannonball-f87cdc.mjs) |
 | [Canoe Rack](https://polyfork.dev/asset/canoe-rack-c8126e) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 856 | [GLB](https://polyfork.dev/cdn/canoe-rack-c8126e.glb) · [module](https://polyfork.dev/cdn/canoe-rack-c8126e.mjs) |
@@ -505,5 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Cruiser and Longboard](https://polyfork.dev/asset/cruiser-and-longboard-b3d081) | [Skatepark kit](../kits/skatepark-0922a9.md) | 860 | [GLB](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.glb) · [module](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.mjs) |
 | [Crypt Flagstone Floor](https://polyfork.dev/asset/crypt-flagstone-floor-b86b1a) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 680 | [GLB](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.glb) · [module](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.mjs) |
 | [Crypt Grave Markers](https://polyfork.dev/asset/crypt-grave-markers-8fd1ef) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 535 | [GLB](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.glb) · [module](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.mjs) |
-| [Crypt Well Head](https://polyfork.dev/asset/crypt-well-head-d368f3) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 891 | [GLB](https://polyfork.dev/cdn/crypt-well-head-d368f3.glb) · [module](https://polyfork.dev/cdn/crypt-well-head-d368f3.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

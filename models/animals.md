@@ -49,7 +49,6 @@
 | [Cathedral statue](https://polyfork.dev/asset/cathedral-statue-base) |  | 4,939 | [GLB](https://polyfork.dev/cdn/cathedral-statue-base.glb) · [module](https://polyfork.dev/cdn/cathedral-statue-base.mjs) |
 | [Charcoal-Skinned Fire Cultist](https://polyfork.dev/asset/fire-cultist-05e52e) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,982 | [GLB](https://polyfork.dev/cdn/fire-cultist-05e52e.glb) · [module](https://polyfork.dev/cdn/fire-cultist-05e52e.mjs) |
 | [Chicken](https://polyfork.dev/asset/chicken-base) |  | 2,836 | [GLB](https://polyfork.dev/cdn/chicken-base.glb) · [module](https://polyfork.dev/cdn/chicken-base.mjs) |
-| [Choir singer](https://polyfork.dev/asset/choir-singer-base) |  | 4,842 | [GLB](https://polyfork.dev/cdn/choir-singer-base.glb) · [module](https://polyfork.dev/cdn/choir-singer-base.mjs) |
 | [Choral star girl](https://polyfork.dev/asset/choral-star-girl-base) |  | 4,912 | [GLB](https://polyfork.dev/cdn/choral-star-girl-base.glb) · [module](https://polyfork.dev/cdn/choral-star-girl-base.mjs) |
 | [Chromis](https://polyfork.dev/asset/chromis-base) |  | 2,352 | [GLB](https://polyfork.dev/cdn/chromis-base.glb) · [module](https://polyfork.dev/cdn/chromis-base.mjs) |
 | [Chromis Shoal](https://polyfork.dev/asset/chromis-shoal-cde0d8) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 2,456 | [GLB](https://polyfork.dev/cdn/chromis-shoal-cde0d8.glb) · [module](https://polyfork.dev/cdn/chromis-shoal-cde0d8.mjs) |
@@ -115,6 +114,7 @@
 | [Furnace-Mouthed Lava Golem](https://polyfork.dev/asset/furnace-golem-base) |  | 4,991 | [GLB](https://polyfork.dev/cdn/furnace-golem-base.glb) · [module](https://polyfork.dev/cdn/furnace-golem-base.mjs) |
 | [Garden orb weaver](https://polyfork.dev/asset/garden-orb-weaver-base) |  | 2,942 | [GLB](https://polyfork.dev/cdn/garden-orb-weaver-base.glb) · [module](https://polyfork.dev/cdn/garden-orb-weaver-base.mjs) |
 | [Garden Orb-Weaver](https://polyfork.dev/asset/garden-orb-weaver-b32844) | [Insect World kit](../kits/insect-world-e44b9f.md) | 2,942 | [GLB](https://polyfork.dev/cdn/garden-orb-weaver-b32844.glb) · [module](https://polyfork.dev/cdn/garden-orb-weaver-b32844.mjs) |
+| [General](https://polyfork.dev/asset/general-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/general-base.glb) · [module](https://polyfork.dev/cdn/general-base.mjs) |
 | [Giant clam](https://polyfork.dev/asset/giant-clam-base) |  | 3,792 | [GLB](https://polyfork.dev/cdn/giant-clam-base.glb) · [module](https://polyfork.dev/cdn/giant-clam-base.mjs) |
 | [Giraffe](https://polyfork.dev/asset/giraffe-base) |  | 3,956 | [GLB](https://polyfork.dev/cdn/giraffe-base.glb) · [module](https://polyfork.dev/cdn/giraffe-base.mjs) |
 | [Gnome mage](https://polyfork.dev/asset/gnome-mage-base) |  | 5,618 | [GLB](https://polyfork.dev/cdn/gnome-mage-base.glb) · [module](https://polyfork.dev/cdn/gnome-mage-base.mjs) |
@@ -140,7 +140,6 @@
 | [Hooded staff acolyte](https://polyfork.dev/asset/hooded-staff-acolyte-base) |  | 4,674 | [GLB](https://polyfork.dev/cdn/hooded-staff-acolyte-base.glb) · [module](https://polyfork.dev/cdn/hooded-staff-acolyte-base.mjs) |
 | [Hook-Handed Swamp Butcher](https://polyfork.dev/asset/swamp-butcher-base) |  | 4,997 | [GLB](https://polyfork.dev/cdn/swamp-butcher-base.glb) · [module](https://polyfork.dev/cdn/swamp-butcher-base.mjs) |
 | [Horse](https://polyfork.dev/asset/horse-base) |  | 2,096 | [GLB](https://polyfork.dev/cdn/horse-base.glb) · [module](https://polyfork.dev/cdn/horse-base.mjs) |
-| [Hospital nurse](https://polyfork.dev/asset/hospital-nurse-base) |  | 4,856 | [GLB](https://polyfork.dev/cdn/hospital-nurse-base.glb) · [module](https://polyfork.dev/cdn/hospital-nurse-base.mjs) |
 | [Human assassin](https://polyfork.dev/asset/human-assassin-base) |  | 5,485 | [GLB](https://polyfork.dev/cdn/human-assassin-base.glb) · [module](https://polyfork.dev/cdn/human-assassin-base.mjs) |
 | [Human knight](https://polyfork.dev/asset/human-knight-base) |  | 6,374 | [GLB](https://polyfork.dev/cdn/human-knight-base.glb) · [module](https://polyfork.dev/cdn/human-knight-base.mjs) |
 | [Human mage](https://polyfork.dev/asset/human-mage-base) |  | 5,480 | [GLB](https://polyfork.dev/cdn/human-mage-base.glb) · [module](https://polyfork.dev/cdn/human-mage-base.mjs) |
@@ -159,7 +158,7 @@
 | [Magma-Cracked Goblin](https://polyfork.dev/asset/magma-goblin-base) |  | 4,929 | [GLB](https://polyfork.dev/cdn/magma-goblin-base.glb) · [module](https://polyfork.dev/cdn/magma-goblin-base.mjs) |
 | [Mandarin dragonet](https://polyfork.dev/asset/mandarin-dragonet-base) |  | 3,892 | [GLB](https://polyfork.dev/cdn/mandarin-dragonet-base.glb) · [module](https://polyfork.dev/cdn/mandarin-dragonet-base.mjs) |
 | [Mantis shrimp](https://polyfork.dev/asset/mantis-shrimp-base) |  | 2,977 | [GLB](https://polyfork.dev/cdn/mantis-shrimp-base.glb) · [module](https://polyfork.dev/cdn/mantis-shrimp-base.mjs) |
-| [Masked Plague Nurse](https://polyfork.dev/asset/hospital-nurse-4099d6) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,856 | [GLB](https://polyfork.dev/cdn/hospital-nurse-4099d6.glb) · [module](https://polyfork.dev/cdn/hospital-nurse-4099d6.mjs) |
+| [Masked Plague Nurse](https://polyfork.dev/asset/hospital-nurse-base) |  | 4,956 | [GLB](https://polyfork.dev/cdn/hospital-nurse-base.glb) · [module](https://polyfork.dev/cdn/hospital-nurse-base.mjs) |
 | [Meadow grasshopper](https://polyfork.dev/asset/meadow-grasshopper-base) |  | 2,978 | [GLB](https://polyfork.dev/cdn/meadow-grasshopper-base.glb) · [module](https://polyfork.dev/cdn/meadow-grasshopper-base.mjs) |
 | [Mirwen, the Bark-Grown Healer](https://polyfork.dev/asset/mirwen-base) |  | 4,985 | [GLB](https://polyfork.dev/cdn/mirwen-base.glb) · [module](https://polyfork.dev/cdn/mirwen-base.mjs) |
 | [Mist-Bound Sea Ghost](https://polyfork.dev/asset/sea-ghost-base) |  | 4,875 | [GLB](https://polyfork.dev/cdn/sea-ghost-base.glb) · [module](https://polyfork.dev/cdn/sea-ghost-base.mjs) |
@@ -174,12 +173,13 @@
 | [Octopus](https://polyfork.dev/asset/octopus-base) |  | 3,936 | [GLB](https://polyfork.dev/cdn/octopus-base.glb) · [module](https://polyfork.dev/cdn/octopus-base.mjs) |
 | [One-Eyed Seal Judge](https://polyfork.dev/asset/order-judge-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/order-judge-base.glb) · [module](https://polyfork.dev/cdn/order-judge-base.mjs) |
 | [Opera baritone](https://polyfork.dev/asset/opera-baritone-base) |  | 4,941 | [GLB](https://polyfork.dev/cdn/opera-baritone-base.glb) · [module](https://polyfork.dev/cdn/opera-baritone-base.mjs) |
-| [Opera soprano](https://polyfork.dev/asset/opera-soprano-base) |  | 4,942 | [GLB](https://polyfork.dev/cdn/opera-soprano-base.glb) · [module](https://polyfork.dev/cdn/opera-soprano-base.mjs) |
+| [Opera soprano](https://polyfork.dev/asset/opera-soprano-base) |  | 4,990 | [GLB](https://polyfork.dev/cdn/opera-soprano-base.glb) · [module](https://polyfork.dev/cdn/opera-soprano-base.mjs) |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) |  | 5,575 | [GLB](https://polyfork.dev/cdn/orc-berserker-base.glb) · [module](https://polyfork.dev/cdn/orc-berserker-base.mjs) |
 | [Orc hunter](https://polyfork.dev/asset/orc-hunter-base) |  | 5,892 | [GLB](https://polyfork.dev/cdn/orc-hunter-base.glb) · [module](https://polyfork.dev/cdn/orc-hunter-base.mjs) |
 | [Orc warrior](https://polyfork.dev/asset/orc-warrior-base) |  | 5,552 | [GLB](https://polyfork.dev/cdn/orc-warrior-base.glb) · [module](https://polyfork.dev/cdn/orc-warrior-base.mjs) |
 | [Owl](https://polyfork.dev/asset/owl-base) |  | 3,502 | [GLB](https://polyfork.dev/cdn/owl-base.glb) · [module](https://polyfork.dev/cdn/owl-base.mjs) |
 | [Ox](https://polyfork.dev/asset/ox-base) |  | 2,614 | [GLB](https://polyfork.dev/cdn/ox-base.glb) · [module](https://polyfork.dev/cdn/ox-base.mjs) |
+| [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 3,760 | [GLB](https://polyfork.dev/cdn/pack-donkey-c69029.glb) · [module](https://polyfork.dev/cdn/pack-donkey-c69029.mjs) |
 | [Pack mule](https://polyfork.dev/asset/pack-mule-base) |  | 2,930 | [GLB](https://polyfork.dev/cdn/pack-mule-base.glb) · [module](https://polyfork.dev/cdn/pack-mule-base.mjs) |
 | [Pale-Eyed Crypt Bat](https://polyfork.dev/asset/bat-base) |  | 2,974 | [GLB](https://polyfork.dev/cdn/bat-base.glb) · [module](https://polyfork.dev/cdn/bat-base.mjs) |
 | [Parasaurolophus](https://polyfork.dev/asset/parasaurolophus-base) |  | 3,316 | [GLB](https://polyfork.dev/cdn/parasaurolophus-base.glb) · [module](https://polyfork.dev/cdn/parasaurolophus-base.mjs) |
@@ -224,7 +224,7 @@
 | [Seated woodwind player](https://polyfork.dev/asset/seated-woodwind-player-base) |  | 5,861 | [GLB](https://polyfork.dev/cdn/seated-woodwind-player-base.glb) · [module](https://polyfork.dev/cdn/seated-woodwind-player-base.mjs) |
 | [Seven spot ladybird](https://polyfork.dev/asset/seven-spot-ladybird-base) |  | 2,748 | [GLB](https://polyfork.dev/cdn/seven-spot-ladybird-base.glb) · [module](https://polyfork.dev/cdn/seven-spot-ladybird-base.mjs) |
 | [Seven-Spot Ladybird](https://polyfork.dev/asset/seven-spot-ladybird-f286a4) | [Insect World kit](../kits/insect-world-e44b9f.md) | 2,748 | [GLB](https://polyfork.dev/cdn/seven-spot-ladybird-f286a4.glb) · [module](https://polyfork.dev/cdn/seven-spot-ladybird-f286a4.mjs) |
-| [Sewn-Eyed Choir Boy](https://polyfork.dev/asset/choir-singer-0989af) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,842 | [GLB](https://polyfork.dev/cdn/choir-singer-0989af.glb) · [module](https://polyfork.dev/cdn/choir-singer-0989af.mjs) |
+| [Sewn-Eyed Choir Boy](https://polyfork.dev/asset/choir-singer-base) |  | 4,952 | [GLB](https://polyfork.dev/cdn/choir-singer-base.glb) · [module](https://polyfork.dev/cdn/choir-singer-base.mjs) |
 | [Sharp-Eared Forest Bandit](https://polyfork.dev/asset/forest-bandit-base) |  | 4,976 | [GLB](https://polyfork.dev/cdn/forest-bandit-base.glb) · [module](https://polyfork.dev/cdn/forest-bandit-base.mjs) |
 | [Sheep](https://polyfork.dev/asset/sheep-base) |  | 2,460 | [GLB](https://polyfork.dev/cdn/sheep-base.glb) · [module](https://polyfork.dev/cdn/sheep-base.mjs) |
 | [Shopper](https://polyfork.dev/asset/shopper-base) |  | 3,516 | [GLB](https://polyfork.dev/cdn/shopper-base.glb) · [module](https://polyfork.dev/cdn/shopper-base.mjs) |

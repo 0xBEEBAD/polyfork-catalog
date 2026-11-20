@@ -1,6 +1,6 @@
 # Characters
 
-204 free low-poly models. [All types](../README.md#browse-by-type)
+206 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -66,6 +66,7 @@
 | [Flower Vendor](https://polyfork.dev/asset/flower-vendor-bc708b) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 4,673 | [GLB](https://polyfork.dev/cdn/flower-vendor-bc708b.glb) · [module](https://polyfork.dev/cdn/flower-vendor-bc708b.mjs) |
 | [Forest Ranger](https://polyfork.dev/asset/forest-ranger-6906b0) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 3,829 | [GLB](https://polyfork.dev/cdn/forest-ranger-6906b0.glb) · [module](https://polyfork.dev/cdn/forest-ranger-6906b0.mjs) |
 | [Front Desk Clerk](https://polyfork.dev/asset/front-desk-clerk-99f0c2) | [Hotel Casino kit](../kits/casino-3dd029.md) | 4,411 | [GLB](https://polyfork.dev/cdn/front-desk-clerk-99f0c2.glb) · [module](https://polyfork.dev/cdn/front-desk-clerk-99f0c2.mjs) |
+| [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | [Airport](../kits/airport-43b137.md) | 4,953 | [GLB](https://polyfork.dev/cdn/fuel-technician-df4ce0.glb) · [module](https://polyfork.dev/cdn/fuel-technician-df4ce0.mjs) |
 | [Game Master](https://polyfork.dev/asset/game-master-2b8912) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 3,897 | [GLB](https://polyfork.dev/cdn/game-master-2b8912.glb) · [module](https://polyfork.dev/cdn/game-master-2b8912.mjs) |
 | [Gas Station Attendant](https://polyfork.dev/asset/gas-station-attendant-38bd86) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 3,231 | [GLB](https://polyfork.dev/cdn/gas-station-attendant-38bd86.glb) · [module](https://polyfork.dev/cdn/gas-station-attendant-38bd86.mjs) |
 | [Goalkeeper](https://polyfork.dev/asset/goalkeeper-10017a) | [Stadium](../kits/stadium-5db167.md) | 3,819 | [GLB](https://polyfork.dev/cdn/goalkeeper-10017a.glb) · [module](https://polyfork.dev/cdn/goalkeeper-10017a.mjs) |
@@ -194,6 +195,7 @@
 | [Townswoman](https://polyfork.dev/asset/townswoman-5ca8b5) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 4,937 | [GLB](https://polyfork.dev/cdn/townswoman-5ca8b5.glb) · [module](https://polyfork.dev/cdn/townswoman-5ca8b5.mjs) |
 | [Tradesman](https://polyfork.dev/asset/tradesman-1707b9) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 3,919 | [GLB](https://polyfork.dev/cdn/tradesman-1707b9.glb) · [module](https://polyfork.dev/cdn/tradesman-1707b9.mjs) |
 | [Trainspotter](https://polyfork.dev/asset/trainspotter-ffd141) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 4,835 | [GLB](https://polyfork.dev/cdn/trainspotter-ffd141.glb) · [module](https://polyfork.dev/cdn/trainspotter-ffd141.mjs) |
+| [Traveller](https://polyfork.dev/asset/traveller-92f20c) | [Airport](../kits/airport-43b137.md) | 4,555 | [GLB](https://polyfork.dev/cdn/traveller-92f20c.glb) · [module](https://polyfork.dev/cdn/traveller-92f20c.mjs) |
 | [Trucker](https://polyfork.dev/asset/trucker-9266a8) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 4,559 | [GLB](https://polyfork.dev/cdn/trucker-9266a8.glb) · [module](https://polyfork.dev/cdn/trucker-9266a8.mjs) |
 | [Uniformed Floor Guard](https://polyfork.dev/asset/uniformed-floor-guard-d06c03) | [Hotel Casino kit](../kits/casino-3dd029.md) | 2,879 | [GLB](https://polyfork.dev/cdn/uniformed-floor-guard-d06c03.glb) · [module](https://polyfork.dev/cdn/uniformed-floor-guard-d06c03.mjs) |
 | [Valet Attendant](https://polyfork.dev/asset/valet-attendant-c351e6) | [Hotel Casino kit](../kits/casino-3dd029.md) | 3,193 | [GLB](https://polyfork.dev/cdn/valet-attendant-c351e6.glb) · [module](https://polyfork.dev/cdn/valet-attendant-c351e6.mjs) |
