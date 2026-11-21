@@ -1,11 +1,17 @@
 # Props
 
-2,167 free low-poly models. [All types](../README.md#browse-by-type)
+2,175 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Ultra-Low Freezer](https://polyfork.dev/asset/ultra-low-freezer-9a84fb) | [Research Lab](../kits/research-lab-9b9b5d.md) | 527 | [GLB](https://polyfork.dev/cdn/ultra-low-freezer-9a84fb.glb) · [module](https://polyfork.dev/cdn/ultra-low-freezer-9a84fb.mjs) |
+| [Umu Earth Oven](https://polyfork.dev/asset/umu-earth-oven-964a69) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 886 | [GLB](https://polyfork.dev/cdn/umu-earth-oven-964a69.glb) · [module](https://polyfork.dev/cdn/umu-earth-oven-964a69.mjs) |
+| [Under-Bench Drawer Cabinet](https://polyfork.dev/asset/under-bench-drawer-cabinet-2d0573) | [Research Lab](../kits/research-lab-9b9b5d.md) | 554 | [GLB](https://polyfork.dev/cdn/under-bench-drawer-cabinet-2d0573.glb) · [module](https://polyfork.dev/cdn/under-bench-drawer-cabinet-2d0573.mjs) |
+| [Under-Desk Cable Tray](https://polyfork.dev/asset/under-desk-cable-tray-4ae73d) | [Office](../kits/office-794453.md) | 528 | [GLB](https://polyfork.dev/cdn/under-desk-cable-tray-4ae73d.glb) · [module](https://polyfork.dev/cdn/under-desk-cable-tray-4ae73d.mjs) |
+| [Unfinished Moai in the Rock](https://polyfork.dev/asset/unfinished-moai-in-the-40da79) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 697 | [GLB](https://polyfork.dev/cdn/unfinished-moai-in-the-40da79.glb) · [module](https://polyfork.dev/cdn/unfinished-moai-in-the-40da79.mjs) |
+| [Union Stage (with Backdrop)](https://polyfork.dev/asset/union-stage-with-backdrop-75320b) | [University](../kits/university-959b66.md) | 635 | [GLB](https://polyfork.dev/cdn/union-stage-with-backdrop-75320b.glb) · [module](https://polyfork.dev/cdn/union-stage-with-backdrop-75320b.mjs) |
 | [Upgradeable Assembly Workbench](https://polyfork.dev/asset/upgradeable-assembly-workbench-a18ff3) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 884 | [GLB](https://polyfork.dev/cdn/upgradeable-assembly-workbench-a18ff3.glb) · [module](https://polyfork.dev/cdn/upgradeable-assembly-workbench-a18ff3.mjs) |
 | [Upright Piano](https://polyfork.dev/asset/upright-piano-c0b0ef) |  | 680 | [GLB](https://polyfork.dev/cdn/upright-piano-c0b0ef.glb) · [module](https://polyfork.dev/cdn/upright-piano-c0b0ef.mjs) |
 | [Utility Pole](https://polyfork.dev/asset/utility-pole-574130) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 1,214 | [GLB](https://polyfork.dev/cdn/utility-pole-574130.glb) · [module](https://polyfork.dev/cdn/utility-pole-574130.mjs) |
@@ -55,6 +61,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Wall vine curtain](https://polyfork.dev/asset/wall-vine-curtain-c45b4e) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 871 | [GLB](https://polyfork.dev/cdn/wall-vine-curtain-c45b4e.glb) · [module](https://polyfork.dev/cdn/wall-vine-curtain-c45b4e.mjs) |
 | [Wallride Wall](https://polyfork.dev/asset/wallride-wall-ae0128) | [Skatepark kit](../kits/skatepark-0922a9.md) | 292 | [GLB](https://polyfork.dev/cdn/wallride-wall-ae0128.glb) · [module](https://polyfork.dev/cdn/wallride-wall-ae0128.mjs) |
 | [Wanted Poster Board](https://polyfork.dev/asset/wanted-poster-board-ccbeb1) | [Frontier Town](../kits/frontier-town-a0085b.md) | 636 | [GLB](https://polyfork.dev/cdn/wanted-poster-board-ccbeb1.glb) · [module](https://polyfork.dev/cdn/wanted-poster-board-ccbeb1.mjs) |
+| [War Drum on a Frame](https://polyfork.dev/asset/war-drum-on-a-5fdf9d) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 914 | [GLB](https://polyfork.dev/cdn/war-drum-on-a-5fdf9d.glb) · [module](https://polyfork.dev/cdn/war-drum-on-a-5fdf9d.mjs) |
 | [War Drum On Stand](https://polyfork.dev/asset/war-drum-on-stand-cbb91a) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 636 | [GLB](https://polyfork.dev/cdn/war-drum-on-stand-cbb91a.glb) · [module](https://polyfork.dev/cdn/war-drum-on-stand-cbb91a.mjs) |
 | [War Hammer](https://polyfork.dev/asset/war-hammer-656ffd) |  | 712 | [GLB](https://polyfork.dev/cdn/war-hammer-656ffd.glb) · [module](https://polyfork.dev/cdn/war-hammer-656ffd.mjs) |
 | [War Pick](https://polyfork.dev/asset/war-pick-4cd4eb) |  | 548 | [GLB](https://polyfork.dev/cdn/war-pick-4cd4eb.glb) · [module](https://polyfork.dev/cdn/war-pick-4cd4eb.mjs) |
@@ -93,6 +100,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Weather Station Mast](https://polyfork.dev/asset/weather-station-mast-f84278) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 891 | [GLB](https://polyfork.dev/cdn/weather-station-mast-f84278.glb) · [module](https://polyfork.dev/cdn/weather-station-mast-f84278.mjs) |
 | [Weathervane](https://polyfork.dev/asset/weathervane-4b2013) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 744 | [GLB](https://polyfork.dev/cdn/weathervane-4b2013.glb) · [module](https://polyfork.dev/cdn/weathervane-4b2013.mjs) |
 | [Weeping Stone Angel](https://polyfork.dev/asset/weeping-stone-angel-644ce3) | [Halloween Night](../kits/halloween-night-46ade4.md) | 834 | [GLB](https://polyfork.dev/cdn/weeping-stone-angel-644ce3.glb) · [module](https://polyfork.dev/cdn/weeping-stone-angel-644ce3.mjs) |
+| [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,927 | [GLB](https://polyfork.dev/cdn/weeping-willow-55e38c.glb) · [module](https://polyfork.dev/cdn/weeping-willow-55e38c.mjs) |
 | [Welcome Week Tent Stall](https://polyfork.dev/asset/welcome-week-tent-stall-c27020) | [University](../kits/university-959b66.md) | 774 | [GLB](https://polyfork.dev/cdn/welcome-week-tent-stall-c27020.glb) · [module](https://polyfork.dev/cdn/welcome-week-tent-stall-c27020.mjs) |
 | [Wet Floor Sign](https://polyfork.dev/asset/wet-floor-sign-d39967) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 504 | [GLB](https://polyfork.dev/cdn/wet-floor-sign-d39967.glb) · [module](https://polyfork.dev/cdn/wet-floor-sign-d39967.mjs) |
 | [Wet Packed Sand Tile](https://polyfork.dev/asset/wet-packed-sand-tile-913ddb) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 727 | [GLB](https://polyfork.dev/cdn/wet-packed-sand-tile-913ddb.glb) · [module](https://polyfork.dev/cdn/wet-packed-sand-tile-913ddb.mjs) |

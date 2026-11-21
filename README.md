@@ -1,6 +1,6 @@
 # Polyfork: free low-poly 3D models
 
-**3,474 free low-poly 3D models and 37 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
+**3,489 free low-poly 3D models and 37 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
 
 [Browse on polyfork.dev](https://polyfork.dev/assets) · [Kits](#kits) · [By type](#browse-by-type) · [catalog.json](catalog.json)
 
@@ -80,7 +80,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 <td align="center" valign="top" width="33%"><a href="kits/construction-site-9e40b0.md"><img src="covers/construction-site-9e40b0.jpg" alt="Construction Site low-poly 3D kit"><br><strong>Construction Site</strong></a><br><sub>62 parts</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="kits/coral-reef-a7128a.md"><img src="covers/coral-reef-a7128a.jpg" alt="Coral Reef low-poly 3D kit"><br><strong>Coral Reef</strong></a><br><sub>54 parts</sub></td>
+<td align="center" valign="top" width="33%"><a href="kits/coral-reef-a7128a.md"><img src="covers/coral-reef-a7128a.jpg" alt="Coral Reef low-poly 3D kit"><br><strong>Coral Reef</strong></a><br><sub>53 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/countryside-railway-9b4c57.md"><img src="covers/countryside-railway-9b4c57.jpg" alt="Countryside Railway low-poly 3D kit"><br><strong>Countryside Railway</strong></a><br><sub>103 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/cozy-farm-cc979f.md"><img src="covers/cozy-farm-cc979f.jpg" alt="Cozy Farm low-poly 3D kit"><br><strong>Cozy Farm</strong></a><br><sub>60 parts</sub></td>
 </tr>
@@ -132,7 +132,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 ### In production
 
 - [Airport](kits/airport-43b137.md), 97 parts so far
-- [Christmas Village](kits/christmas-village-fbc27a.md), 33 parts so far
+- [Christmas Village](kits/christmas-village-fbc27a.md), 34 parts so far
 - [Dungeon & Crypt](kits/dungeon-crypt-c27d93.md), 67 parts so far
 - [Easter Island (Rapa Nui)](kits/easter-island-rapa-nui-368e86.md), 59 parts so far
 - [Hotel Casino kit](kits/casino-3dd029.md), 122 parts so far
@@ -144,7 +144,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 - [Prehistoric Valley](kits/prehistoric-valley-8638dc.md), 59 parts so far
 - [Research Lab](kits/research-lab-9b9b5d.md), 61 parts so far
 - [Roadside Americana](kits/roadside-americana-50d40c.md), 60 parts so far
-- [Three Kingdoms Settlements](kits/three-kingdoms-settlements-a-1e817b.md), 33 parts so far
+- [Three Kingdoms Settlements](kits/three-kingdoms-settlements-a-1e817b.md), 48 parts so far
 - [University](kits/university-959b66.md), 61 parts so far
 
 ## Browse by type
@@ -153,9 +153,9 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 |---|--:|
 | [Characters](models/characters.md) | 206 |
 | [Animals](models/animals.md) | 274 |
-| [Buildings](models/buildings.md) | 449 |
-| [Vehicles](models/vehicles.md) | 220 |
-| [Props](models/props.md) | 2,167 |
+| [Buildings](models/buildings.md) | 454 |
+| [Vehicles](models/vehicles.md) | 222 |
+| [Props](models/props.md) | 2,175 |
 | [Terrain](models/terrain.md) | 22 |
 | [Attachments](models/attachments.md) | 48 |
 | [Nano](models/nano.md) | 86 |

@@ -1,6 +1,6 @@
 # Vehicles
 
-220 free low-poly models. [All types](../README.md#browse-by-type)
+222 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -138,6 +138,7 @@
 | [One-Person Submarine](https://polyfork.dev/asset/one-person-submarine-0b9d14) | [Coral Reef](../kits/coral-reef-a7128a.md) | 2,590 | [GLB](https://polyfork.dev/cdn/one-person-submarine-0b9d14.glb) · [module](https://polyfork.dev/cdn/one-person-submarine-0b9d14.mjs) |
 | [Open Goods Wagon](https://polyfork.dev/asset/open-goods-wagon-998292) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,224 | [GLB](https://polyfork.dev/cdn/open-goods-wagon-998292.glb) · [module](https://polyfork.dev/cdn/open-goods-wagon-998292.mjs) |
 | [Ox Cart](https://polyfork.dev/asset/ox-cart-9c857f) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,296 | [GLB](https://polyfork.dev/cdn/ox-cart-9c857f.glb) · [module](https://polyfork.dev/cdn/ox-cart-9c857f.mjs) |
+| [Ox Cart](https://polyfork.dev/asset/ox-cart-c12bca) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,936 | [GLB](https://polyfork.dev/cdn/ox-cart-c12bca.glb) · [module](https://polyfork.dev/cdn/ox-cart-c12bca.mjs) |
 | [Passenger Carriage](https://polyfork.dev/asset/passenger-carriage-de9d58) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,252 | [GLB](https://polyfork.dev/cdn/passenger-carriage-de9d58.glb) · [module](https://polyfork.dev/cdn/passenger-carriage-de9d58.mjs) |
 | [Patrol Cruiser](https://polyfork.dev/asset/patrol-cruiser-bed309) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 3,278 | [GLB](https://polyfork.dev/cdn/patrol-cruiser-bed309.glb) · [module](https://polyfork.dev/cdn/patrol-cruiser-bed309.mjs) |
 | [Pickup Truck](https://polyfork.dev/asset/pickup-truck-a34bf2) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 3,383 | [GLB](https://polyfork.dev/cdn/pickup-truck-a34bf2.glb) · [module](https://polyfork.dev/cdn/pickup-truck-a34bf2.mjs) |
@@ -208,6 +209,7 @@
 | [Track Maintenance Trolley](https://polyfork.dev/asset/track-maintenance-trolley-50cb76) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 2,808 | [GLB](https://polyfork.dev/cdn/track-maintenance-trolley-50cb76.glb) · [module](https://polyfork.dev/cdn/track-maintenance-trolley-50cb76.mjs) |
 | [Tracked Crawler](https://polyfork.dev/asset/tracked-crawler-a7c5ff) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 2,656 | [GLB](https://polyfork.dev/cdn/tracked-crawler-a7c5ff.glb) · [module](https://polyfork.dev/cdn/tracked-crawler-a7c5ff.mjs) |
 | [Tracked Excavator](https://polyfork.dev/asset/tracked-excavator-8ebd3c) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,800 | [GLB](https://polyfork.dev/cdn/tracked-excavator-8ebd3c.glb) · [module](https://polyfork.dev/cdn/tracked-excavator-8ebd3c.mjs) |
+| [Traction Trebuchet](https://polyfork.dev/asset/traction-trebuchet-1e5d18) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,412 | [GLB](https://polyfork.dev/cdn/traction-trebuchet-1e5d18.glb) · [module](https://polyfork.dev/cdn/traction-trebuchet-1e5d18.mjs) |
 | [Twin-Engine Piston Light Aircraft](https://polyfork.dev/asset/twin-engine-piston-light-f417c7) | [Airport](../kits/airport-43b137.md) | 3,639 | [GLB](https://polyfork.dev/cdn/twin-engine-piston-light-f417c7.glb) · [module](https://polyfork.dev/cdn/twin-engine-piston-light-f417c7.mjs) |
 | [Two-Seat Toboggan](https://polyfork.dev/asset/two-seat-toboggan-09392b) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 2,940 | [GLB](https://polyfork.dev/cdn/two-seat-toboggan-09392b.glb) · [module](https://polyfork.dev/cdn/two-seat-toboggan-09392b.mjs) |
 | [Two-Wheel Supply Trailer](https://polyfork.dev/asset/two-wheel-supply-trailer-90d380) |  | 1,564 | [GLB](https://polyfork.dev/cdn/two-wheel-supply-trailer-90d380.glb) · [module](https://polyfork.dev/cdn/two-wheel-supply-trailer-90d380.mjs) |

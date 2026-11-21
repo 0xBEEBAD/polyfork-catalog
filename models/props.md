@@ -1,6 +1,6 @@
 # Props
 
-2,167 free low-poly models. [All types](../README.md#browse-by-type)
+2,175 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -72,6 +72,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Arcane Staff](https://polyfork.dev/asset/arcane-staff-49d687) |  | 774 | [GLB](https://polyfork.dev/cdn/arcane-staff-49d687.glb) · [module](https://polyfork.dev/cdn/arcane-staff-49d687.mjs) |
 | [Arched Cemetery Gate](https://polyfork.dev/asset/arched-cemetery-gate-bdca7c) | [Halloween Night](../kits/halloween-night-46ade4.md) | 904 | [GLB](https://polyfork.dev/cdn/arched-cemetery-gate-bdca7c.glb) · [module](https://polyfork.dev/cdn/arched-cemetery-gate-bdca7c.mjs) |
 | [Arched Foot Bridge](https://polyfork.dev/asset/arched-foot-bridge-0da34f) |  | 648 | [GLB](https://polyfork.dev/cdn/arched-foot-bridge-0da34f.glb) · [module](https://polyfork.dev/cdn/arched-foot-bridge-0da34f.mjs) |
+| [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 860 | [GLB](https://polyfork.dev/cdn/arched-stone-bridge-9474cf.glb) · [module](https://polyfork.dev/cdn/arched-stone-bridge-9474cf.mjs) |
 | [Archery Target](https://polyfork.dev/asset/archery-target-762034) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 680 | [GLB](https://polyfork.dev/cdn/archery-target-762034.glb) · [module](https://polyfork.dev/cdn/archery-target-762034.mjs) |
 | [Area Railing](https://polyfork.dev/asset/area-railing-a771da) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 524 | [GLB](https://polyfork.dev/cdn/area-railing-a771da.glb) · [module](https://polyfork.dev/cdn/area-railing-a771da.mjs) |
 | [Area Rug](https://polyfork.dev/asset/area-rug-5c56e2) | [Open Plan](../kits/open-plan-b2ebd3.md) | 392 | [GLB](https://polyfork.dev/cdn/area-rug-5c56e2.glb) · [module](https://polyfork.dev/cdn/area-rug-5c56e2.mjs) |
@@ -384,6 +385,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Clay Amphora](https://polyfork.dev/asset/clay-amphora-098d94) | [Coral Reef](../kits/coral-reef-a7128a.md) | 572 | [GLB](https://polyfork.dev/cdn/clay-amphora-098d94.glb) · [module](https://polyfork.dev/cdn/clay-amphora-098d94.mjs) |
 | [Clay Bread Oven](https://polyfork.dev/asset/clay-bread-oven-860b06) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 564 | [GLB](https://polyfork.dev/cdn/clay-bread-oven-860b06.glb) · [module](https://polyfork.dev/cdn/clay-bread-oven-860b06.mjs) |
 | [Clay Storage Pot](https://polyfork.dev/asset/clay-storage-pot-626452) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 406 | [GLB](https://polyfork.dev/cdn/clay-storage-pot-626452.glb) · [module](https://polyfork.dev/cdn/clay-storage-pot-626452.mjs) |
+| [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 774 | [GLB](https://polyfork.dev/cdn/clay-wine-jar-8eea26.glb) · [module](https://polyfork.dev/cdn/clay-wine-jar-8eea26.mjs) |
 | [Clay Wine Jug](https://polyfork.dev/asset/clay-wine-jug-b4ebd3) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 662 | [GLB](https://polyfork.dev/cdn/clay-wine-jug-b4ebd3.glb) · [module](https://polyfork.dev/cdn/clay-wine-jug-b4ebd3.mjs) |
 | [Cleared Fire Pit](https://polyfork.dev/asset/cleared-fire-pit-399cda) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 796 | [GLB](https://polyfork.dev/cdn/cleared-fire-pit-399cda.glb) · [module](https://polyfork.dev/cdn/cleared-fire-pit-399cda.mjs) |
 | [Cleared Stone Path Tile](https://polyfork.dev/asset/cleared-stone-path-tile-7e92bc) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 706 | [GLB](https://polyfork.dev/cdn/cleared-stone-path-tile-7e92bc.glb) · [module](https://polyfork.dev/cdn/cleared-stone-path-tile-7e92bc.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Crossing Gate](https://polyfork.dev/asset/crossing-gate-50bcee) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 828 | [GLB](https://polyfork.dev/cdn/crossing-gate-50bcee.glb) · [module](https://polyfork.dev/cdn/crossing-gate-50bcee.mjs) |
 | [Crown](https://polyfork.dev/asset/crown-a294ce) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 622 | [GLB](https://polyfork.dev/cdn/crown-a294ce.glb) · [module](https://polyfork.dev/cdn/crown-a294ce.mjs) |
 | [Cruiser and Longboard](https://polyfork.dev/asset/cruiser-and-longboard-b3d081) | [Skatepark kit](../kits/skatepark-0922a9.md) | 860 | [GLB](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.glb) · [module](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.mjs) |
-| [Crypt Flagstone Floor](https://polyfork.dev/asset/crypt-flagstone-floor-b86b1a) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 680 | [GLB](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.glb) · [module](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.mjs) |
-| [Crypt Grave Markers](https://polyfork.dev/asset/crypt-grave-markers-8fd1ef) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 535 | [GLB](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.glb) · [module](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

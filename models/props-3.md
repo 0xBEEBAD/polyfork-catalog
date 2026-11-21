@@ -1,11 +1,13 @@
 # Props
 
-2,167 free low-poly models. [All types](../README.md#browse-by-type)
+2,175 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Large Path Stone](https://polyfork.dev/asset/large-path-stone-1b0844) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 80 | [GLB](https://polyfork.dev/cdn/large-path-stone-1b0844.glb) · [module](https://polyfork.dev/cdn/large-path-stone-1b0844.mjs) |
+| [Laser Pointer Ray](https://polyfork.dev/asset/laser-pointer-ray-a70928) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 608 | [GLB](https://polyfork.dev/cdn/laser-pointer-ray-a70928.glb) · [module](https://polyfork.dev/cdn/laser-pointer-ray-a70928.mjs) |
 | [Laundry Basket](https://polyfork.dev/asset/laundry-basket-16ed8e) | [Open Plan](../kits/open-plan-b2ebd3.md) | 748 | [GLB](https://polyfork.dev/cdn/laundry-basket-16ed8e.glb) · [module](https://polyfork.dev/cdn/laundry-basket-16ed8e.mjs) |
 | [Laundry Line Run](https://polyfork.dev/asset/laundry-line-run-dcbc64) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 894 | [GLB](https://polyfork.dev/cdn/laundry-line-run-dcbc64.glb) · [module](https://polyfork.dev/cdn/laundry-line-run-dcbc64.mjs) |
 | [Lava Field Tile](https://polyfork.dev/asset/lava-field-tile-3ae53c) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 886 | [GLB](https://polyfork.dev/cdn/lava-field-tile-3ae53c.glb) · [module](https://polyfork.dev/cdn/lava-field-tile-3ae53c.mjs) |
@@ -193,6 +195,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Neon Window Sign](https://polyfork.dev/asset/neon-window-sign-92a889) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 562 | [GLB](https://polyfork.dev/cdn/neon-window-sign-92a889.glb) · [module](https://polyfork.dev/cdn/neon-window-sign-92a889.mjs) |
 | [Neonatal Incubator](https://polyfork.dev/asset/neonatal-incubator-28de34) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 658 | [GLB](https://polyfork.dev/cdn/neonatal-incubator-28de34.glb) · [module](https://polyfork.dev/cdn/neonatal-incubator-28de34.mjs) |
 | [Net Pile](https://polyfork.dev/asset/net-pile-0bd489) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 959 | [GLB](https://polyfork.dev/cdn/net-pile-0bd489.glb) · [module](https://polyfork.dev/cdn/net-pile-0bd489.mjs) |
+| [Netted Tree Bundle](https://polyfork.dev/asset/netted-tree-bundle-1bd759) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 598 | [GLB](https://polyfork.dev/cdn/netted-tree-bundle-1bd759.glb) · [module](https://polyfork.dev/cdn/netted-tree-bundle-1bd759.mjs) |
 | [Newspaper Box](https://polyfork.dev/asset/newspaper-box-3f2c0e) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 474 | [GLB](https://polyfork.dev/cdn/newspaper-box-3f2c0e.glb) · [module](https://polyfork.dev/cdn/newspaper-box-3f2c0e.mjs) |
 | [Nobori Banner](https://polyfork.dev/asset/nobori-banner-ae4d88) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 582 | [GLB](https://polyfork.dev/cdn/nobori-banner-ae4d88.glb) · [module](https://polyfork.dev/cdn/nobori-banner-ae4d88.mjs) |
 | [Nopal](https://polyfork.dev/asset/nopal-797b9a) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 666 | [GLB](https://polyfork.dev/cdn/nopal-797b9a.glb) · [module](https://polyfork.dev/cdn/nopal-797b9a.mjs) |
@@ -503,7 +506,4 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Roof solar array](https://polyfork.dev/asset/roof-solar-array-c4b996) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 726 | [GLB](https://polyfork.dev/cdn/roof-solar-array-c4b996.glb) · [module](https://polyfork.dev/cdn/roof-solar-array-c4b996.mjs) |
 | [Roofed Well](https://polyfork.dev/asset/roofed-well-43a2fc) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 744 | [GLB](https://polyfork.dev/cdn/roofed-well-43a2fc.glb) · [module](https://polyfork.dev/cdn/roofed-well-43a2fc.mjs) |
 | [Roofline String Light Run](https://polyfork.dev/asset/roofline-string-light-run-fa1160) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 732 | [GLB](https://polyfork.dev/cdn/roofline-string-light-run-fa1160.glb) · [module](https://polyfork.dev/cdn/roofline-string-light-run-fa1160.mjs) |
-| [Rooftop AC Unit](https://polyfork.dev/asset/rooftop-ac-unit-6ccb3c) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 640 | [GLB](https://polyfork.dev/cdn/rooftop-ac-unit-6ccb3c.glb) · [module](https://polyfork.dev/cdn/rooftop-ac-unit-6ccb3c.mjs) |
-| [Rooftop Antenna Mast](https://polyfork.dev/asset/rooftop-antenna-mast-6e4944) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 594 | [GLB](https://polyfork.dev/cdn/rooftop-antenna-mast-6e4944.glb) · [module](https://polyfork.dev/cdn/rooftop-antenna-mast-6e4944.mjs) |
-| [Rooftop Billboard](https://polyfork.dev/asset/rooftop-billboard-48a23e) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 774 | [GLB](https://polyfork.dev/cdn/rooftop-billboard-48a23e.glb) · [module](https://polyfork.dev/cdn/rooftop-billboard-48a23e.mjs) |
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)

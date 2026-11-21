@@ -1,11 +1,13 @@
 # Props
 
-2,167 free low-poly models. [All types](../README.md#browse-by-type)
+2,175 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Crypt Flagstone Floor](https://polyfork.dev/asset/crypt-flagstone-floor-b86b1a) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 680 | [GLB](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.glb) · [module](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.mjs) |
+| [Crypt Grave Markers](https://polyfork.dev/asset/crypt-grave-markers-8fd1ef) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 535 | [GLB](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.glb) · [module](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.mjs) |
 | [Crypt Well Head](https://polyfork.dev/asset/crypt-well-head-d368f3) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 891 | [GLB](https://polyfork.dev/cdn/crypt-well-head-d368f3.glb) · [module](https://polyfork.dev/cdn/crypt-well-head-d368f3.mjs) |
 | [Crystal Chandelier](https://polyfork.dev/asset/crystal-chandelier-55d279) | [Hotel Casino kit](../kits/casino-3dd029.md) | 772 | [GLB](https://polyfork.dev/cdn/crystal-chandelier-55d279.glb) · [module](https://polyfork.dev/cdn/crystal-chandelier-55d279.mjs) |
 | [Crystal Cluster](https://polyfork.dev/asset/crystal-cluster-624138) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 472 | [GLB](https://polyfork.dev/cdn/crystal-cluster-624138.glb) · [module](https://polyfork.dev/cdn/crystal-cluster-624138.mjs) |
@@ -504,6 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Large Asteroid](https://polyfork.dev/asset/large-asteroid-391721) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 754 | [GLB](https://polyfork.dev/cdn/large-asteroid-391721.glb) · [module](https://polyfork.dev/cdn/large-asteroid-391721.mjs) |
 | [Large Boulder](https://polyfork.dev/asset/large-boulder-a29b99) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 566 | [GLB](https://polyfork.dev/cdn/large-boulder-a29b99.glb) · [module](https://polyfork.dev/cdn/large-boulder-a29b99.mjs) |
 | [Large Coastal Boulder](https://polyfork.dev/asset/large-coastal-boulder-a2cab1) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 190 | [GLB](https://polyfork.dev/cdn/large-coastal-boulder-a2cab1.glb) · [module](https://polyfork.dev/cdn/large-coastal-boulder-a2cab1.mjs) |
-| [Large Path Stone](https://polyfork.dev/asset/large-path-stone-1b0844) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 80 | [GLB](https://polyfork.dev/cdn/large-path-stone-1b0844.glb) · [module](https://polyfork.dev/cdn/large-path-stone-1b0844.mjs) |
-| [Laser Pointer Ray](https://polyfork.dev/asset/laser-pointer-ray-a70928) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 608 | [GLB](https://polyfork.dev/cdn/laser-pointer-ray-a70928.glb) · [module](https://polyfork.dev/cdn/laser-pointer-ray-a70928.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)

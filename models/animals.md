@@ -44,7 +44,7 @@
 | [Camel](https://polyfork.dev/asset/camel-base) |  | 3,364 | [GLB](https://polyfork.dev/cdn/camel-base.glb) · [module](https://polyfork.dev/cdn/camel-base.mjs) |
 | [Cardinalfish](https://polyfork.dev/asset/cardinalfish-base) |  | 3,760 | [GLB](https://polyfork.dev/cdn/cardinalfish-base.glb) · [module](https://polyfork.dev/cdn/cardinalfish-base.mjs) |
 | [Caroler](https://polyfork.dev/asset/caroler-base) |  | 3,895 | [GLB](https://polyfork.dev/cdn/caroler-base.glb) · [module](https://polyfork.dev/cdn/caroler-base.mjs) |
-| [Cat](https://polyfork.dev/asset/cat-base) |  | 1,902 | [GLB](https://polyfork.dev/cdn/cat-base.glb) · [module](https://polyfork.dev/cdn/cat-base.mjs) |
+| [Cat](https://polyfork.dev/asset/cat-base) |  | 1,966 | [GLB](https://polyfork.dev/cdn/cat-base.glb) · [module](https://polyfork.dev/cdn/cat-base.mjs) |
 | [Cathedral angel](https://polyfork.dev/asset/cathedral-angel-base) |  | 4,944 | [GLB](https://polyfork.dev/cdn/cathedral-angel-base.glb) · [module](https://polyfork.dev/cdn/cathedral-angel-base.mjs) |
 | [Cathedral statue](https://polyfork.dev/asset/cathedral-statue-base) |  | 4,939 | [GLB](https://polyfork.dev/cdn/cathedral-statue-base.glb) · [module](https://polyfork.dev/cdn/cathedral-statue-base.mjs) |
 | [Charcoal-Skinned Fire Cultist](https://polyfork.dev/asset/fire-cultist-05e52e) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,982 | [GLB](https://polyfork.dev/cdn/fire-cultist-05e52e.glb) · [module](https://polyfork.dev/cdn/fire-cultist-05e52e.mjs) |
@@ -89,7 +89,7 @@
 | [Elderly audience member](https://polyfork.dev/asset/elderly-audience-member-base) |  | 4,194 | [GLB](https://polyfork.dev/cdn/elderly-audience-member-base.glb) · [module](https://polyfork.dev/cdn/elderly-audience-member-base.mjs) |
 | [Elephant](https://polyfork.dev/asset/elephant-base) |  | 3,770 | [GLB](https://polyfork.dev/cdn/elephant-base.glb) · [module](https://polyfork.dev/cdn/elephant-base.mjs) |
 | [Elf assassin](https://polyfork.dev/asset/elf-assassin-base) |  | 6,340 | [GLB](https://polyfork.dev/cdn/elf-assassin-base.glb) · [module](https://polyfork.dev/cdn/elf-assassin-base.mjs) |
-| [Elf carrying presents](https://polyfork.dev/asset/elf-carrying-presents-base) |  | 3,852 | [GLB](https://polyfork.dev/cdn/elf-carrying-presents-base.glb) · [module](https://polyfork.dev/cdn/elf-carrying-presents-base.mjs) |
+| [Elf carrying presents](https://polyfork.dev/asset/elf-carrying-presents-base) |  | 3,904 | [GLB](https://polyfork.dev/cdn/elf-carrying-presents-base.glb) · [module](https://polyfork.dev/cdn/elf-carrying-presents-base.mjs) |
 | [Elf hunter](https://polyfork.dev/asset/elf-hunter-base) |  | 5,544 | [GLB](https://polyfork.dev/cdn/elf-hunter-base.glb) · [module](https://polyfork.dev/cdn/elf-hunter-base.mjs) |
 | [Elf mage](https://polyfork.dev/asset/elf-mage-base) |  | 5,626 | [GLB](https://polyfork.dev/cdn/elf-mage-base.glb) · [module](https://polyfork.dev/cdn/elf-mage-base.mjs) |
 | [Elf toymaker](https://polyfork.dev/asset/elf-toymaker-base) |  | 4,006 | [GLB](https://polyfork.dev/cdn/elf-toymaker-base.glb) · [module](https://polyfork.dev/cdn/elf-toymaker-base.mjs) |
@@ -132,7 +132,7 @@
 | [Halfling assassin](https://polyfork.dev/asset/halfling-assassin-base) |  | 6,186 | [GLB](https://polyfork.dev/cdn/halfling-assassin-base.glb) · [module](https://polyfork.dev/cdn/halfling-assassin-base.mjs) |
 | [Halfling hunter](https://polyfork.dev/asset/halfling-hunter-base) |  | 5,792 | [GLB](https://polyfork.dev/cdn/halfling-hunter-base.glb) · [module](https://polyfork.dev/cdn/halfling-hunter-base.mjs) |
 | [Halfling monk](https://polyfork.dev/asset/halfling-monk-base) |  | 5,476 | [GLB](https://polyfork.dev/cdn/halfling-monk-base.glb) · [module](https://polyfork.dev/cdn/halfling-monk-base.mjs) |
-| [Harpist](https://polyfork.dev/asset/harpist-base) |  | 5,636 | [GLB](https://polyfork.dev/cdn/harpist-base.glb) · [module](https://polyfork.dev/cdn/harpist-base.mjs) |
+| [Harpist](https://polyfork.dev/asset/harpist-base) |  | 5,828 | [GLB](https://polyfork.dev/cdn/harpist-base.glb) · [module](https://polyfork.dev/cdn/harpist-base.mjs) |
 | [Hermit crab](https://polyfork.dev/asset/hermit-crab-base) |  | 2,984 | [GLB](https://polyfork.dev/cdn/hermit-crab-base.glb) · [module](https://polyfork.dev/cdn/hermit-crab-base.mjs) |
 | [Herring gull](https://polyfork.dev/asset/herring-gull-base) |  | 2,994 | [GLB](https://polyfork.dev/cdn/herring-gull-base.glb) · [module](https://polyfork.dev/cdn/herring-gull-base.mjs) |
 | [Hollow-Faced Widow](https://polyfork.dev/asset/mourning-widow-base) |  | 4,988 | [GLB](https://polyfork.dev/cdn/mourning-widow-base.glb) · [module](https://polyfork.dev/cdn/mourning-widow-base.mjs) |
