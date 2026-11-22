@@ -1,11 +1,13 @@
 # Props
 
-2,175 free low-poly models. [All types](../README.md#browse-by-type)
+2,183 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Crown](https://polyfork.dev/asset/crown-a294ce) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 622 | [GLB](https://polyfork.dev/cdn/crown-a294ce.glb) · [module](https://polyfork.dev/cdn/crown-a294ce.mjs) |
+| [Cruiser and Longboard](https://polyfork.dev/asset/cruiser-and-longboard-b3d081) | [Skatepark kit](../kits/skatepark-0922a9.md) | 860 | [GLB](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.glb) · [module](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.mjs) |
 | [Crypt Flagstone Floor](https://polyfork.dev/asset/crypt-flagstone-floor-b86b1a) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 680 | [GLB](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.glb) · [module](https://polyfork.dev/cdn/crypt-flagstone-floor-b86b1a.mjs) |
 | [Crypt Grave Markers](https://polyfork.dev/asset/crypt-grave-markers-8fd1ef) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 535 | [GLB](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.glb) · [module](https://polyfork.dev/cdn/crypt-grave-markers-8fd1ef.mjs) |
 | [Crypt Well Head](https://polyfork.dev/asset/crypt-well-head-d368f3) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 891 | [GLB](https://polyfork.dev/cdn/crypt-well-head-d368f3.glb) · [module](https://polyfork.dev/cdn/crypt-well-head-d368f3.mjs) |
@@ -456,6 +458,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Jolly Roger Pole](https://polyfork.dev/asset/jolly-roger-pole-803c5a) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 508 | [GLB](https://polyfork.dev/cdn/jolly-roger-pole-803c5a.glb) · [module](https://polyfork.dev/cdn/jolly-roger-pole-803c5a.mjs) |
 | [Joshua Tree](https://polyfork.dev/asset/joshua-tree-867a2c) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 819 | [GLB](https://polyfork.dev/cdn/joshua-tree-867a2c.glb) · [module](https://polyfork.dev/cdn/joshua-tree-867a2c.mjs) |
 | [Juego de la Rana](https://polyfork.dev/asset/juego-de-la-rana-659e89) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 912 | [GLB](https://polyfork.dev/cdn/juego-de-la-rana-659e89.glb) · [module](https://polyfork.dev/cdn/juego-de-la-rana-659e89.mjs) |
+| [Jujube Tree](https://polyfork.dev/asset/jujube-tree-0e69dd) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,560 | [GLB](https://polyfork.dev/cdn/jujube-tree-0e69dd.glb) · [module](https://polyfork.dev/cdn/jujube-tree-0e69dd.mjs) |
 | [Jukebox](https://polyfork.dev/asset/jukebox-1e2ea6) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 731 | [GLB](https://polyfork.dev/cdn/jukebox-1e2ea6.glb) · [module](https://polyfork.dev/cdn/jukebox-1e2ea6.mjs) |
 | [Kafeneio Table](https://polyfork.dev/asset/kafeneio-table-6d2b91) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 778 | [GLB](https://polyfork.dev/cdn/kafeneio-table-6d2b91.glb) · [module](https://polyfork.dev/cdn/kafeneio-table-6d2b91.mjs) |
 | [Kagaribi Fire Basket](https://polyfork.dev/asset/kagaribi-fire-basket-d28c11) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 604 | [GLB](https://polyfork.dev/cdn/kagaribi-fire-basket-d28c11.glb) · [module](https://polyfork.dev/cdn/kagaribi-fire-basket-d28c11.mjs) |
@@ -486,6 +489,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Lab Stool](https://polyfork.dev/asset/lab-stool-022713) | [Research Lab](../kits/research-lab-9b9b5d.md) | 642 | [GLB](https://polyfork.dev/cdn/lab-stool-022713.glb) · [module](https://polyfork.dev/cdn/lab-stool-022713.mjs) |
 | [Lab Stool](https://polyfork.dev/asset/lab-stool-f405c7) |  | 492 | [GLB](https://polyfork.dev/cdn/lab-stool-f405c7.glb) · [module](https://polyfork.dev/cdn/lab-stool-f405c7.mjs) |
 | [Laced Hide Stretching Rack](https://polyfork.dev/asset/laced-hide-stretching-rack-8152a1) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 836 | [GLB](https://polyfork.dev/cdn/laced-hide-stretching-rack-8152a1.glb) · [module](https://polyfork.dev/cdn/laced-hide-stretching-rack-8152a1.mjs) |
+| [Lacquer Tree](https://polyfork.dev/asset/lacquer-tree-6b8e43) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,280 | [GLB](https://polyfork.dev/cdn/lacquer-tree-6b8e43.glb) · [module](https://polyfork.dev/cdn/lacquer-tree-6b8e43.mjs) |
 | [Lair Stalagmite](https://polyfork.dev/asset/lair-stalagmite-7d4d95) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 594 | [GLB](https://polyfork.dev/cdn/lair-stalagmite-7d4d95.glb) · [module](https://polyfork.dev/cdn/lair-stalagmite-7d4d95.mjs) |
 | [Lair Stone Stair](https://polyfork.dev/asset/lair-stone-stair-4e09d5) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 636 | [GLB](https://polyfork.dev/cdn/lair-stone-stair-4e09d5.glb) · [module](https://polyfork.dev/cdn/lair-stone-stair-4e09d5.mjs) |
 | [Lake Dock Run](https://polyfork.dev/asset/lake-dock-run-f5380e) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 480 | [GLB](https://polyfork.dev/cdn/lake-dock-run-f5380e.glb) · [module](https://polyfork.dev/cdn/lake-dock-run-f5380e.mjs) |
@@ -502,8 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Lane-marking-decal](https://polyfork.dev/asset/lane-marking-decal-d1a212) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 298 | [GLB](https://polyfork.dev/cdn/lane-marking-decal-d1a212.glb) · [module](https://polyfork.dev/cdn/lane-marking-decal-d1a212.mjs) |
 | [Lantern Post](https://polyfork.dev/asset/lantern-post-f47665) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 482 | [GLB](https://polyfork.dev/cdn/lantern-post-f47665.glb) · [module](https://polyfork.dev/cdn/lantern-post-f47665.mjs) |
 | [Lanyard And Badge](https://polyfork.dev/asset/lanyard-and-badge-941f5a) | [Office](../kits/office-794453.md) | 412 | [GLB](https://polyfork.dev/cdn/lanyard-and-badge-941f5a.glb) · [module](https://polyfork.dev/cdn/lanyard-and-badge-941f5a.mjs) |
-| [Laptop](https://polyfork.dev/asset/laptop-e775ba) | [Office](../kits/office-794453.md) | 626 | [GLB](https://polyfork.dev/cdn/laptop-e775ba.glb) · [module](https://polyfork.dev/cdn/laptop-e775ba.mjs) |
-| [Large Asteroid](https://polyfork.dev/asset/large-asteroid-391721) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 754 | [GLB](https://polyfork.dev/cdn/large-asteroid-391721.glb) · [module](https://polyfork.dev/cdn/large-asteroid-391721.mjs) |
-| [Large Boulder](https://polyfork.dev/asset/large-boulder-a29b99) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 566 | [GLB](https://polyfork.dev/cdn/large-boulder-a29b99.glb) · [module](https://polyfork.dev/cdn/large-boulder-a29b99.mjs) |
-| [Large Coastal Boulder](https://polyfork.dev/asset/large-coastal-boulder-a2cab1) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 190 | [GLB](https://polyfork.dev/cdn/large-coastal-boulder-a2cab1.glb) · [module](https://polyfork.dev/cdn/large-coastal-boulder-a2cab1.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)

@@ -1,6 +1,6 @@
 # Props
 
-2,175 free low-poly models. [All types](../README.md#browse-by-type)
+2,183 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -233,6 +233,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Broken Stone Column](https://polyfork.dev/asset/broken-stone-column-c91287) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 700 | [GLB](https://polyfork.dev/cdn/broken-stone-column-c91287.glb) · [module](https://polyfork.dev/cdn/broken-stone-column-c91287.mjs) |
 | [Broken-Out Road Tile](https://polyfork.dev/asset/broken-out-road-tile-c9e990) | [Construction Site](../kits/construction-site-9e40b0.md) | 499 | [GLB](https://polyfork.dev/cdn/broken-out-road-tile-c9e990.glb) · [module](https://polyfork.dev/cdn/broken-out-road-tile-c9e990.mjs) |
 | [Bronze Lamp Stand](https://polyfork.dev/asset/bronze-lamp-stand-59b9d2) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 700 | [GLB](https://polyfork.dev/cdn/bronze-lamp-stand-59b9d2.glb) · [module](https://polyfork.dev/cdn/bronze-lamp-stand-59b9d2.mjs) |
+| [Bronze Tripod Cauldron](https://polyfork.dev/asset/bronze-tripod-cauldron-7ee4ba) | [Myths of Olympus](../kits/myths-of-olympus-d03622.md) | 970 | [GLB](https://polyfork.dev/cdn/bronze-tripod-cauldron-7ee4ba.glb) · [module](https://polyfork.dev/cdn/bronze-tripod-cauldron-7ee4ba.mjs) |
 | [Brood Nest](https://polyfork.dev/asset/brood-nest-1d3e6b) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 779 | [GLB](https://polyfork.dev/cdn/brood-nest-1d3e6b.glb) · [module](https://polyfork.dev/cdn/brood-nest-1d3e6b.mjs) |
 | [Brooding Hearthstone](https://polyfork.dev/asset/brooding-hearthstone-7546be) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 818 | [GLB](https://polyfork.dev/cdn/brooding-hearthstone-7546be.glb) · [module](https://polyfork.dev/cdn/brooding-hearthstone-7546be.mjs) |
 | [Bubble-Tip Anemone](https://polyfork.dev/asset/bubble-tip-anemone-eab5d3) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 753 | [GLB](https://polyfork.dev/cdn/bubble-tip-anemone-eab5d3.glb) · [module](https://polyfork.dev/cdn/bubble-tip-anemone-eab5d3.mjs) |
@@ -367,6 +368,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Child's Grave](https://polyfork.dev/asset/child-s-grave-d45e1a) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 799 | [GLB](https://polyfork.dev/cdn/child-s-grave-d45e1a.glb) · [module](https://polyfork.dev/cdn/child-s-grave-d45e1a.mjs) |
 | [Chilean Flag on a Flagpole](https://polyfork.dev/asset/chilean-flag-on-a-8b9693) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 558 | [GLB](https://polyfork.dev/cdn/chilean-flag-on-a-8b9693.glb) · [module](https://polyfork.dev/cdn/chilean-flag-on-a-8b9693.mjs) |
 | [Chilean Palm](https://polyfork.dev/asset/chilean-palm-45fef5) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 910 | [GLB](https://polyfork.dev/cdn/chilean-palm-45fef5.glb) · [module](https://polyfork.dev/cdn/chilean-palm-45fef5.mjs) |
+| [Chinese Scholar Tree](https://polyfork.dev/asset/chinese-scholar-tree-059fce) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,931 | [GLB](https://polyfork.dev/cdn/chinese-scholar-tree-059fce.glb) · [module](https://polyfork.dev/cdn/chinese-scholar-tree-059fce.mjs) |
 | [Chip Carrier Rack](https://polyfork.dev/asset/chip-carrier-rack-62d3b8) | [Hotel Casino kit](../kits/casino-3dd029.md) | 836 | [GLB](https://polyfork.dev/cdn/chip-carrier-rack-62d3b8.glb) · [module](https://polyfork.dev/cdn/chip-carrier-rack-62d3b8.mjs) |
 | [Chocolate Fountain](https://polyfork.dev/asset/chocolate-fountain-5d6fa7) | [Hotel Casino kit](../kits/casino-3dd029.md) | 886 | [GLB](https://polyfork.dev/cdn/chocolate-fountain-5d6fa7.glb) · [module](https://polyfork.dev/cdn/chocolate-fountain-5d6fa7.mjs) |
 | [Chopping Block](https://polyfork.dev/asset/chopping-block-073b5e) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 484 | [GLB](https://polyfork.dev/cdn/chopping-block-073b5e.glb) · [module](https://polyfork.dev/cdn/chopping-block-073b5e.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Crossbow](https://polyfork.dev/asset/crossbow-59750a) |  | 958 | [GLB](https://polyfork.dev/cdn/crossbow-59750a.glb) · [module](https://polyfork.dev/cdn/crossbow-59750a.mjs) |
 | [Crossing And Pad Decal](https://polyfork.dev/asset/crossing-and-pad-decal-0bab8c) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 206 | [GLB](https://polyfork.dev/cdn/crossing-and-pad-decal-0bab8c.glb) · [module](https://polyfork.dev/cdn/crossing-and-pad-decal-0bab8c.mjs) |
 | [Crossing Gate](https://polyfork.dev/asset/crossing-gate-50bcee) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 828 | [GLB](https://polyfork.dev/cdn/crossing-gate-50bcee.glb) · [module](https://polyfork.dev/cdn/crossing-gate-50bcee.mjs) |
-| [Crown](https://polyfork.dev/asset/crown-a294ce) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 622 | [GLB](https://polyfork.dev/cdn/crown-a294ce.glb) · [module](https://polyfork.dev/cdn/crown-a294ce.mjs) |
-| [Cruiser and Longboard](https://polyfork.dev/asset/cruiser-and-longboard-b3d081) | [Skatepark kit](../kits/skatepark-0922a9.md) | 860 | [GLB](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.glb) · [module](https://polyfork.dev/cdn/cruiser-and-longboard-b3d081.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

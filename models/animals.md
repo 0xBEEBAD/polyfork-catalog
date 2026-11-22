@@ -1,6 +1,6 @@
 # Animals
 
-274 free low-poly models. [All types](../README.md#browse-by-type)
+275 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -144,11 +144,12 @@
 | [Human knight](https://polyfork.dev/asset/human-knight-base) |  | 6,374 | [GLB](https://polyfork.dev/cdn/human-knight-base.glb) · [module](https://polyfork.dev/cdn/human-knight-base.mjs) |
 | [Human mage](https://polyfork.dev/asset/human-mage-base) |  | 5,480 | [GLB](https://polyfork.dev/cdn/human-mage-base.glb) · [module](https://polyfork.dev/cdn/human-mage-base.mjs) |
 | [Human priest](https://polyfork.dev/asset/human-priest-base) |  | 6,455 | [GLB](https://polyfork.dev/cdn/human-priest-base.glb) · [module](https://polyfork.dev/cdn/human-priest-base.mjs) |
+| [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) |  | 4,720 | [GLB](https://polyfork.dev/cdn/human-vest-shorts-base.glb) · [module](https://polyfork.dev/cdn/human-vest-shorts-base.mjs) |
 | [Human warrior](https://polyfork.dev/asset/human-warrior-base) |  | 6,331 | [GLB](https://polyfork.dev/cdn/human-warrior-base.glb) · [module](https://polyfork.dev/cdn/human-warrior-base.mjs) |
 | [Human-Faced Wax Moth](https://polyfork.dev/asset/honey-moth-base) |  | 3,773 | [GLB](https://polyfork.dev/cdn/honey-moth-base.glb) · [module](https://polyfork.dev/cdn/honey-moth-base.mjs) |
 | [Jellyfish](https://polyfork.dev/asset/jellyfish-base) |  | 3,500 | [GLB](https://polyfork.dev/cdn/jellyfish-base.glb) · [module](https://polyfork.dev/cdn/jellyfish-base.mjs) |
 | [Kid in a puffy coat](https://polyfork.dev/asset/kid-in-a-puffy-coat-base) |  | 4,130 | [GLB](https://polyfork.dev/cdn/kid-in-a-puffy-coat-base.glb) · [module](https://polyfork.dev/cdn/kid-in-a-puffy-coat-base.mjs) |
-| [Kite kid](https://polyfork.dev/asset/kite-kid-base) |  | 2,964 | [GLB](https://polyfork.dev/cdn/kite-kid-base.glb) · [module](https://polyfork.dev/cdn/kite-kid-base.mjs) |
+| [Kite kid](https://polyfork.dev/asset/kite-kid-base) |  | 3,024 | [GLB](https://polyfork.dev/cdn/kite-kid-base.glb) · [module](https://polyfork.dev/cdn/kite-kid-base.mjs) |
 | [Koi](https://polyfork.dev/asset/koi-base) |  | 3,508 | [GLB](https://polyfork.dev/cdn/koi-base.glb) · [module](https://polyfork.dev/cdn/koi-base.mjs) |
 | [Leaf-Shawled Forest Witch](https://polyfork.dev/asset/forest-witch-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/forest-witch-base.glb) · [module](https://polyfork.dev/cdn/forest-witch-base.mjs) |
 | [Leopard slug](https://polyfork.dev/asset/leopard-slug-base) |  | 3,506 | [GLB](https://polyfork.dev/cdn/leopard-slug-base.glb) · [module](https://polyfork.dev/cdn/leopard-slug-base.mjs) |
@@ -166,7 +167,7 @@
 | [Moray eel](https://polyfork.dev/asset/moray-eel-base) |  | 2,990 | [GLB](https://polyfork.dev/cdn/moray-eel-base.glb) · [module](https://polyfork.dev/cdn/moray-eel-base.mjs) |
 | [Morbex, the Embalmer King](https://polyfork.dev/asset/morbex-base) |  | 4,998 | [GLB](https://polyfork.dev/cdn/morbex-base.glb) · [module](https://polyfork.dev/cdn/morbex-base.mjs) |
 | [Mountain hare](https://polyfork.dev/asset/mountain-hare-base) |  | 2,975 | [GLB](https://polyfork.dev/cdn/mountain-hare-base.glb) · [module](https://polyfork.dev/cdn/mountain-hare-base.mjs) |
-| [Mrs claus](https://polyfork.dev/asset/mrs-claus-base) |  | 3,911 | [GLB](https://polyfork.dev/cdn/mrs-claus-base.glb) · [module](https://polyfork.dev/cdn/mrs-claus-base.mjs) |
+| [Mrs claus](https://polyfork.dev/asset/mrs-claus-base) |  | 3,955 | [GLB](https://polyfork.dev/cdn/mrs-claus-base.glb) · [module](https://polyfork.dev/cdn/mrs-claus-base.mjs) |
 | [Mushroom druid](https://polyfork.dev/asset/mushroom-druid-base) |  | 4,986 | [GLB](https://polyfork.dev/cdn/mushroom-druid-base.glb) · [module](https://polyfork.dev/cdn/mushroom-druid-base.mjs) |
 | [Mushroom-Capped Oracle](https://polyfork.dev/asset/mushroom-druid-def610) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,986 | [GLB](https://polyfork.dev/cdn/mushroom-druid-def610.glb) · [module](https://polyfork.dev/cdn/mushroom-druid-def610.mjs) |
 | [Nail-Haloed Martyr](https://polyfork.dev/asset/shrouded-martyr-base) |  | 4,946 | [GLB](https://polyfork.dev/cdn/shrouded-martyr-base.glb) · [module](https://polyfork.dev/cdn/shrouded-martyr-base.mjs) |

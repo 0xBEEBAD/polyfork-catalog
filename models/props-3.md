@@ -1,11 +1,15 @@
 # Props
 
-2,175 free low-poly models. [All types](../README.md#browse-by-type)
+2,183 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Laptop](https://polyfork.dev/asset/laptop-e775ba) | [Office](../kits/office-794453.md) | 626 | [GLB](https://polyfork.dev/cdn/laptop-e775ba.glb) · [module](https://polyfork.dev/cdn/laptop-e775ba.mjs) |
+| [Large Asteroid](https://polyfork.dev/asset/large-asteroid-391721) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 754 | [GLB](https://polyfork.dev/cdn/large-asteroid-391721.glb) · [module](https://polyfork.dev/cdn/large-asteroid-391721.mjs) |
+| [Large Boulder](https://polyfork.dev/asset/large-boulder-a29b99) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 566 | [GLB](https://polyfork.dev/cdn/large-boulder-a29b99.glb) · [module](https://polyfork.dev/cdn/large-boulder-a29b99.mjs) |
+| [Large Coastal Boulder](https://polyfork.dev/asset/large-coastal-boulder-a2cab1) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 190 | [GLB](https://polyfork.dev/cdn/large-coastal-boulder-a2cab1.glb) · [module](https://polyfork.dev/cdn/large-coastal-boulder-a2cab1.mjs) |
 | [Large Path Stone](https://polyfork.dev/asset/large-path-stone-1b0844) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 80 | [GLB](https://polyfork.dev/cdn/large-path-stone-1b0844.glb) · [module](https://polyfork.dev/cdn/large-path-stone-1b0844.mjs) |
 | [Laser Pointer Ray](https://polyfork.dev/asset/laser-pointer-ray-a70928) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 608 | [GLB](https://polyfork.dev/cdn/laser-pointer-ray-a70928.glb) · [module](https://polyfork.dev/cdn/laser-pointer-ray-a70928.mjs) |
 | [Laundry Basket](https://polyfork.dev/asset/laundry-basket-16ed8e) | [Open Plan](../kits/open-plan-b2ebd3.md) | 748 | [GLB](https://polyfork.dev/cdn/laundry-basket-16ed8e.glb) · [module](https://polyfork.dev/cdn/laundry-basket-16ed8e.mjs) |
@@ -183,6 +187,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Motel-sign](https://polyfork.dev/asset/motel-sign-21033b) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 602 | [GLB](https://polyfork.dev/cdn/motel-sign-21033b.glb) · [module](https://polyfork.dev/cdn/motel-sign-21033b.mjs) |
 | [Moving Walkway Run](https://polyfork.dev/asset/moving-walkway-run-9f078a) | [Airport](../kits/airport-43b137.md) | 378 | [GLB](https://polyfork.dev/cdn/moving-walkway-run-9f078a.glb) · [module](https://polyfork.dev/cdn/moving-walkway-run-9f078a.mjs) |
 | [Mud and Rut Tile](https://polyfork.dev/asset/mud-and-rut-tile-858785) | [Construction Site](../kits/construction-site-9e40b0.md) | 642 | [GLB](https://polyfork.dev/cdn/mud-and-rut-tile-858785.glb) · [module](https://polyfork.dev/cdn/mud-and-rut-tile-858785.mjs) |
+| [Mulberry Tree](https://polyfork.dev/asset/mulberry-tree-032f4e) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,219 | [GLB](https://polyfork.dev/cdn/mulberry-tree-032f4e.glb) · [module](https://polyfork.dev/cdn/mulberry-tree-032f4e.mjs) |
 | [Multifunction Printer](https://polyfork.dev/asset/multifunction-printer-3aa70b) | [Office](../kits/office-794453.md) | 592 | [GLB](https://polyfork.dev/cdn/multifunction-printer-3aa70b.glb) · [module](https://polyfork.dev/cdn/multifunction-printer-3aa70b.mjs) |
 | [Mushroom Cluster](https://polyfork.dev/asset/mushroom-cluster-18dc1d) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 587 | [GLB](https://polyfork.dev/cdn/mushroom-cluster-18dc1d.glb) · [module](https://polyfork.dev/cdn/mushroom-cluster-18dc1d.mjs) |
 | [Mushroom Cluster](https://polyfork.dev/asset/mushroom-cluster-f2e3ba) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 531 | [GLB](https://polyfork.dev/cdn/mushroom-cluster-f2e3ba.glb) · [module](https://polyfork.dev/cdn/mushroom-cluster-f2e3ba.mjs) |
@@ -256,6 +261,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Owlbear Miniature](https://polyfork.dev/asset/owlbear-miniature-0218ce) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 957 | [GLB](https://polyfork.dev/cdn/owlbear-miniature-0218ce.glb) · [module](https://polyfork.dev/cdn/owlbear-miniature-0218ce.mjs) |
 | [Oxygen Tank](https://polyfork.dev/asset/oxygen-tank-223f7f) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 322 | [GLB](https://polyfork.dev/cdn/oxygen-tank-223f7f.glb) · [module](https://polyfork.dev/cdn/oxygen-tank-223f7f.mjs) |
 | [PA Horn Post](https://polyfork.dev/asset/pa-horn-post-212ec8) | [Stadium](../kits/stadium-5db167.md) | 698 | [GLB](https://polyfork.dev/cdn/pa-horn-post-212ec8.glb) · [module](https://polyfork.dev/cdn/pa-horn-post-212ec8.mjs) |
+| [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 562 | [GLB](https://polyfork.dev/cdn/packed-earth-street-tile-dc6251.glb) · [module](https://polyfork.dev/cdn/packed-earth-street-tile-dc6251.mjs) |
 | [Padded Equipment Carrying Frame](https://polyfork.dev/asset/padded-equipment-carrying-frame-d691c8) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 712 | [GLB](https://polyfork.dev/cdn/padded-equipment-carrying-frame-d691c8.glb) · [module](https://polyfork.dev/cdn/padded-equipment-carrying-frame-d691c8.mjs) |
 | [Padded Pool Chaise](https://polyfork.dev/asset/padded-pool-chaise-5b08a9) | [Hotel Casino kit](../kits/casino-3dd029.md) | 682 | [GLB](https://polyfork.dev/cdn/padded-pool-chaise-5b08a9.glb) · [module](https://polyfork.dev/cdn/padded-pool-chaise-5b08a9.mjs) |
 | [Pagination Dots](https://polyfork.dev/asset/pagination-dots-2be26a) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 780 | [GLB](https://polyfork.dev/cdn/pagination-dots-2be26a.glb) · [module](https://polyfork.dev/cdn/pagination-dots-2be26a.mjs) |
@@ -500,10 +506,4 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Rolled Kerb Run](https://polyfork.dev/asset/rolled-kerb-run-3e8bc3) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 148 | [GLB](https://polyfork.dev/cdn/rolled-kerb-run-3e8bc3.glb) · [module](https://polyfork.dev/cdn/rolled-kerb-run-3e8bc3.mjs) |
 | [Rolled Pitch Tarpaulin](https://polyfork.dev/asset/rolled-pitch-tarpaulin-c8a93f) | [Stadium](../kits/stadium-5db167.md) | 696 | [GLB](https://polyfork.dev/cdn/rolled-pitch-tarpaulin-c8a93f.glb) · [module](https://polyfork.dev/cdn/rolled-pitch-tarpaulin-c8a93f.mjs) |
 | [Roller Shutter](https://polyfork.dev/asset/roller-shutter-c58b4f) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 400 | [GLB](https://polyfork.dev/cdn/roller-shutter-c58b4f.glb) · [module](https://polyfork.dev/cdn/roller-shutter-c58b4f.mjs) |
-| [Roller Skate](https://polyfork.dev/asset/roller-skate-1c38cf) | [Skatepark kit](../kits/skatepark-0922a9.md) | 792 | [GLB](https://polyfork.dev/cdn/roller-skate-1c38cf.glb) · [module](https://polyfork.dev/cdn/roller-skate-1c38cf.mjs) |
-| [Rongorongo Tablet](https://polyfork.dev/asset/rongorongo-tablet-c90348) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 892 | [GLB](https://polyfork.dev/cdn/rongorongo-tablet-c90348.glb) · [module](https://polyfork.dev/cdn/rongorongo-tablet-c90348.mjs) |
-| [Roof Bulkhead](https://polyfork.dev/asset/roof-bulkhead-0f0acc) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 336 | [GLB](https://polyfork.dev/cdn/roof-bulkhead-0f0acc.glb) · [module](https://polyfork.dev/cdn/roof-bulkhead-0f0acc.mjs) |
-| [Roof solar array](https://polyfork.dev/asset/roof-solar-array-c4b996) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 726 | [GLB](https://polyfork.dev/cdn/roof-solar-array-c4b996.glb) · [module](https://polyfork.dev/cdn/roof-solar-array-c4b996.mjs) |
-| [Roofed Well](https://polyfork.dev/asset/roofed-well-43a2fc) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 744 | [GLB](https://polyfork.dev/cdn/roofed-well-43a2fc.glb) · [module](https://polyfork.dev/cdn/roofed-well-43a2fc.mjs) |
-| [Roofline String Light Run](https://polyfork.dev/asset/roofline-string-light-run-fa1160) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 732 | [GLB](https://polyfork.dev/cdn/roofline-string-light-run-fa1160.glb) · [module](https://polyfork.dev/cdn/roofline-string-light-run-fa1160.mjs) |
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
