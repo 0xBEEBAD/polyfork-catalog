@@ -1,6 +1,6 @@
 # Animals
 
-275 free low-poly models. [All types](../README.md#browse-by-type)
+277 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -16,6 +16,7 @@
 | [Ashen assassin](https://polyfork.dev/asset/ashen-assassin-base) |  | 4,874 | [GLB](https://polyfork.dev/cdn/ashen-assassin-base.glb) · [module](https://polyfork.dev/cdn/ashen-assassin-base.mjs) |
 | [Audience gentleman](https://polyfork.dev/asset/audience-gentleman-base) |  | 4,908 | [GLB](https://polyfork.dev/cdn/audience-gentleman-base.glb) · [module](https://polyfork.dev/cdn/audience-gentleman-base.mjs) |
 | [Aurelian, the Flawless Judge](https://polyfork.dev/asset/aurelian-base) |  | 4,884 | [GLB](https://polyfork.dev/cdn/aurelian-base.glb) · [module](https://polyfork.dev/cdn/aurelian-base.mjs) |
+| [Balloon seller](https://polyfork.dev/asset/balloon-seller-base) |  | 4,986 | [GLB](https://polyfork.dev/cdn/balloon-seller-base.glb) · [module](https://polyfork.dev/cdn/balloon-seller-base.mjs) |
 | [Banggai Cardinalfish](https://polyfork.dev/asset/banggai-cardinalfish-21f6fc) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 3,760 | [GLB](https://polyfork.dev/cdn/banggai-cardinalfish-21f6fc.glb) · [module](https://polyfork.dev/cdn/banggai-cardinalfish-21f6fc.mjs) |
 | [Barded War Horse](https://polyfork.dev/asset/barded-war-horse-6e921e) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 3,990 | [GLB](https://polyfork.dev/cdn/barded-war-horse-6e921e.glb) · [module](https://polyfork.dev/cdn/barded-war-horse-6e921e.mjs) |
 | [Barnacled Ghost Captain](https://polyfork.dev/asset/undead-pirate-608c9b) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,993 | [GLB](https://polyfork.dev/cdn/undead-pirate-608c9b.glb) · [module](https://polyfork.dev/cdn/undead-pirate-608c9b.mjs) |
@@ -70,6 +71,7 @@
 | [Crystal dragon](https://polyfork.dev/asset/crystal-dragon-base) |  | 3,844 | [GLB](https://polyfork.dev/cdn/crystal-dragon-base.glb) · [module](https://polyfork.dev/cdn/crystal-dragon-base.mjs) |
 | [Crystal dragonling](https://polyfork.dev/asset/crystal-dragonling-base) |  | 2,792 | [GLB](https://polyfork.dev/cdn/crystal-dragonling-base.glb) · [module](https://polyfork.dev/cdn/crystal-dragonling-base.mjs) |
 | [Crystal-Antlered Spectral Stag](https://polyfork.dev/asset/spectral-stag-d19dc1) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 2,726 | [GLB](https://polyfork.dev/cdn/spectral-stag-d19dc1.glb) · [module](https://polyfork.dev/cdn/spectral-stag-d19dc1.mjs) |
+| [Cyclops](https://polyfork.dev/asset/cyclops-base) |  | 4,986 | [GLB](https://polyfork.dev/cdn/cyclops-base.glb) · [module](https://polyfork.dev/cdn/cyclops-base.mjs) |
 | [Deer](https://polyfork.dev/asset/deer-base) |  | 2,230 | [GLB](https://polyfork.dev/cdn/deer-base.glb) · [module](https://polyfork.dev/cdn/deer-base.mjs) |
 | [Dog](https://polyfork.dev/asset/dog-base) |  | 2,204 | [GLB](https://polyfork.dev/cdn/dog-base.glb) · [module](https://polyfork.dev/cdn/dog-base.mjs) |
 | [Dolphin](https://polyfork.dev/asset/dolphin-base) |  | 2,904 | [GLB](https://polyfork.dev/cdn/dolphin-base.glb) · [module](https://polyfork.dev/cdn/dolphin-base.mjs) |

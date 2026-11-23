@@ -1,11 +1,26 @@
 # Props
 
-2,183 free low-poly models. [All types](../README.md#browse-by-type)
+2,200 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Trumpet](https://polyfork.dev/asset/trumpet-349b2e) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 980 | [GLB](https://polyfork.dev/cdn/trumpet-349b2e.glb) · [module](https://polyfork.dev/cdn/trumpet-349b2e.mjs) |
+| [Tsukubai Stone Basin](https://polyfork.dev/asset/tsukubai-stone-basin-677586) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 644 | [GLB](https://polyfork.dev/cdn/tsukubai-stone-basin-677586.glb) · [module](https://polyfork.dev/cdn/tsukubai-stone-basin-677586.mjs) |
+| [Tuba](https://polyfork.dev/asset/tuba-a7b667) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 912 | [GLB](https://polyfork.dev/cdn/tuba-a7b667.glb) · [module](https://polyfork.dev/cdn/tuba-a7b667.mjs) |
+| [Tube Sponge](https://polyfork.dev/asset/tube-sponge-df576b) | [Coral Reef](../kits/coral-reef-a7128a.md) | 605 | [GLB](https://polyfork.dev/cdn/tube-sponge-df576b.glb) · [module](https://polyfork.dev/cdn/tube-sponge-df576b.mjs) |
+| [Tubular Bells](https://polyfork.dev/asset/tubular-bells-15a893) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 774 | [GLB](https://polyfork.dev/cdn/tubular-bells-15a893.glb) · [module](https://polyfork.dev/cdn/tubular-bells-15a893.mjs) |
+| [Tukuturi Kneeling Moai](https://polyfork.dev/asset/tukuturi-kneeling-moai-fad7ef) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 857 | [GLB](https://polyfork.dev/cdn/tukuturi-kneeling-moai-fad7ef.glb) · [module](https://polyfork.dev/cdn/tukuturi-kneeling-moai-fad7ef.mjs) |
+| [Tumbleweed](https://polyfork.dev/asset/tumbleweed-077954) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 916 | [GLB](https://polyfork.dev/cdn/tumbleweed-077954.glb) · [module](https://polyfork.dev/cdn/tumbleweed-077954.mjs) |
+| [Tumbleweed](https://polyfork.dev/asset/tumbleweed-2caa1a) | [Frontier Town](../kits/frontier-town-a0085b.md) | 636 | [GLB](https://polyfork.dev/cdn/tumbleweed-2caa1a.glb) · [module](https://polyfork.dev/cdn/tumbleweed-2caa1a.mjs) |
+| [Tunnel Portal](https://polyfork.dev/asset/tunnel-portal-4ac9f3) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 774 | [GLB](https://polyfork.dev/cdn/tunnel-portal-4ac9f3.glb) · [module](https://polyfork.dev/cdn/tunnel-portal-4ac9f3.mjs) |
+| [Turf Pitch Tile](https://polyfork.dev/asset/turf-pitch-tile-aca1ef) | [Stadium](../kits/stadium-5db167.md) | 100 | [GLB](https://polyfork.dev/cdn/turf-pitch-tile-aca1ef.glb) · [module](https://polyfork.dev/cdn/turf-pitch-tile-aca1ef.mjs) |
+| [Turnip Crop](https://polyfork.dev/asset/turnip-crop-a5b3b7) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 365 | [GLB](https://polyfork.dev/cdn/turnip-crop-a5b3b7.glb) · [module](https://polyfork.dev/cdn/turnip-crop-a5b3b7.mjs) |
+| [Turntable](https://polyfork.dev/asset/turntable-6415d2) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 928 | [GLB](https://polyfork.dev/cdn/turntable-6415d2.glb) · [module](https://polyfork.dev/cdn/turntable-6415d2.mjs) |
+| [Tuxedo Sea Urchin](https://polyfork.dev/asset/tuxedo-sea-urchin-428a09) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 629 | [GLB](https://polyfork.dev/cdn/tuxedo-sea-urchin-428a09.glb) · [module](https://polyfork.dev/cdn/tuxedo-sea-urchin-428a09.mjs) |
+| [Twin Hide Workshop Bellows](https://polyfork.dev/asset/twin-hide-workshop-bellows-3aca72) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 870 | [GLB](https://polyfork.dev/cdn/twin-hide-workshop-bellows-3aca72.glb) · [module](https://polyfork.dev/cdn/twin-hide-workshop-bellows-3aca72.mjs) |
+| [Twisted Dead Oak](https://polyfork.dev/asset/twisted-dead-oak-49457b) | [Halloween Night](../kits/halloween-night-46ade4.md) | 861 | [GLB](https://polyfork.dev/cdn/twisted-dead-oak-49457b.glb) · [module](https://polyfork.dev/cdn/twisted-dead-oak-49457b.mjs) |
 | [Twisted Pine on a Rock](https://polyfork.dev/asset/twisted-pine-on-a-525dc7) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 668 | [GLB](https://polyfork.dev/cdn/twisted-pine-on-a-525dc7.glb) · [module](https://polyfork.dev/cdn/twisted-pine-on-a-525dc7.mjs) |
 | [Two-Burner Camp Stove](https://polyfork.dev/asset/two-burner-camp-stove-3e83f5) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 638 | [GLB](https://polyfork.dev/cdn/two-burner-camp-stove-3e83f5.glb) · [module](https://polyfork.dev/cdn/two-burner-camp-stove-3e83f5.mjs) |
 | [Two-Lane Street Tile](https://polyfork.dev/asset/two-lane-street-tile-8d1c14) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 528 | [GLB](https://polyfork.dev/cdn/two-lane-street-tile-8d1c14.glb) · [module](https://polyfork.dev/cdn/two-lane-street-tile-8d1c14.mjs) |
@@ -39,6 +54,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Vibraphone](https://polyfork.dev/asset/vibraphone-e48315) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 998 | [GLB](https://polyfork.dev/cdn/vibraphone-e48315.glb) · [module](https://polyfork.dev/cdn/vibraphone-e48315.mjs) |
 | [Video Slot Machine](https://polyfork.dev/asset/video-slot-machine-bbecb9) | [Hotel Casino kit](../kits/casino-3dd029.md) | 594 | [GLB](https://polyfork.dev/cdn/video-slot-machine-bbecb9.glb) · [module](https://polyfork.dev/cdn/video-slot-machine-bbecb9.mjs) |
 | [View Cube](https://polyfork.dev/asset/view-cube-1f8553) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 948 | [GLB](https://polyfork.dev/cdn/view-cube-1f8553.glb) · [module](https://polyfork.dev/cdn/view-cube-1f8553.mjs) |
+| [Village Christmas Tree](https://polyfork.dev/asset/village-christmas-tree-54277a) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 1,816 | [GLB](https://polyfork.dev/cdn/village-christmas-tree-54277a.glb) · [module](https://polyfork.dev/cdn/village-christmas-tree-54277a.mjs) |
 | [Village Elm](https://polyfork.dev/asset/village-elm-310fe2) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,075 | [GLB](https://polyfork.dev/cdn/village-elm-310fe2.glb) · [module](https://polyfork.dev/cdn/village-elm-310fe2.mjs) |
 | [Village Hall](https://polyfork.dev/asset/village-hall-c6d3c8) |  | 11,156 | [GLB](https://polyfork.dev/cdn/village-hall-c6d3c8.glb) · [module](https://polyfork.dev/cdn/village-hall-c6d3c8.mjs) |
 | [Village Well](https://polyfork.dev/asset/village-well-f8e361) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 788 | [GLB](https://polyfork.dev/cdn/village-well-f8e361.glb) · [module](https://polyfork.dev/cdn/village-well-f8e361.mjs) |
@@ -135,6 +151,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Windblown Larch](https://polyfork.dev/asset/windblown-larch-abb99c) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 874 | [GLB](https://polyfork.dev/cdn/windblown-larch-abb99c.glb) · [module](https://polyfork.dev/cdn/windblown-larch-abb99c.mjs) |
 | [Windlass Well](https://polyfork.dev/asset/windlass-well-ebc2fb) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 914 | [GLB](https://polyfork.dev/cdn/windlass-well-ebc2fb.glb) · [module](https://polyfork.dev/cdn/windlass-well-ebc2fb.mjs) |
 | [Windmill Pump](https://polyfork.dev/asset/windmill-pump-2993a4) | [Frontier Town](../kits/frontier-town-a0085b.md) | 710 | [GLB](https://polyfork.dev/cdn/windmill-pump-2993a4.glb) · [module](https://polyfork.dev/cdn/windmill-pump-2993a4.mjs) |
+| [Window Candle](https://polyfork.dev/asset/window-candle-0215a6) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 591 | [GLB](https://polyfork.dev/cdn/window-candle-0215a6.glb) · [module](https://polyfork.dev/cdn/window-candle-0215a6.mjs) |
 | [Window Grab Bar](https://polyfork.dev/asset/window-grab-bar-3072a7) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 820 | [GLB](https://polyfork.dev/cdn/window-grab-bar-3072a7.glb) · [module](https://polyfork.dev/cdn/window-grab-bar-3072a7.mjs) |
 | [Window Panel](https://polyfork.dev/asset/window-panel-37ba8e) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 500 | [GLB](https://polyfork.dev/cdn/window-panel-37ba8e.glb) · [module](https://polyfork.dev/cdn/window-panel-37ba8e.mjs) |
 | [Windsock](https://polyfork.dev/asset/windsock-d5df79) | [Airport](../kits/airport-43b137.md) | 744 | [GLB](https://polyfork.dev/cdn/windsock-d5df79.glb) · [module](https://polyfork.dev/cdn/windsock-d5df79.mjs) |

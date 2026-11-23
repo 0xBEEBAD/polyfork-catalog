@@ -1,6 +1,6 @@
 # Props
 
-2,183 free low-poly models. [All types](../README.md#browse-by-type)
+2,200 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -96,6 +96,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Axe](https://polyfork.dev/asset/axe-b545d6) |  | 386 | [GLB](https://polyfork.dev/cdn/axe-b545d6.glb) · [module](https://polyfork.dev/cdn/axe-b545d6.mjs) |
 | [Axis Triad](https://polyfork.dev/asset/axis-triad-187443) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 898 | [GLB](https://polyfork.dev/cdn/axis-triad-187443.glb) · [module](https://polyfork.dev/cdn/axis-triad-187443.mjs) |
 | [Azalea Bush](https://polyfork.dev/asset/azalea-bush-7bb14d) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,011 | [GLB](https://polyfork.dev/cdn/azalea-bush-7bb14d.glb) · [module](https://polyfork.dev/cdn/azalea-bush-7bb14d.mjs) |
+| [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 960 | [GLB](https://polyfork.dev/cdn/baby-pram-73d9f2.glb) · [module](https://polyfork.dev/cdn/baby-pram-73d9f2.mjs) |
 | [Baccarat Table](https://polyfork.dev/asset/baccarat-table-8b4183) | [Hotel Casino kit](../kits/casino-3dd029.md) | 846 | [GLB](https://polyfork.dev/cdn/baccarat-table-8b4183.glb) · [module](https://polyfork.dev/cdn/baccarat-table-8b4183.mjs) |
 | [Back Bar Shelf Unit](https://polyfork.dev/asset/back-bar-shelf-unit-11ab89) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 688 | [GLB](https://polyfork.dev/cdn/back-bar-shelf-unit-11ab89.glb) · [module](https://polyfork.dev/cdn/back-bar-shelf-unit-11ab89.mjs) |
 | [Back-Bar Shelf and Mirror](https://polyfork.dev/asset/back-bar-shelf-and-f5f279) | [Frontier Town](../kits/frontier-town-a0085b.md) | 624 | [GLB](https://polyfork.dev/cdn/back-bar-shelf-and-f5f279.glb) · [module](https://polyfork.dev/cdn/back-bar-shelf-and-f5f279.mjs) |
@@ -372,6 +373,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Chip Carrier Rack](https://polyfork.dev/asset/chip-carrier-rack-62d3b8) | [Hotel Casino kit](../kits/casino-3dd029.md) | 836 | [GLB](https://polyfork.dev/cdn/chip-carrier-rack-62d3b8.glb) · [module](https://polyfork.dev/cdn/chip-carrier-rack-62d3b8.mjs) |
 | [Chocolate Fountain](https://polyfork.dev/asset/chocolate-fountain-5d6fa7) | [Hotel Casino kit](../kits/casino-3dd029.md) | 886 | [GLB](https://polyfork.dev/cdn/chocolate-fountain-5d6fa7.glb) · [module](https://polyfork.dev/cdn/chocolate-fountain-5d6fa7.mjs) |
 | [Chopping Block](https://polyfork.dev/asset/chopping-block-073b5e) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 484 | [GLB](https://polyfork.dev/cdn/chopping-block-073b5e.glb) · [module](https://polyfork.dev/cdn/chopping-block-073b5e.mjs) |
+| [Christmas Yard Inflatable](https://polyfork.dev/asset/christmas-yard-inflatable-0a0c4e) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 1,809 | [GLB](https://polyfork.dev/cdn/christmas-yard-inflatable-0a0c4e.glb) · [module](https://polyfork.dev/cdn/christmas-yard-inflatable-0a0c4e.mjs) |
 | [Church Bell](https://polyfork.dev/asset/church-bell-ccef99) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 972 | [GLB](https://polyfork.dev/cdn/church-bell-ccef99.glb) · [module](https://polyfork.dev/cdn/church-bell-ccef99.mjs) |
 | [Church Flagstone Floor Tile](https://polyfork.dev/asset/church-flagstone-floor-tile-ab3cf2) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 486 | [GLB](https://polyfork.dev/cdn/church-flagstone-floor-tile-ab3cf2.glb) · [module](https://polyfork.dev/cdn/church-flagstone-floor-tile-ab3cf2.mjs) |
 | [Church Pew](https://polyfork.dev/asset/church-pew-dae6d7) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 466 | [GLB](https://polyfork.dev/cdn/church-pew-dae6d7.glb) · [module](https://polyfork.dev/cdn/church-pew-dae6d7.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Crescent Velvet Booth](https://polyfork.dev/asset/crescent-velvet-booth-c97ac6) | [Hotel Casino kit](../kits/casino-3dd029.md) | 698 | [GLB](https://polyfork.dev/cdn/crescent-velvet-booth-c97ac6.glb) · [module](https://polyfork.dev/cdn/crescent-velvet-booth-c97ac6.mjs) |
 | [Crockery Set](https://polyfork.dev/asset/crockery-set-43bd4b) | [Open Plan](../kits/open-plan-b2ebd3.md) | 688 | [GLB](https://polyfork.dev/cdn/crockery-set-43bd4b.glb) · [module](https://polyfork.dev/cdn/crockery-set-43bd4b.mjs) |
 | [Crossbow](https://polyfork.dev/asset/crossbow-59750a) |  | 958 | [GLB](https://polyfork.dev/cdn/crossbow-59750a.glb) · [module](https://polyfork.dev/cdn/crossbow-59750a.mjs) |
-| [Crossing And Pad Decal](https://polyfork.dev/asset/crossing-and-pad-decal-0bab8c) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 206 | [GLB](https://polyfork.dev/cdn/crossing-and-pad-decal-0bab8c.glb) · [module](https://polyfork.dev/cdn/crossing-and-pad-decal-0bab8c.mjs) |
-| [Crossing Gate](https://polyfork.dev/asset/crossing-gate-50bcee) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 828 | [GLB](https://polyfork.dev/cdn/crossing-gate-50bcee.glb) · [module](https://polyfork.dev/cdn/crossing-gate-50bcee.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

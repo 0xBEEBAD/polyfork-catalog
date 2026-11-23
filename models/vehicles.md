@@ -1,6 +1,6 @@
 # Vehicles
 
-222 free low-poly models. [All types](../README.md#browse-by-type)
+223 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -131,6 +131,7 @@
 | [Mounted Bed Crossbow](https://polyfork.dev/asset/mounted-bed-crossbow-edb36f) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 3,350 | [GLB](https://polyfork.dev/cdn/mounted-bed-crossbow-edb36f.glb) · [module](https://polyfork.dev/cdn/mounted-bed-crossbow-edb36f.mjs) |
 | [Multi-legged tiller](https://polyfork.dev/asset/multi-legged-tiller-24ca96) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,546 | [GLB](https://polyfork.dev/cdn/multi-legged-tiller-24ca96.glb) · [module](https://polyfork.dev/cdn/multi-legged-tiller-24ca96.mjs) |
 | [Multi-Wheel Crawler Loader](https://polyfork.dev/asset/multi-wheel-crawler-loader-609591) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 2,188 | [GLB](https://polyfork.dev/cdn/multi-wheel-crawler-loader-609591.glb) · [module](https://polyfork.dev/cdn/multi-wheel-crawler-loader-609591.mjs) |
+| [Municipal Snowplough Truck](https://polyfork.dev/asset/municipal-snowplough-truck-ab4ef7) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 2,579 | [GLB](https://polyfork.dev/cdn/municipal-snowplough-truck-ab4ef7.glb) · [module](https://polyfork.dev/cdn/municipal-snowplough-truck-ab4ef7.mjs) |
 | [Muscle-car-60s](https://polyfork.dev/asset/muscle-car-60s-524d46) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 4,271 | [GLB](https://polyfork.dev/cdn/muscle-car-60s-524d46.glb) · [module](https://polyfork.dev/cdn/muscle-car-60s-524d46.mjs) |
 | [Narrow-Body Airliner](https://polyfork.dev/asset/narrow-body-airliner-619183) | [Airport](../kits/airport-43b137.md) | 5,885 | [GLB](https://polyfork.dev/cdn/narrow-body-airliner-619183.glb) · [module](https://polyfork.dev/cdn/narrow-body-airliner-619183.mjs) |
 | [Nitrogen Dewar (Wheeled)](https://polyfork.dev/asset/nitrogen-dewar-wheeled-c9986e) | [Research Lab](../kits/research-lab-9b9b5d.md) | 1,744 | [GLB](https://polyfork.dev/cdn/nitrogen-dewar-wheeled-c9986e.glb) · [module](https://polyfork.dev/cdn/nitrogen-dewar-wheeled-c9986e.mjs) |

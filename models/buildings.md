@@ -1,6 +1,6 @@
 # Buildings
 
-461 free low-poly models. [All types](../README.md#browse-by-type)
+465 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -60,6 +60,7 @@
 | [Camp Tent](https://polyfork.dev/asset/camp-tent-3c5c89) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 636 | [GLB](https://polyfork.dev/cdn/camp-tent-3c5c89.glb) · [module](https://polyfork.dev/cdn/camp-tent-3c5c89.mjs) |
 | [Campus Railing Run](https://polyfork.dev/asset/campus-railing-run-2ceb3e) | [University](../kits/university-959b66.md) | 256 | [GLB](https://polyfork.dev/cdn/campus-railing-run-2ceb3e.glb) · [module](https://polyfork.dev/cdn/campus-railing-run-2ceb3e.mjs) |
 | [Campus Wall Run](https://polyfork.dev/asset/campus-wall-run-6a35e0) | [University](../kits/university-959b66.md) | 520 | [GLB](https://polyfork.dev/cdn/campus-wall-run-6a35e0.glb) · [module](https://polyfork.dev/cdn/campus-wall-run-6a35e0.mjs) |
+| [Candy Shop](https://polyfork.dev/asset/candy-shop-39a917) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 1,873 | [GLB](https://polyfork.dev/cdn/candy-shop-39a917.glb) · [module](https://polyfork.dev/cdn/candy-shop-39a917.mjs) |
 | [Capsule Residential Tower](https://polyfork.dev/asset/capsule-residential-tower-80300b) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 1,198 | [GLB](https://polyfork.dev/cdn/capsule-residential-tower-80300b.glb) · [module](https://polyfork.dev/cdn/capsule-residential-tower-80300b.mjs) |
 | [Cargo Shed](https://polyfork.dev/asset/cargo-shed-bcb2a8) | [Airport](../kits/airport-43b137.md) | 2,332 | [GLB](https://polyfork.dev/cdn/cargo-shed-bcb2a8.glb) · [module](https://polyfork.dev/cdn/cargo-shed-bcb2a8.mjs) |
 | [Carved Roost Dais](https://polyfork.dev/asset/carved-roost-dais-546bd9) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 1,186 | [GLB](https://polyfork.dev/cdn/carved-roost-dais-546bd9.glb) · [module](https://polyfork.dev/cdn/carved-roost-dais-546bd9.mjs) |
@@ -76,6 +77,7 @@
 | [Changing Cubicle Row](https://polyfork.dev/asset/changing-cubicle-row-5bac7f) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 1,826 | [GLB](https://polyfork.dev/cdn/changing-cubicle-row-5bac7f.glb) · [module](https://polyfork.dev/cdn/changing-cubicle-row-5bac7f.mjs) |
 | [Chicken Coop](https://polyfork.dev/asset/chicken-coop-371f97) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 1,052 | [GLB](https://polyfork.dev/cdn/chicken-coop-371f97.glb) · [module](https://polyfork.dev/cdn/chicken-coop-371f97.mjs) |
 | [Chimney Roof Passage](https://polyfork.dev/asset/chimney-roof-passage-90dedd) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 576 | [GLB](https://polyfork.dev/cdn/chimney-roof-passage-90dedd.glb) · [module](https://polyfork.dev/cdn/chimney-roof-passage-90dedd.mjs) |
+| [Christmas Market Stall](https://polyfork.dev/asset/christmas-market-stall-e0ebe9) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 2,937 | [GLB](https://polyfork.dev/cdn/christmas-market-stall-e0ebe9.glb) · [module](https://polyfork.dev/cdn/christmas-market-stall-e0ebe9.mjs) |
 | [Church Nave Wall](https://polyfork.dev/asset/church-nave-wall-a6f070) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 1,196 | [GLB](https://polyfork.dev/cdn/church-nave-wall-a6f070.glb) · [module](https://polyfork.dev/cdn/church-nave-wall-a6f070.mjs) |
 | [City Gate](https://polyfork.dev/asset/city-gate-77d012) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 3,936 | [GLB](https://polyfork.dev/cdn/city-gate-77d012.glb) · [module](https://polyfork.dev/cdn/city-gate-77d012.mjs) |
 | [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,322 | [GLB](https://polyfork.dev/cdn/city-wall-run-1f4c31.glb) · [module](https://polyfork.dev/cdn/city-wall-run-1f4c31.mjs) |
@@ -272,6 +274,7 @@
 | [Open-Front Teahouse](https://polyfork.dev/asset/open-front-teahouse-c7dd18) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,094 | [GLB](https://polyfork.dev/cdn/open-front-teahouse-c7dd18.glb) · [module](https://polyfork.dev/cdn/open-front-teahouse-c7dd18.mjs) |
 | [Opera Box Tier](https://polyfork.dev/asset/opera-box-tier-d7fdd1) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 1,706 | [GLB](https://polyfork.dev/cdn/opera-box-tier-d7fdd1.glb) · [module](https://polyfork.dev/cdn/opera-box-tier-d7fdd1.mjs) |
 | [Opera House Wall](https://polyfork.dev/asset/opera-house-wall-5f3d7f) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 1,100 | [GLB](https://polyfork.dev/cdn/opera-house-wall-5f3d7f.glb) · [module](https://polyfork.dev/cdn/opera-house-wall-5f3d7f.mjs) |
+| [Ornament Shop](https://polyfork.dev/asset/ornament-shop-de2663) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 1,719 | [GLB](https://polyfork.dev/cdn/ornament-shop-de2663.glb) · [module](https://polyfork.dev/cdn/ornament-shop-de2663.mjs) |
 | [Orongo House Run](https://polyfork.dev/asset/orongo-house-run-e35d16) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 2,226 | [GLB](https://polyfork.dev/cdn/orongo-house-run-e35d16.glb) · [module](https://polyfork.dev/cdn/orongo-house-run-e35d16.mjs) |
 | [Overpass Deck Span](https://polyfork.dev/asset/overpass-deck-span-874f0c) | [Skatepark kit](../kits/skatepark-0922a9.md) | 1,060 | [GLB](https://polyfork.dev/cdn/overpass-deck-span-874f0c.glb) · [module](https://polyfork.dev/cdn/overpass-deck-span-874f0c.mjs) |
 | [Overpass Pier](https://polyfork.dev/asset/overpass-pier-cddd4b) | [Skatepark kit](../kits/skatepark-0922a9.md) | 304 | [GLB](https://polyfork.dev/cdn/overpass-pier-cddd4b.glb) · [module](https://polyfork.dev/cdn/overpass-pier-cddd4b.mjs) |
@@ -321,6 +324,7 @@
 | [Recessed Storey Deck](https://polyfork.dev/asset/recessed-storey-deck-fe19ec) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 1,200 | [GLB](https://polyfork.dev/cdn/recessed-storey-deck-fe19ec.glb) · [module](https://polyfork.dev/cdn/recessed-storey-deck-fe19ec.mjs) |
 | [Red Barn](https://polyfork.dev/asset/red-barn-d41683) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 652 | [GLB](https://polyfork.dev/cdn/red-barn-d41683.glb) · [module](https://polyfork.dev/cdn/red-barn-d41683.mjs) |
 | [Refreshment Kiosk](https://polyfork.dev/asset/refreshment-kiosk-406f65) | [Stadium](../kits/stadium-5db167.md) | 1,086 | [GLB](https://polyfork.dev/cdn/refreshment-kiosk-406f65.glb) · [module](https://polyfork.dev/cdn/refreshment-kiosk-406f65.mjs) |
+| [Reindeer Stable](https://polyfork.dev/asset/reindeer-stable-ea3fc0) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 2,388 | [GLB](https://polyfork.dev/cdn/reindeer-stable-ea3fc0.glb) · [module](https://polyfork.dev/cdn/reindeer-stable-ea3fc0.mjs) |
 | [Resort Marquee Pylon](https://polyfork.dev/asset/resort-marquee-pylon-64ffbf) | [Hotel Casino kit](../kits/casino-3dd029.md) | 2,024 | [GLB](https://polyfork.dev/cdn/resort-marquee-pylon-64ffbf.glb) · [module](https://polyfork.dev/cdn/resort-marquee-pylon-64ffbf.mjs) |
 | [Resort Pool Basin](https://polyfork.dev/asset/resort-pool-basin-a98472) | [Hotel Casino kit](../kits/casino-3dd029.md) | 894 | [GLB](https://polyfork.dev/cdn/resort-pool-basin-a98472.glb) · [module](https://polyfork.dev/cdn/resort-pool-basin-a98472.mjs) |
 | [Retail Podium Arcade](https://polyfork.dev/asset/retail-podium-arcade-f76ee5) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 580 | [GLB](https://polyfork.dev/cdn/retail-podium-arcade-f76ee5.glb) · [module](https://polyfork.dev/cdn/retail-podium-arcade-f76ee5.mjs) |
