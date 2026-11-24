@@ -1,6 +1,6 @@
 # Vehicles
 
-223 free low-poly models. [All types](../README.md#browse-by-type)
+224 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -212,6 +212,7 @@
 | [Tracked Excavator](https://polyfork.dev/asset/tracked-excavator-8ebd3c) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,800 | [GLB](https://polyfork.dev/cdn/tracked-excavator-8ebd3c.glb) · [module](https://polyfork.dev/cdn/tracked-excavator-8ebd3c.mjs) |
 | [Traction Trebuchet](https://polyfork.dev/asset/traction-trebuchet-1e5d18) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,412 | [GLB](https://polyfork.dev/cdn/traction-trebuchet-1e5d18.glb) · [module](https://polyfork.dev/cdn/traction-trebuchet-1e5d18.mjs) |
 | [Twin-Engine Piston Light Aircraft](https://polyfork.dev/asset/twin-engine-piston-light-f417c7) | [Airport](../kits/airport-43b137.md) | 3,639 | [GLB](https://polyfork.dev/cdn/twin-engine-piston-light-f417c7.glb) · [module](https://polyfork.dev/cdn/twin-engine-piston-light-f417c7.mjs) |
+| [Two-Horse Chariot](https://polyfork.dev/asset/two-horse-chariot-ef39c3) | [Myths of Olympus](../kits/myths-of-olympus-d03622.md) | 2,588 | [GLB](https://polyfork.dev/cdn/two-horse-chariot-ef39c3.glb) · [module](https://polyfork.dev/cdn/two-horse-chariot-ef39c3.mjs) |
 | [Two-Seat Toboggan](https://polyfork.dev/asset/two-seat-toboggan-09392b) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 2,940 | [GLB](https://polyfork.dev/cdn/two-seat-toboggan-09392b.glb) · [module](https://polyfork.dev/cdn/two-seat-toboggan-09392b.mjs) |
 | [Two-Wheel Supply Trailer](https://polyfork.dev/asset/two-wheel-supply-trailer-90d380) |  | 1,564 | [GLB](https://polyfork.dev/cdn/two-wheel-supply-trailer-90d380.glb) · [module](https://polyfork.dev/cdn/two-wheel-supply-trailer-90d380.mjs) |
 | [Vaka Ama Outrigger Canoe](https://polyfork.dev/asset/vaka-ama-outrigger-canoe-2fc79a) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,654 | [GLB](https://polyfork.dev/cdn/vaka-ama-outrigger-canoe-2fc79a.glb) · [module](https://polyfork.dev/cdn/vaka-ama-outrigger-canoe-2fc79a.mjs) |

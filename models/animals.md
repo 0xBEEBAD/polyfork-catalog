@@ -1,6 +1,6 @@
 # Animals
 
-277 free low-poly models. [All types](../README.md#browse-by-type)
+283 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -50,6 +50,7 @@
 | [Cathedral statue](https://polyfork.dev/asset/cathedral-statue-base) |  | 4,939 | [GLB](https://polyfork.dev/cdn/cathedral-statue-base.glb) · [module](https://polyfork.dev/cdn/cathedral-statue-base.mjs) |
 | [Charcoal-Skinned Fire Cultist](https://polyfork.dev/asset/fire-cultist-05e52e) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,982 | [GLB](https://polyfork.dev/cdn/fire-cultist-05e52e.glb) · [module](https://polyfork.dev/cdn/fire-cultist-05e52e.mjs) |
 | [Chicken](https://polyfork.dev/asset/chicken-base) |  | 2,836 | [GLB](https://polyfork.dev/cdn/chicken-base.glb) · [module](https://polyfork.dev/cdn/chicken-base.mjs) |
+| [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) |  | 4,946 | [GLB](https://polyfork.dev/cdn/child-at-the-fun-fair-base.glb) · [module](https://polyfork.dev/cdn/child-at-the-fun-fair-base.mjs) |
 | [Choral star girl](https://polyfork.dev/asset/choral-star-girl-base) |  | 4,912 | [GLB](https://polyfork.dev/cdn/choral-star-girl-base.glb) · [module](https://polyfork.dev/cdn/choral-star-girl-base.mjs) |
 | [Chromis](https://polyfork.dev/asset/chromis-base) |  | 2,352 | [GLB](https://polyfork.dev/cdn/chromis-base.glb) · [module](https://polyfork.dev/cdn/chromis-base.mjs) |
 | [Chromis Shoal](https://polyfork.dev/asset/chromis-shoal-cde0d8) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 2,456 | [GLB](https://polyfork.dev/cdn/chromis-shoal-cde0d8.glb) · [module](https://polyfork.dev/cdn/chromis-shoal-cde0d8.mjs) |
@@ -62,6 +63,7 @@
 | [Concert pianist](https://polyfork.dev/asset/concert-pianist-base) |  | 3,958 | [GLB](https://polyfork.dev/cdn/concert-pianist-base.glb) · [module](https://polyfork.dev/cdn/concert-pianist-base.mjs) |
 | [Conductor](https://polyfork.dev/asset/conductor-base) |  | 4,612 | [GLB](https://polyfork.dev/cdn/conductor-base.glb) · [module](https://polyfork.dev/cdn/conductor-base.mjs) |
 | [Corralero Horse](https://polyfork.dev/asset/corralero-horse-313f1a) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 2,932 | [GLB](https://polyfork.dev/cdn/corralero-horse-313f1a.glb) · [module](https://polyfork.dev/cdn/corralero-horse-313f1a.mjs) |
+| [Court jester](https://polyfork.dev/asset/court-jester-base) |  | 4,840 | [GLB](https://polyfork.dev/cdn/court-jester-base.glb) · [module](https://polyfork.dev/cdn/court-jester-base.mjs) |
 | [Cove Parrot](https://polyfork.dev/asset/cove-parrot-17850c) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 2,964 | [GLB](https://polyfork.dev/cdn/cove-parrot-17850c.glb) · [module](https://polyfork.dev/cdn/cove-parrot-17850c.mjs) |
 | [Cow](https://polyfork.dev/asset/cow-base) |  | 2,538 | [GLB](https://polyfork.dev/cdn/cow-base.glb) · [module](https://polyfork.dev/cdn/cow-base.mjs) |
 | [Crocodile](https://polyfork.dev/asset/crocodile-base) |  | 3,670 | [GLB](https://polyfork.dev/cdn/crocodile-base.glb) · [module](https://polyfork.dev/cdn/crocodile-base.mjs) |
@@ -177,6 +179,7 @@
 | [One-Eyed Seal Judge](https://polyfork.dev/asset/order-judge-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/order-judge-base.glb) · [module](https://polyfork.dev/cdn/order-judge-base.mjs) |
 | [Opera baritone](https://polyfork.dev/asset/opera-baritone-base) |  | 4,941 | [GLB](https://polyfork.dev/cdn/opera-baritone-base.glb) · [module](https://polyfork.dev/cdn/opera-baritone-base.mjs) |
 | [Opera soprano](https://polyfork.dev/asset/opera-soprano-base) |  | 4,990 | [GLB](https://polyfork.dev/cdn/opera-soprano-base.glb) · [module](https://polyfork.dev/cdn/opera-soprano-base.mjs) |
+| [Oracle priestess](https://polyfork.dev/asset/oracle-priestess-base) |  | 4,829 | [GLB](https://polyfork.dev/cdn/oracle-priestess-base.glb) · [module](https://polyfork.dev/cdn/oracle-priestess-base.mjs) |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) |  | 5,575 | [GLB](https://polyfork.dev/cdn/orc-berserker-base.glb) · [module](https://polyfork.dev/cdn/orc-berserker-base.mjs) |
 | [Orc hunter](https://polyfork.dev/asset/orc-hunter-base) |  | 5,892 | [GLB](https://polyfork.dev/cdn/orc-hunter-base.glb) · [module](https://polyfork.dev/cdn/orc-hunter-base.mjs) |
 | [Orc warrior](https://polyfork.dev/asset/orc-warrior-base) |  | 5,552 | [GLB](https://polyfork.dev/cdn/orc-warrior-base.glb) · [module](https://polyfork.dev/cdn/orc-warrior-base.mjs) |
@@ -202,6 +205,7 @@
 | [Purple flame dragonling](https://polyfork.dev/asset/purple-flame-dragonling-base) |  | 2,824 | [GLB](https://polyfork.dev/cdn/purple-flame-dragonling-base.glb) · [module](https://polyfork.dev/cdn/purple-flame-dragonling-base.mjs) |
 | [Rabbit](https://polyfork.dev/asset/rabbit-base) |  | 2,074 | [GLB](https://polyfork.dev/cdn/rabbit-base.glb) · [module](https://polyfork.dev/cdn/rabbit-base.mjs) |
 | [Rabbitfish](https://polyfork.dev/asset/rabbitfish-base) |  | 2,474 | [GLB](https://polyfork.dev/cdn/rabbitfish-base.glb) · [module](https://polyfork.dev/cdn/rabbitfish-base.mjs) |
+| [Raccoon](https://polyfork.dev/asset/raccoon-base) |  | 2,716 | [GLB](https://polyfork.dev/cdn/raccoon-base.glb) · [module](https://polyfork.dev/cdn/raccoon-base.mjs) |
 | [Rat](https://polyfork.dev/asset/rat-base) |  | 2,304 | [GLB](https://polyfork.dev/cdn/rat-base.glb) · [module](https://polyfork.dev/cdn/rat-base.mjs) |
 | [Rat-Snouted Kobold](https://polyfork.dev/asset/rat-kobold-base) |  | 4,994 | [GLB](https://polyfork.dev/cdn/rat-kobold-base.glb) · [module](https://polyfork.dev/cdn/rat-kobold-base.mjs) |
 | [Red fire dragon](https://polyfork.dev/asset/red-fire-dragon-base) |  | 3,572 | [GLB](https://polyfork.dev/cdn/red-fire-dragon-base.glb) · [module](https://polyfork.dev/cdn/red-fire-dragon-base.mjs) |
@@ -238,6 +242,7 @@
 | [Skunk Cleaner Shrimp](https://polyfork.dev/asset/skunk-cleaner-shrimp-95e351) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 2,880 | [GLB](https://polyfork.dev/cdn/skunk-cleaner-shrimp-95e351.glb) · [module](https://polyfork.dev/cdn/skunk-cleaner-shrimp-95e351.mjs) |
 | [Slit-Helmed Forge Sealer](https://polyfork.dev/asset/knight-of-the-forge-base) |  | 4,996 | [GLB](https://polyfork.dev/cdn/knight-of-the-forge-base.glb) · [module](https://polyfork.dev/cdn/knight-of-the-forge-base.mjs) |
 | [Snail](https://polyfork.dev/asset/snail-base) |  | 2,532 | [GLB](https://polyfork.dev/cdn/snail-base.glb) · [module](https://polyfork.dev/cdn/snail-base.mjs) |
+| [Snowy Owl](https://polyfork.dev/asset/snowy-owl-9e83d6) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 3,124 | [GLB](https://polyfork.dev/cdn/snowy-owl-9e83d6.glb) · [module](https://polyfork.dev/cdn/snowy-owl-9e83d6.mjs) |
 | [Soot-Wraith Assassin](https://polyfork.dev/asset/ashen-assassin-1ab976) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,874 | [GLB](https://polyfork.dev/cdn/ashen-assassin-1ab976.glb) · [module](https://polyfork.dev/cdn/ashen-assassin-1ab976.mjs) |
 | [Spear soldier](https://polyfork.dev/asset/spear-soldier-base) |  | 4,962 | [GLB](https://polyfork.dev/cdn/spear-soldier-base.glb) · [module](https://polyfork.dev/cdn/spear-soldier-base.mjs) |
 | [Spectral stag](https://polyfork.dev/asset/spectral-stag-base) |  | 2,726 | [GLB](https://polyfork.dev/cdn/spectral-stag-base.glb) · [module](https://polyfork.dev/cdn/spectral-stag-base.mjs) |
@@ -281,3 +286,4 @@
 | [Xoloitzcuintli](https://polyfork.dev/asset/xoloitzcuintli-1cd7c8) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 2,994 | [GLB](https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.glb) · [module](https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.mjs) |
 | [Yellow tang](https://polyfork.dev/asset/yellow-tang-base) |  | 2,804 | [GLB](https://polyfork.dev/cdn/yellow-tang-base.glb) · [module](https://polyfork.dev/cdn/yellow-tang-base.mjs) |
 | [Zebra](https://polyfork.dev/asset/zebra-base) |  | 3,986 | [GLB](https://polyfork.dev/cdn/zebra-base.glb) · [module](https://polyfork.dev/cdn/zebra-base.mjs) |
+| [Zeus](https://polyfork.dev/asset/zeus-base) |  | 4,880 | [GLB](https://polyfork.dev/cdn/zeus-base.glb) · [module](https://polyfork.dev/cdn/zeus-base.mjs) |

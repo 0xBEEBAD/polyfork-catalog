@@ -1,11 +1,25 @@
 # Props
 
-2,200 free low-poly models. [All types](../README.md#browse-by-type)
+2,214 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Tree in Pit Grate](https://polyfork.dev/asset/tree-in-pit-grate-ea8010) | [University](../kits/university-959b66.md) | 736 | [GLB](https://polyfork.dev/cdn/tree-in-pit-grate-ea8010.glb) · [module](https://polyfork.dev/cdn/tree-in-pit-grate-ea8010.mjs) |
+| [Tree Lot Stand](https://polyfork.dev/asset/tree-lot-stand-89557d) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 887 | [GLB](https://polyfork.dev/cdn/tree-lot-stand-89557d.glb) · [module](https://polyfork.dev/cdn/tree-lot-stand-89557d.mjs) |
+| [Tree Netting Baler](https://polyfork.dev/asset/tree-netting-baler-353d66) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 778 | [GLB](https://polyfork.dev/cdn/tree-netting-baler-353d66.glb) · [module](https://polyfork.dev/cdn/tree-netting-baler-353d66.mjs) |
+| [Tree Stump](https://polyfork.dev/asset/tree-stump-00f3bf) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 460 | [GLB](https://polyfork.dev/cdn/tree-stump-00f3bf.glb) · [module](https://polyfork.dev/cdn/tree-stump-00f3bf.mjs) |
+| [Tree Stump](https://polyfork.dev/asset/tree-stump-8c0513) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 524 | [GLB](https://polyfork.dev/cdn/tree-stump-8c0513.glb) · [module](https://polyfork.dev/cdn/tree-stump-8c0513.mjs) |
+| [Tree Stump](https://polyfork.dev/asset/tree-stump-ec3f48) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 505 | [GLB](https://polyfork.dev/cdn/tree-stump-ec3f48.glb) · [module](https://polyfork.dev/cdn/tree-stump-ec3f48.mjs) |
+| [Trench Plate](https://polyfork.dev/asset/trench-plate-30c3a3) | [Construction Site](../kits/construction-site-9e40b0.md) | 476 | [GLB](https://polyfork.dev/cdn/trench-plate-30c3a3.glb) · [module](https://polyfork.dev/cdn/trench-plate-30c3a3.mjs) |
+| [Triangle](https://polyfork.dev/asset/triangle-58e13c) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 440 | [GLB](https://polyfork.dev/cdn/triangle-58e13c.glb) · [module](https://polyfork.dev/cdn/triangle-58e13c.mjs) |
+| [Trimmed Foundation Shrub](https://polyfork.dev/asset/trimmed-foundation-shrub-616ce0) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 518 | [GLB](https://polyfork.dev/cdn/trimmed-foundation-shrub-616ce0.glb) · [module](https://polyfork.dev/cdn/trimmed-foundation-shrub-616ce0.mjs) |
+| [Tripod Machine Gun](https://polyfork.dev/asset/tripod-machine-gun-80f906) |  | 558 | [GLB](https://polyfork.dev/cdn/tripod-machine-gun-80f906.glb) · [module](https://polyfork.dev/cdn/tripod-machine-gun-80f906.mjs) |
+| [Trombone](https://polyfork.dev/asset/trombone-f9069e) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 772 | [GLB](https://polyfork.dev/cdn/trombone-f9069e.glb) · [module](https://polyfork.dev/cdn/trombone-f9069e.mjs) |
+| [Trompo](https://polyfork.dev/asset/trompo-80e3a5) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 680 | [GLB](https://polyfork.dev/cdn/trompo-80e3a5.glb) · [module](https://polyfork.dev/cdn/trompo-80e3a5.mjs) |
+| [Trophy Cabinet](https://polyfork.dev/asset/trophy-cabinet-e963ac) |  | 671 | [GLB](https://polyfork.dev/cdn/trophy-cabinet-e963ac.glb) · [module](https://polyfork.dev/cdn/trophy-cabinet-e963ac.mjs) |
+| [Tropical Fern Bush](https://polyfork.dev/asset/tropical-fern-bush-c70147) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 655 | [GLB](https://polyfork.dev/cdn/tropical-fern-bush-c70147.glb) · [module](https://polyfork.dev/cdn/tropical-fern-bush-c70147.mjs) |
 | [Trumpet](https://polyfork.dev/asset/trumpet-349b2e) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 980 | [GLB](https://polyfork.dev/cdn/trumpet-349b2e.glb) · [module](https://polyfork.dev/cdn/trumpet-349b2e.mjs) |
 | [Tsukubai Stone Basin](https://polyfork.dev/asset/tsukubai-stone-basin-677586) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 644 | [GLB](https://polyfork.dev/cdn/tsukubai-stone-basin-677586.glb) · [module](https://polyfork.dev/cdn/tsukubai-stone-basin-677586.mjs) |
 | [Tuba](https://polyfork.dev/asset/tuba-a7b667) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 912 | [GLB](https://polyfork.dev/cdn/tuba-a7b667.glb) · [module](https://polyfork.dev/cdn/tuba-a7b667.mjs) |
