@@ -1,6 +1,6 @@
 # Vehicles
 
-224 free low-poly models. [All types](../README.md#browse-by-type)
+228 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -73,6 +73,7 @@
 | [Diesel Shunter](https://polyfork.dev/asset/diesel-shunter-67094b) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,499 | [GLB](https://polyfork.dev/cdn/diesel-shunter-67094b.glb) · [module](https://polyfork.dev/cdn/diesel-shunter-67094b.mjs) |
 | [Diver Propulsion Vehicle](https://polyfork.dev/asset/diver-propulsion-vehicle-11d8ef) | [Coral Reef](../kits/coral-reef-a7128a.md) | 1,204 | [GLB](https://polyfork.dev/cdn/diver-propulsion-vehicle-11d8ef.glb) · [module](https://polyfork.dev/cdn/diver-propulsion-vehicle-11d8ef.mjs) |
 | [Dock Cargo Barge](https://polyfork.dev/asset/dock-cargo-barge-69dc4b) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 4,070 | [GLB](https://polyfork.dev/cdn/dock-cargo-barge-69dc4b.glb) · [module](https://polyfork.dev/cdn/dock-cargo-barge-69dc4b.mjs) |
+| [Dragon Boat](https://polyfork.dev/asset/dragon-boat-1c79b1) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 3,770 | [GLB](https://polyfork.dev/cdn/dragon-boat-1c79b1.glb) · [module](https://polyfork.dev/cdn/dragon-boat-1c79b1.mjs) |
 | [Drum-wheel harvester](https://polyfork.dev/asset/drum-wheel-harvester-0408c0) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,790 | [GLB](https://polyfork.dev/cdn/drum-wheel-harvester-0408c0.glb) · [module](https://polyfork.dev/cdn/drum-wheel-harvester-0408c0.mjs) |
 | [Eight-Wheel Industrial Hauler](https://polyfork.dev/asset/eight-wheel-industrial-hauler-4dc3d7) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 2,056 | [GLB](https://polyfork.dev/cdn/eight-wheel-industrial-hauler-4dc3d7.glb) · [module](https://polyfork.dev/cdn/eight-wheel-industrial-hauler-4dc3d7.mjs) |
 | [Elote Cart](https://polyfork.dev/asset/elote-cart-a8fb49) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 2,596 | [GLB](https://polyfork.dev/cdn/elote-cart-a8fb49.glb) · [module](https://polyfork.dev/cdn/elote-cart-a8fb49.mjs) |
@@ -120,6 +121,7 @@
 | [Lavatory Service Truck](https://polyfork.dev/asset/lavatory-service-truck-023f33) | [Airport](../kits/airport-43b137.md) | 2,810 | [GLB](https://polyfork.dev/cdn/lavatory-service-truck-023f33.glb) · [module](https://polyfork.dev/cdn/lavatory-service-truck-023f33.mjs) |
 | [Lighter-than-air tender](https://polyfork.dev/asset/lighter-than-air-tender-0c7361) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,330 | [GLB](https://polyfork.dev/cdn/lighter-than-air-tender-0c7361.glb) · [module](https://polyfork.dev/cdn/lighter-than-air-tender-0c7361.mjs) |
 | [Mainline Diesel Locomotive](https://polyfork.dev/asset/mainline-diesel-locomotive-33ef97) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,570 | [GLB](https://polyfork.dev/cdn/mainline-diesel-locomotive-33ef97.glb) · [module](https://polyfork.dev/cdn/mainline-diesel-locomotive-33ef97.mjs) |
+| [Manual Pallet Jack](https://polyfork.dev/asset/manual-pallet-jack-1a842e) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 1,650 | [GLB](https://polyfork.dev/cdn/manual-pallet-jack-1a842e.glb) · [module](https://polyfork.dev/cdn/manual-pallet-jack-1a842e.mjs) |
 | [Marigold Pickup](https://polyfork.dev/asset/marigold-pickup-f4b6f9) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 2,770 | [GLB](https://polyfork.dev/cdn/marigold-pickup-f4b6f9.glb) · [module](https://polyfork.dev/cdn/marigold-pickup-f4b6f9.mjs) |
 | [Medium Tank](https://polyfork.dev/asset/medium-tank-65da6b) |  | 2,534 | [GLB](https://polyfork.dev/cdn/medium-tank-65da6b.glb) · [module](https://polyfork.dev/cdn/medium-tank-65da6b.mjs) |
 | [Military Cargo Truck](https://polyfork.dev/asset/military-cargo-truck-652f66) |  | 2,284 | [GLB](https://polyfork.dev/cdn/military-cargo-truck-652f66.glb) · [module](https://polyfork.dev/cdn/military-cargo-truck-652f66.mjs) |
@@ -192,6 +194,7 @@
 | [Suburban Pickup Truck](https://polyfork.dev/asset/suburban-pickup-truck-d15ea2) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 2,339 | [GLB](https://polyfork.dev/cdn/suburban-pickup-truck-d15ea2.glb) · [module](https://polyfork.dev/cdn/suburban-pickup-truck-d15ea2.mjs) |
 | [Sunken Fishing Boat](https://polyfork.dev/asset/sunken-fishing-boat-061c70) | [Coral Reef](../kits/coral-reef-a7128a.md) | 1,192 | [GLB](https://polyfork.dev/cdn/sunken-fishing-boat-061c70.glb) · [module](https://polyfork.dev/cdn/sunken-fishing-boat-061c70.mjs) |
 | [Survey Drone](https://polyfork.dev/asset/survey-drone-7c71f9) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 1,242 | [GLB](https://polyfork.dev/cdn/survey-drone-7c71f9.glb) · [module](https://polyfork.dev/cdn/survey-drone-7c71f9.mjs) |
+| [Swan Pedal Boat](https://polyfork.dev/asset/swan-pedal-boat-8dc50b) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 2,382 | [GLB](https://polyfork.dev/cdn/swan-pedal-boat-8dc50b.glb) · [module](https://polyfork.dev/cdn/swan-pedal-boat-8dc50b.mjs) |
 | [Tandem Road Roller](https://polyfork.dev/asset/tandem-road-roller-f7d8f3) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,426 | [GLB](https://polyfork.dev/cdn/tandem-road-roller-f7d8f3.glb) · [module](https://polyfork.dev/cdn/tandem-road-roller-f7d8f3.mjs) |
 | [Tank Steam Locomotive](https://polyfork.dev/asset/tank-steam-locomotive-314bb1) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,713 | [GLB](https://polyfork.dev/cdn/tank-steam-locomotive-314bb1.glb) · [module](https://polyfork.dev/cdn/tank-steam-locomotive-314bb1.mjs) |
 | [Tank Wagon](https://polyfork.dev/asset/tank-wagon-d860fa) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,416 | [GLB](https://polyfork.dev/cdn/tank-wagon-d860fa.glb) · [module](https://polyfork.dev/cdn/tank-wagon-d860fa.mjs) |
@@ -211,6 +214,7 @@
 | [Tracked Crawler](https://polyfork.dev/asset/tracked-crawler-a7c5ff) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 2,656 | [GLB](https://polyfork.dev/cdn/tracked-crawler-a7c5ff.glb) · [module](https://polyfork.dev/cdn/tracked-crawler-a7c5ff.mjs) |
 | [Tracked Excavator](https://polyfork.dev/asset/tracked-excavator-8ebd3c) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,800 | [GLB](https://polyfork.dev/cdn/tracked-excavator-8ebd3c.glb) · [module](https://polyfork.dev/cdn/tracked-excavator-8ebd3c.mjs) |
 | [Traction Trebuchet](https://polyfork.dev/asset/traction-trebuchet-1e5d18) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,412 | [GLB](https://polyfork.dev/cdn/traction-trebuchet-1e5d18.glb) · [module](https://polyfork.dev/cdn/traction-trebuchet-1e5d18.mjs) |
+| [Trireme Warship](https://polyfork.dev/asset/trireme-warship-f15a0e) | [Myths of Olympus](../kits/myths-of-olympus-d03622.md) | 4,384 | [GLB](https://polyfork.dev/cdn/trireme-warship-f15a0e.glb) · [module](https://polyfork.dev/cdn/trireme-warship-f15a0e.mjs) |
 | [Twin-Engine Piston Light Aircraft](https://polyfork.dev/asset/twin-engine-piston-light-f417c7) | [Airport](../kits/airport-43b137.md) | 3,639 | [GLB](https://polyfork.dev/cdn/twin-engine-piston-light-f417c7.glb) · [module](https://polyfork.dev/cdn/twin-engine-piston-light-f417c7.mjs) |
 | [Two-Horse Chariot](https://polyfork.dev/asset/two-horse-chariot-ef39c3) | [Myths of Olympus](../kits/myths-of-olympus-d03622.md) | 2,588 | [GLB](https://polyfork.dev/cdn/two-horse-chariot-ef39c3.glb) · [module](https://polyfork.dev/cdn/two-horse-chariot-ef39c3.mjs) |
 | [Two-Seat Toboggan](https://polyfork.dev/asset/two-seat-toboggan-09392b) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 2,940 | [GLB](https://polyfork.dev/cdn/two-seat-toboggan-09392b.glb) · [module](https://polyfork.dev/cdn/two-seat-toboggan-09392b.mjs) |

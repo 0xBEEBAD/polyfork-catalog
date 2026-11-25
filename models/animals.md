@@ -1,6 +1,6 @@
 # Animals
 
-283 free low-poly models. [All types](../README.md#browse-by-type)
+285 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -222,6 +222,7 @@
 | [Sack-Hooded Arsonist](https://polyfork.dev/asset/sack-arsonist-base) |  | 4,971 | [GLB](https://polyfork.dev/cdn/sack-arsonist-base.glb) · [module](https://polyfork.dev/cdn/sack-arsonist-base.mjs) |
 | [Saddled Horse](https://polyfork.dev/asset/saddled-horse-da86d3) | [Frontier Town](../kits/frontier-town-a0085b.md) | 2,998 | [GLB](https://polyfork.dev/cdn/saddled-horse-da86d3.glb) · [module](https://polyfork.dev/cdn/saddled-horse-da86d3.mjs) |
 | [Santa](https://polyfork.dev/asset/santa-base) |  | 3,766 | [GLB](https://polyfork.dev/cdn/santa-base.glb) · [module](https://polyfork.dev/cdn/santa-base.mjs) |
+| [School crossing patrol](https://polyfork.dev/asset/school-crossing-patrol-base) |  | 4,454 | [GLB](https://polyfork.dev/cdn/school-crossing-patrol-base.glb) · [module](https://polyfork.dev/cdn/school-crossing-patrol-base.mjs) |
 | [Sea anemone](https://polyfork.dev/asset/sea-anemone-base) |  | 2,704 | [GLB](https://polyfork.dev/cdn/sea-anemone-base.glb) · [module](https://polyfork.dev/cdn/sea-anemone-base.mjs) |
 | [Sea occultist](https://polyfork.dev/asset/sea-occultist-base) |  | 4,990 | [GLB](https://polyfork.dev/cdn/sea-occultist-base.glb) · [module](https://polyfork.dev/cdn/sea-occultist-base.mjs) |
 | [Sea turtle](https://polyfork.dev/asset/sea-turtle-base) |  | 3,998 | [GLB](https://polyfork.dev/cdn/sea-turtle-base.glb) · [module](https://polyfork.dev/cdn/sea-turtle-base.mjs) |
@@ -284,6 +285,7 @@
 | [Wolf](https://polyfork.dev/asset/wolf-base) |  | 2,874 | [GLB](https://polyfork.dev/cdn/wolf-base.glb) · [module](https://polyfork.dev/cdn/wolf-base.mjs) |
 | [Wood ant](https://polyfork.dev/asset/wood-ant-base) |  | 2,268 | [GLB](https://polyfork.dev/cdn/wood-ant-base.glb) · [module](https://polyfork.dev/cdn/wood-ant-base.mjs) |
 | [Xoloitzcuintli](https://polyfork.dev/asset/xoloitzcuintli-1cd7c8) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 2,994 | [GLB](https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.glb) · [module](https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.mjs) |
+| [Yard shunter driver](https://polyfork.dev/asset/yard-shunter-driver-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/yard-shunter-driver-base.glb) · [module](https://polyfork.dev/cdn/yard-shunter-driver-base.mjs) |
 | [Yellow tang](https://polyfork.dev/asset/yellow-tang-base) |  | 2,804 | [GLB](https://polyfork.dev/cdn/yellow-tang-base.glb) · [module](https://polyfork.dev/cdn/yellow-tang-base.mjs) |
 | [Zebra](https://polyfork.dev/asset/zebra-base) |  | 3,986 | [GLB](https://polyfork.dev/cdn/zebra-base.glb) · [module](https://polyfork.dev/cdn/zebra-base.mjs) |
 | [Zeus](https://polyfork.dev/asset/zeus-base) |  | 4,880 | [GLB](https://polyfork.dev/cdn/zeus-base.glb) · [module](https://polyfork.dev/cdn/zeus-base.mjs) |

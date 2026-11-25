@@ -1,6 +1,6 @@
 # Props
 
-2,214 free low-poly models. [All types](../README.md#browse-by-type)
+2,238 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -314,6 +314,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Casino Wall Module](https://polyfork.dev/asset/casino-wall-module-34025a) | [Hotel Casino kit](../kits/casino-3dd029.md) | 314 | [GLB](https://polyfork.dev/cdn/casino-wall-module-34025a.glb) · [module](https://polyfork.dev/cdn/casino-wall-module-34025a.mjs) |
 | [Cast-Iron Plaza Bench](https://polyfork.dev/asset/cast-iron-plaza-bench-b4096d) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 773 | [GLB](https://polyfork.dev/cdn/cast-iron-plaza-bench-b4096d.glb) · [module](https://polyfork.dev/cdn/cast-iron-plaza-bench-b4096d.mjs) |
 | [Castanets](https://polyfork.dev/asset/castanets-50fc2f) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 580 | [GLB](https://polyfork.dev/cdn/castanets-50fc2f.glb) · [module](https://polyfork.dev/cdn/castanets-50fc2f.mjs) |
+| [Castle Drawbridge](https://polyfork.dev/asset/castle-drawbridge-3c119c) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 1,224 | [GLB](https://polyfork.dev/cdn/castle-drawbridge-3c119c.glb) · [module](https://polyfork.dev/cdn/castle-drawbridge-3c119c.mjs) |
 | [Casualty Stretcher](https://polyfork.dev/asset/casualty-stretcher-965771) |  | 656 | [GLB](https://polyfork.dev/cdn/casualty-stretcher-965771.glb) · [module](https://polyfork.dev/cdn/casualty-stretcher-965771.mjs) |
 | [Cattail Reed](https://polyfork.dev/asset/cattail-reed-6abbb3) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 388 | [GLB](https://polyfork.dev/cdn/cattail-reed-6abbb3.glb) · [module](https://polyfork.dev/cdn/cattail-reed-6abbb3.mjs) |
 | [Cattle Dock](https://polyfork.dev/asset/cattle-dock-6e41e4) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 787 | [GLB](https://polyfork.dev/cdn/cattle-dock-6e41e4.glb) · [module](https://polyfork.dev/cdn/cattle-dock-6e41e4.mjs) |
@@ -505,5 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Creosote Bush](https://polyfork.dev/asset/creosote-bush-5b17d5) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 1,543 | [GLB](https://polyfork.dev/cdn/creosote-bush-5b17d5.glb) · [module](https://polyfork.dev/cdn/creosote-bush-5b17d5.mjs) |
 | [Crescent Velvet Booth](https://polyfork.dev/asset/crescent-velvet-booth-c97ac6) | [Hotel Casino kit](../kits/casino-3dd029.md) | 698 | [GLB](https://polyfork.dev/cdn/crescent-velvet-booth-c97ac6.glb) · [module](https://polyfork.dev/cdn/crescent-velvet-booth-c97ac6.mjs) |
 | [Crockery Set](https://polyfork.dev/asset/crockery-set-43bd4b) | [Open Plan](../kits/open-plan-b2ebd3.md) | 688 | [GLB](https://polyfork.dev/cdn/crockery-set-43bd4b.glb) · [module](https://polyfork.dev/cdn/crockery-set-43bd4b.mjs) |
-| [Crossbow](https://polyfork.dev/asset/crossbow-59750a) |  | 958 | [GLB](https://polyfork.dev/cdn/crossbow-59750a.glb) · [module](https://polyfork.dev/cdn/crossbow-59750a.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
