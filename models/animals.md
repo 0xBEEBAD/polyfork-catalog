@@ -1,6 +1,6 @@
 # Animals
 
-285 free low-poly models. [All types](../README.md#browse-by-type)
+296 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -99,7 +99,12 @@
 | [Elf toymaker](https://polyfork.dev/asset/elf-toymaker-base) |  | 4,006 | [GLB](https://polyfork.dev/cdn/elf-toymaker-base.glb) · [module](https://polyfork.dev/cdn/elf-toymaker-base.mjs) |
 | [Ember-Cracked Hound](https://polyfork.dev/asset/ember-dog-50b92d) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 3,924 | [GLB](https://polyfork.dev/cdn/ember-dog-50b92d.glb) · [module](https://polyfork.dev/cdn/ember-dog-50b92d.mjs) |
 | [Ember-Cracked Troll](https://polyfork.dev/asset/ashen-troll-base) |  | 4,983 | [GLB](https://polyfork.dev/cdn/ashen-troll-base.glb) · [module](https://polyfork.dev/cdn/ashen-troll-base.mjs) |
+| [Erhu musician](https://polyfork.dev/asset/erhu-musician-base) |  | 4,854 | [GLB](https://polyfork.dev/cdn/erhu-musician-base.glb) · [module](https://polyfork.dev/cdn/erhu-musician-base.mjs) |
 | [Faceless Glass-Winged Angel](https://polyfork.dev/asset/cathedral-angel-c97346) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,944 | [GLB](https://polyfork.dev/cdn/cathedral-angel-c97346.glb) · [module](https://polyfork.dev/cdn/cathedral-angel-c97346.mjs) |
+| [Fairy tale king](https://polyfork.dev/asset/fairy-tale-king-base) |  | 4,830 | [GLB](https://polyfork.dev/cdn/fairy-tale-king-base.glb) · [module](https://polyfork.dev/cdn/fairy-tale-king-base.mjs) |
+| [Fairy tale princess](https://polyfork.dev/asset/fairy-tale-princess-base) |  | 4,992 | [GLB](https://polyfork.dev/cdn/fairy-tale-princess-base.glb) · [module](https://polyfork.dev/cdn/fairy-tale-princess-base.mjs) |
+| [Fairy-Tale King](https://polyfork.dev/asset/fairy-tale-king-ca3943) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 4,830 | [GLB](https://polyfork.dev/cdn/fairy-tale-king-ca3943.glb) · [module](https://polyfork.dev/cdn/fairy-tale-king-ca3943.mjs) |
+| [Fairy-Tale Princess](https://polyfork.dev/asset/fairy-tale-princess-c225d8) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 4,992 | [GLB](https://polyfork.dev/cdn/fairy-tale-princess-c225d8.glb) · [module](https://polyfork.dev/cdn/fairy-tale-princess-c225d8.mjs) |
 | [Farm Dog](https://polyfork.dev/asset/farm-dog-723730) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 2,204 | [GLB](https://polyfork.dev/cdn/farm-dog-723730.glb) · [module](https://polyfork.dev/cdn/farm-dog-723730.mjs) |
 | [Farmer](https://polyfork.dev/asset/farmer-base) |  | 4,992 | [GLB](https://polyfork.dev/cdn/farmer-base.glb) · [module](https://polyfork.dev/cdn/farmer-base.mjs) |
 | [Fire cultist](https://polyfork.dev/asset/fire-cultist-base) |  | 4,982 | [GLB](https://polyfork.dev/cdn/fire-cultist-base.glb) · [module](https://polyfork.dev/cdn/fire-cultist-base.mjs) |
@@ -157,6 +162,7 @@
 | [Koi](https://polyfork.dev/asset/koi-base) |  | 3,508 | [GLB](https://polyfork.dev/cdn/koi-base.glb) · [module](https://polyfork.dev/cdn/koi-base.mjs) |
 | [Leaf-Shawled Forest Witch](https://polyfork.dev/asset/forest-witch-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/forest-witch-base.glb) · [module](https://polyfork.dev/cdn/forest-witch-base.mjs) |
 | [Leopard slug](https://polyfork.dev/asset/leopard-slug-base) |  | 3,506 | [GLB](https://polyfork.dev/cdn/leopard-slug-base.glb) · [module](https://polyfork.dev/cdn/leopard-slug-base.mjs) |
+| [Lighthouse keeper](https://polyfork.dev/asset/lighthouse-keeper-base) |  | 4,988 | [GLB](https://polyfork.dev/cdn/lighthouse-keeper-base.glb) · [module](https://polyfork.dev/cdn/lighthouse-keeper-base.mjs) |
 | [Lion](https://polyfork.dev/asset/lion-base) |  | 3,982 | [GLB](https://polyfork.dev/cdn/lion-base.glb) · [module](https://polyfork.dev/cdn/lion-base.mjs) |
 | [Living Cathedral Statue](https://polyfork.dev/asset/cathedral-statue-36eaad) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,939 | [GLB](https://polyfork.dev/cdn/cathedral-statue-36eaad.glb) · [module](https://polyfork.dev/cdn/cathedral-statue-36eaad.mjs) |
 | [Lure-Headed Angler](https://polyfork.dev/asset/angler-one-e18fde) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,994 | [GLB](https://polyfork.dev/cdn/angler-one-e18fde.glb) · [module](https://polyfork.dev/cdn/angler-one-e18fde.mjs) |
@@ -176,6 +182,7 @@
 | [Mushroom-Capped Oracle](https://polyfork.dev/asset/mushroom-druid-def610) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,986 | [GLB](https://polyfork.dev/cdn/mushroom-druid-def610.glb) · [module](https://polyfork.dev/cdn/mushroom-druid-def610.mjs) |
 | [Nail-Haloed Martyr](https://polyfork.dev/asset/shrouded-martyr-base) |  | 4,946 | [GLB](https://polyfork.dev/cdn/shrouded-martyr-base.glb) · [module](https://polyfork.dev/cdn/shrouded-martyr-base.mjs) |
 | [Octopus](https://polyfork.dev/asset/octopus-base) |  | 3,936 | [GLB](https://polyfork.dev/cdn/octopus-base.glb) · [module](https://polyfork.dev/cdn/octopus-base.mjs) |
+| [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) |  | 4,975 | [GLB](https://polyfork.dev/cdn/older-woman-with-a-basket-base.glb) · [module](https://polyfork.dev/cdn/older-woman-with-a-basket-base.mjs) |
 | [One-Eyed Seal Judge](https://polyfork.dev/asset/order-judge-base) |  | 5,000 | [GLB](https://polyfork.dev/cdn/order-judge-base.glb) · [module](https://polyfork.dev/cdn/order-judge-base.mjs) |
 | [Opera baritone](https://polyfork.dev/asset/opera-baritone-base) |  | 4,941 | [GLB](https://polyfork.dev/cdn/opera-baritone-base.glb) · [module](https://polyfork.dev/cdn/opera-baritone-base.mjs) |
 | [Opera soprano](https://polyfork.dev/asset/opera-soprano-base) |  | 4,990 | [GLB](https://polyfork.dev/cdn/opera-soprano-base.glb) · [module](https://polyfork.dev/cdn/opera-soprano-base.mjs) |
@@ -191,6 +198,7 @@
 | [Parasaurolophus](https://polyfork.dev/asset/parasaurolophus-base) |  | 3,316 | [GLB](https://polyfork.dev/cdn/parasaurolophus-base.glb) · [module](https://polyfork.dev/cdn/parasaurolophus-base.mjs) |
 | [Parent carrying a cut tree](https://polyfork.dev/asset/parent-carrying-a-cut-tree-base) |  | 3,986 | [GLB](https://polyfork.dev/cdn/parent-carrying-a-cut-tree-base.glb) · [module](https://polyfork.dev/cdn/parent-carrying-a-cut-tree-base.mjs) |
 | [Parrot](https://polyfork.dev/asset/parrot-base) |  | 2,964 | [GLB](https://polyfork.dev/cdn/parrot-base.glb) · [module](https://polyfork.dev/cdn/parrot-base.mjs) |
+| [Patient on crutches](https://polyfork.dev/asset/patient-on-crutches-base) |  | 4,354 | [GLB](https://polyfork.dev/cdn/patient-on-crutches-base.glb) · [module](https://polyfork.dev/cdn/patient-on-crutches-base.mjs) |
 | [Penguin](https://polyfork.dev/asset/penguin-base) |  | 2,392 | [GLB](https://polyfork.dev/cdn/penguin-base.glb) · [module](https://polyfork.dev/cdn/penguin-base.mjs) |
 | [Petal-Faced Vine Keeper](https://polyfork.dev/asset/bloom-elemental-bbe733) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,997 | [GLB](https://polyfork.dev/cdn/bloom-elemental-bbe733.glb) · [module](https://polyfork.dev/cdn/bloom-elemental-bbe733.mjs) |
 | [Pig](https://polyfork.dev/asset/pig-base) |  | 2,890 | [GLB](https://polyfork.dev/cdn/pig-base.glb) · [module](https://polyfork.dev/cdn/pig-base.mjs) |
@@ -216,6 +224,8 @@
 | [Reef Grouper](https://polyfork.dev/asset/reef-grouper-964612) | [Coral Reef](../kits/coral-reef-a7128a.md) | 3,948 | [GLB](https://polyfork.dev/cdn/reef-grouper-964612.glb) · [module](https://polyfork.dev/cdn/reef-grouper-964612.mjs) |
 | [Reef shark](https://polyfork.dev/asset/reef-shark-base) |  | 2,462 | [GLB](https://polyfork.dev/cdn/reef-shark-base.glb) · [module](https://polyfork.dev/cdn/reef-shark-base.mjs) |
 | [Reindeer](https://polyfork.dev/asset/reindeer-base) |  | 2,998 | [GLB](https://polyfork.dev/cdn/reindeer-base.glb) · [module](https://polyfork.dev/cdn/reindeer-base.mjs) |
+| [Ride operator](https://polyfork.dev/asset/ride-operator-base) |  | 4,998 | [GLB](https://polyfork.dev/cdn/ride-operator-base.glb) · [module](https://polyfork.dev/cdn/ride-operator-base.mjs) |
+| [Riverside jogger](https://polyfork.dev/asset/riverside-jogger-base) |  | 4,776 | [GLB](https://polyfork.dev/cdn/riverside-jogger-base.glb) · [module](https://polyfork.dev/cdn/riverside-jogger-base.mjs) |
 | [Root colossus](https://polyfork.dev/asset/root-colossus-base) |  | 4,917 | [GLB](https://polyfork.dev/cdn/root-colossus-base.glb) · [module](https://polyfork.dev/cdn/root-colossus-base.mjs) |
 | [Rotting Revenant Knight](https://polyfork.dev/asset/dark-knight-base) |  | 4,990 | [GLB](https://polyfork.dev/cdn/dark-knight-base.glb) · [module](https://polyfork.dev/cdn/dark-knight-base.mjs) |
 | [Royal Gramma](https://polyfork.dev/asset/royal-gramma-6c21fe) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 560 | [GLB](https://polyfork.dev/cdn/royal-gramma-6c21fe.glb) · [module](https://polyfork.dev/cdn/royal-gramma-6c21fe.mjs) |
@@ -261,6 +271,7 @@
 | [Strategist](https://polyfork.dev/asset/strategist-base) |  | 4,896 | [GLB](https://polyfork.dev/cdn/strategist-base.glb) · [module](https://polyfork.dev/cdn/strategist-base.mjs) |
 | [Swallowtail caterpillar](https://polyfork.dev/asset/swallowtail-caterpillar-base) |  | 2,702 | [GLB](https://polyfork.dev/cdn/swallowtail-caterpillar-base.glb) · [module](https://polyfork.dev/cdn/swallowtail-caterpillar-base.mjs) |
 | [Swamp child](https://polyfork.dev/asset/swamp-child-base) |  | 4,922 | [GLB](https://polyfork.dev/cdn/swamp-child-base.glb) · [module](https://polyfork.dev/cdn/swamp-child-base.mjs) |
+| [Tai chi elder](https://polyfork.dev/asset/tai-chi-elder-base) |  | 2,892 | [GLB](https://polyfork.dev/cdn/tai-chi-elder-base.glb) · [module](https://polyfork.dev/cdn/tai-chi-elder-base.mjs) |
 | [Tarantula](https://polyfork.dev/asset/tarantula-base) |  | 2,904 | [GLB](https://polyfork.dev/cdn/tarantula-base.glb) · [module](https://polyfork.dev/cdn/tarantula-base.mjs) |
 | [Teen audience member](https://polyfork.dev/asset/teen-audience-member-base) |  | 4,952 | [GLB](https://polyfork.dev/cdn/teen-audience-member-base.glb) · [module](https://polyfork.dev/cdn/teen-audience-member-base.mjs) |
 | [Tentacle-Faced Occultist](https://polyfork.dev/asset/sea-occultist-36c1b7) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,990 | [GLB](https://polyfork.dev/cdn/sea-occultist-36c1b7.glb) · [module](https://polyfork.dev/cdn/sea-occultist-36c1b7.mjs) |

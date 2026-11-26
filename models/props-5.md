@@ -1,11 +1,20 @@
 # Props
 
-2,238 free low-poly models. [All types](../README.md#browse-by-type)
+2,249 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Towed Air Compressor](https://polyfork.dev/asset/towed-air-compressor-11f9ea) | [Construction Site](../kits/construction-site-9e40b0.md) | 1,371 | [GLB](https://polyfork.dev/cdn/towed-air-compressor-11f9ea.glb) · [module](https://polyfork.dev/cdn/towed-air-compressor-11f9ea.mjs) |
+| [Towel Rail](https://polyfork.dev/asset/towel-rail-81254f) | [Open Plan](../kits/open-plan-b2ebd3.md) | 452 | [GLB](https://polyfork.dev/cdn/towel-rail-81254f.glb) · [module](https://polyfork.dev/cdn/towel-rail-81254f.mjs) |
+| [Tower Shield](https://polyfork.dev/asset/tower-shield-09ff7d) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 686 | [GLB](https://polyfork.dev/cdn/tower-shield-09ff7d.glb) · [module](https://polyfork.dev/cdn/tower-shield-09ff7d.mjs) |
+| [Toxic Fog Bank](https://polyfork.dev/asset/toxic-fog-bank-60e730) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 963 | [GLB](https://polyfork.dev/cdn/toxic-fog-bank-60e730.glb) · [module](https://polyfork.dev/cdn/toxic-fog-bank-60e730.mjs) |
+| [Toxic Gas Vent](https://polyfork.dev/asset/toxic-gas-vent-db2b8c) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 725 | [GLB](https://polyfork.dev/cdn/toxic-gas-vent-db2b8c.glb) · [module](https://polyfork.dev/cdn/toxic-gas-vent-db2b8c.mjs) |
+| [Toy Figurine](https://polyfork.dev/asset/card-standee-9e8044) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 960 | [GLB](https://polyfork.dev/cdn/card-standee-9e8044.glb) · [module](https://polyfork.dev/cdn/card-standee-9e8044.mjs) |
+| [Toy Rocket](https://polyfork.dev/asset/toy-rocket-e51241) |  | 618 | [GLB](https://polyfork.dev/cdn/toy-rocket-e51241.glb) · [module](https://polyfork.dev/cdn/toy-rocket-e51241.mjs) |
+| [Toy Shelf](https://polyfork.dev/asset/toy-shelf-3b4390) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 1,437 | [GLB](https://polyfork.dev/cdn/toy-shelf-3b4390.glb) · [module](https://polyfork.dev/cdn/toy-shelf-3b4390.mjs) |
+| [Traffic Cone](https://polyfork.dev/asset/traffic-cone-247748) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 376 | [GLB](https://polyfork.dev/cdn/traffic-cone-247748.glb) · [module](https://polyfork.dev/cdn/traffic-cone-247748.mjs) |
 | [Traffic Cone](https://polyfork.dev/asset/traffic-cone-33e81e) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 200 | [GLB](https://polyfork.dev/cdn/traffic-cone-33e81e.glb) · [module](https://polyfork.dev/cdn/traffic-cone-33e81e.mjs) |
 | [Traffic Light](https://polyfork.dev/asset/traffic-light-b217a2) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 714 | [GLB](https://polyfork.dev/cdn/traffic-light-b217a2.glb) · [module](https://polyfork.dev/cdn/traffic-light-b217a2.mjs) |
 | [Traffic Signal](https://polyfork.dev/asset/traffic-signal-2a517e) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 606 | [GLB](https://polyfork.dev/cdn/traffic-signal-2a517e.glb) · [module](https://polyfork.dev/cdn/traffic-signal-2a517e.mjs) |
@@ -87,6 +96,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Velvet Tub Chair](https://polyfork.dev/asset/velvet-tub-chair-b0b5f8) | [Hotel Casino kit](../kits/casino-3dd029.md) | 684 | [GLB](https://polyfork.dev/cdn/velvet-tub-chair-b0b5f8.glb) · [module](https://polyfork.dev/cdn/velvet-tub-chair-b0b5f8.mjs) |
 | [Vending Machine](https://polyfork.dev/asset/vending-machine-471c29) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 692 | [GLB](https://polyfork.dev/cdn/vending-machine-471c29.glb) · [module](https://polyfork.dev/cdn/vending-machine-471c29.mjs) |
 | [Ventilated Hide Food Larder](https://polyfork.dev/asset/ventilated-hide-food-larder-f53174) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 931 | [GLB](https://polyfork.dev/cdn/ventilated-hide-food-larder-f53174.glb) · [module](https://polyfork.dev/cdn/ventilated-hide-food-larder-f53174.mjs) |
+| [Vertical Cardboard Baler](https://polyfork.dev/asset/vertical-cardboard-baler-4881e5) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 864 | [GLB](https://polyfork.dev/cdn/vertical-cardboard-baler-4881e5.glb) · [module](https://polyfork.dev/cdn/vertical-cardboard-baler-4881e5.mjs) |
 | [Vertical Kanji Signboard](https://polyfork.dev/asset/vertical-kanji-signboard-cc5162) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 330 | [GLB](https://polyfork.dev/cdn/vertical-kanji-signboard-cc5162.glb) · [module](https://polyfork.dev/cdn/vertical-kanji-signboard-cc5162.mjs) |
 | [Vibraphone](https://polyfork.dev/asset/vibraphone-e48315) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 998 | [GLB](https://polyfork.dev/cdn/vibraphone-e48315.glb) · [module](https://polyfork.dev/cdn/vibraphone-e48315.mjs) |
 | [Video Slot Machine](https://polyfork.dev/asset/video-slot-machine-bbecb9) | [Hotel Casino kit](../kits/casino-3dd029.md) | 594 | [GLB](https://polyfork.dev/cdn/video-slot-machine-bbecb9.glb) · [module](https://polyfork.dev/cdn/video-slot-machine-bbecb9.mjs) |
@@ -139,6 +149,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Water Carafe](https://polyfork.dev/asset/water-carafe-6f1774) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 264 | [GLB](https://polyfork.dev/cdn/water-carafe-6f1774.glb) · [module](https://polyfork.dev/cdn/water-carafe-6f1774.mjs) |
 | [Water Crane](https://polyfork.dev/asset/water-crane-6ab467) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 973 | [GLB](https://polyfork.dev/cdn/water-crane-6ab467.glb) · [module](https://polyfork.dev/cdn/water-crane-6ab467.mjs) |
 | [Water Fountain (Bottle Filler)](https://polyfork.dev/asset/water-fountain-bottle-filler-919fbb) | [University](../kits/university-959b66.md) | 560 | [GLB](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.glb) · [module](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.mjs) |
+| [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | [Myths of Olympus](../kits/myths-of-olympus-d03622.md) | 1,090 | [GLB](https://polyfork.dev/cdn/water-hydria-501c19.glb) · [module](https://polyfork.dev/cdn/water-hydria-501c19.mjs) |
 | [Water Tower on a Trestle](https://polyfork.dev/asset/water-tower-on-a-dbc730) | [Frontier Town](../kits/frontier-town-a0085b.md) | 758 | [GLB](https://polyfork.dev/cdn/water-tower-on-a-dbc730.glb) · [module](https://polyfork.dev/cdn/water-tower-on-a-dbc730.mjs) |
 | [Water Trough](https://polyfork.dev/asset/water-trough-318ee1) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 670 | [GLB](https://polyfork.dev/cdn/water-trough-318ee1.glb) · [module](https://polyfork.dev/cdn/water-trough-318ee1.mjs) |
 | [Water Trough](https://polyfork.dev/asset/water-trough-df3ced) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 376 | [GLB](https://polyfork.dev/cdn/water-trough-df3ced.glb) · [module](https://polyfork.dev/cdn/water-trough-df3ced.mjs) |

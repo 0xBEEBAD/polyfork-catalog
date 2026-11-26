@@ -1,6 +1,6 @@
 # Vehicles
 
-228 free low-poly models. [All types](../README.md#browse-by-type)
+232 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -28,6 +28,7 @@
 | [Brake Coach](https://polyfork.dev/asset/brake-coach-f83456) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,246 | [GLB](https://polyfork.dev/cdn/brake-coach-f83456.glb) · [module](https://polyfork.dev/cdn/brake-coach-f83456.mjs) |
 | [Breakdown Crane](https://polyfork.dev/asset/breakdown-crane-6a67d9) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,628 | [GLB](https://polyfork.dev/cdn/breakdown-crane-6a67d9.glb) · [module](https://polyfork.dev/cdn/breakdown-crane-6a67d9.mjs) |
 | [Buckboard Wagon](https://polyfork.dev/asset/buckboard-wagon-59ec16) | [Frontier Town](../kits/frontier-town-a0085b.md) | 2,814 | [GLB](https://polyfork.dev/cdn/buckboard-wagon-59ec16.glb) · [module](https://polyfork.dev/cdn/buckboard-wagon-59ec16.mjs) |
+| [Bumper Car](https://polyfork.dev/asset/bumper-car-eda915) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 2,642 | [GLB](https://polyfork.dev/cdn/bumper-car-eda915.glb) · [module](https://polyfork.dev/cdn/bumper-car-eda915.mjs) |
 | [Business Jet](https://polyfork.dev/asset/business-jet-684611) | [Airport](../kits/airport-43b137.md) | 4,493 | [GLB](https://polyfork.dev/cdn/business-jet-684611.glb) · [module](https://polyfork.dev/cdn/business-jet-684611.mjs) |
 | [Caique Fishing Boat](https://polyfork.dev/asset/caique-fishing-boat-262c24) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 2,636 | [GLB](https://polyfork.dev/cdn/caique-fishing-boat-262c24.glb) · [module](https://polyfork.dev/cdn/caique-fishing-boat-262c24.mjs) |
 | [Camp Canoe](https://polyfork.dev/asset/camp-canoe-c65d2a) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 2,222 | [GLB](https://polyfork.dev/cdn/camp-canoe-c65d2a.glb) · [module](https://polyfork.dev/cdn/camp-canoe-c65d2a.mjs) |
@@ -142,6 +143,7 @@
 | [Open Goods Wagon](https://polyfork.dev/asset/open-goods-wagon-998292) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,224 | [GLB](https://polyfork.dev/cdn/open-goods-wagon-998292.glb) · [module](https://polyfork.dev/cdn/open-goods-wagon-998292.mjs) |
 | [Ox Cart](https://polyfork.dev/asset/ox-cart-9c857f) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,296 | [GLB](https://polyfork.dev/cdn/ox-cart-9c857f.glb) · [module](https://polyfork.dev/cdn/ox-cart-9c857f.mjs) |
 | [Ox Cart](https://polyfork.dev/asset/ox-cart-c12bca) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,936 | [GLB](https://polyfork.dev/cdn/ox-cart-c12bca.glb) · [module](https://polyfork.dev/cdn/ox-cart-c12bca.mjs) |
+| [Painted Rowing Boat](https://polyfork.dev/asset/painted-rowing-boat-ca5c1a) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 2,559 | [GLB](https://polyfork.dev/cdn/painted-rowing-boat-ca5c1a.glb) · [module](https://polyfork.dev/cdn/painted-rowing-boat-ca5c1a.mjs) |
 | [Passenger Carriage](https://polyfork.dev/asset/passenger-carriage-de9d58) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,252 | [GLB](https://polyfork.dev/cdn/passenger-carriage-de9d58.glb) · [module](https://polyfork.dev/cdn/passenger-carriage-de9d58.mjs) |
 | [Patrol Cruiser](https://polyfork.dev/asset/patrol-cruiser-bed309) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 3,278 | [GLB](https://polyfork.dev/cdn/patrol-cruiser-bed309.glb) · [module](https://polyfork.dev/cdn/patrol-cruiser-bed309.mjs) |
 | [Pickup Truck](https://polyfork.dev/asset/pickup-truck-a34bf2) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 3,383 | [GLB](https://polyfork.dev/cdn/pickup-truck-a34bf2.glb) · [module](https://polyfork.dev/cdn/pickup-truck-a34bf2.mjs) |
@@ -161,9 +163,11 @@
 | [Ranger Pickup Truck](https://polyfork.dev/asset/ranger-pickup-truck-97057d) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 4,580 | [GLB](https://polyfork.dev/cdn/ranger-pickup-truck-97057d.glb) · [module](https://polyfork.dev/cdn/ranger-pickup-truck-97057d.mjs) |
 | [Regional Turboprop](https://polyfork.dev/asset/regional-turboprop-097f26) | [Airport](../kits/airport-43b137.md) | 4,788 | [GLB](https://polyfork.dev/cdn/regional-turboprop-097f26.glb) · [module](https://polyfork.dev/cdn/regional-turboprop-097f26.mjs) |
 | [Regolith Excavator](https://polyfork.dev/asset/regolith-excavator-06689b) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 1,968 | [GLB](https://polyfork.dev/cdn/regolith-excavator-06689b.glb) · [module](https://polyfork.dev/cdn/regolith-excavator-06689b.mjs) |
+| [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 2,872 | [GLB](https://polyfork.dev/cdn/rental-scooter-031ee2.glb) · [module](https://polyfork.dev/cdn/rental-scooter-031ee2.mjs) |
 | [Riding Lawn Tractor](https://polyfork.dev/asset/riding-lawn-tractor-09e93c) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 1,960 | [GLB](https://polyfork.dev/cdn/riding-lawn-tractor-09e93c.glb) · [module](https://polyfork.dev/cdn/riding-lawn-tractor-09e93c.mjs) |
 | [Rigid Site Dumper](https://polyfork.dev/asset/rigid-site-dumper-224eb0) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,701 | [GLB](https://polyfork.dev/cdn/rigid-site-dumper-224eb0.glb) · [module](https://polyfork.dev/cdn/rigid-site-dumper-224eb0.mjs) |
 | [River Barge](https://polyfork.dev/asset/river-barge-9b9f3d) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,652 | [GLB](https://polyfork.dev/cdn/river-barge-9b9f3d.glb) · [module](https://polyfork.dev/cdn/river-barge-9b9f3d.mjs) |
+| [River Paddle Steamer](https://polyfork.dev/asset/river-paddle-steamer-9984d3) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 3,804 | [GLB](https://polyfork.dev/cdn/river-paddle-steamer-9984d3.glb) · [module](https://polyfork.dev/cdn/river-paddle-steamer-9984d3.mjs) |
 | [Rooted gantry arm](https://polyfork.dev/asset/rooted-gantry-arm-f35c8f) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,549 | [GLB](https://polyfork.dev/cdn/rooted-gantry-arm-f35c8f.glb) · [module](https://polyfork.dev/cdn/rooted-gantry-arm-f35c8f.mjs) |
 | [Rowboat](https://polyfork.dev/asset/rowboat-c42d85) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 694 | [GLB](https://polyfork.dev/cdn/rowboat-c42d85.glb) · [module](https://polyfork.dev/cdn/rowboat-c42d85.mjs) |
 | [Rowing Dinghy](https://polyfork.dev/asset/rowing-dinghy-022673) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 2,265 | [GLB](https://polyfork.dev/cdn/rowing-dinghy-022673.glb) · [module](https://polyfork.dev/cdn/rowing-dinghy-022673.mjs) |

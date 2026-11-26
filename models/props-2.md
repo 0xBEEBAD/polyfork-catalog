@@ -1,11 +1,16 @@
 # Props
 
-2,238 free low-poly models. [All types](../README.md#browse-by-type)
+2,249 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Crater Terrain Blob](https://polyfork.dev/asset/crater-terrain-blob-bd6af6) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 400 | [GLB](https://polyfork.dev/cdn/crater-terrain-blob-bd6af6.glb) · [module](https://polyfork.dev/cdn/crater-terrain-blob-bd6af6.mjs) |
+| [Creek Footbridge](https://polyfork.dev/asset/creek-footbridge-d35cf7) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 780 | [GLB](https://polyfork.dev/cdn/creek-footbridge-d35cf7.glb) · [module](https://polyfork.dev/cdn/creek-footbridge-d35cf7.mjs) |
+| [Creosote Bush](https://polyfork.dev/asset/creosote-bush-5b17d5) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 1,543 | [GLB](https://polyfork.dev/cdn/creosote-bush-5b17d5.glb) · [module](https://polyfork.dev/cdn/creosote-bush-5b17d5.mjs) |
+| [Crescent Velvet Booth](https://polyfork.dev/asset/crescent-velvet-booth-c97ac6) | [Hotel Casino kit](../kits/casino-3dd029.md) | 698 | [GLB](https://polyfork.dev/cdn/crescent-velvet-booth-c97ac6.glb) · [module](https://polyfork.dev/cdn/crescent-velvet-booth-c97ac6.mjs) |
+| [Crockery Set](https://polyfork.dev/asset/crockery-set-43bd4b) | [Open Plan](../kits/open-plan-b2ebd3.md) | 688 | [GLB](https://polyfork.dev/cdn/crockery-set-43bd4b.glb) · [module](https://polyfork.dev/cdn/crockery-set-43bd4b.mjs) |
 | [Crossbow](https://polyfork.dev/asset/crossbow-59750a) |  | 958 | [GLB](https://polyfork.dev/cdn/crossbow-59750a.glb) · [module](https://polyfork.dev/cdn/crossbow-59750a.mjs) |
 | [Crossing And Pad Decal](https://polyfork.dev/asset/crossing-and-pad-decal-0bab8c) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 206 | [GLB](https://polyfork.dev/cdn/crossing-and-pad-decal-0bab8c.glb) · [module](https://polyfork.dev/cdn/crossing-and-pad-decal-0bab8c.mjs) |
 | [Crossing Gate](https://polyfork.dev/asset/crossing-gate-50bcee) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 828 | [GLB](https://polyfork.dev/cdn/crossing-gate-50bcee.glb) · [module](https://polyfork.dev/cdn/crossing-gate-50bcee.mjs) |
@@ -437,7 +442,6 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Ice Bucket](https://polyfork.dev/asset/ice-bucket-1dd869) | [Research Lab](../kits/research-lab-9b9b5d.md) | 652 | [GLB](https://polyfork.dev/cdn/ice-bucket-1dd869.glb) · [module](https://polyfork.dev/cdn/ice-bucket-1dd869.mjs) |
 | [Ice Chest](https://polyfork.dev/asset/ice-chest-83c9ed) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 788 | [GLB](https://polyfork.dev/cdn/ice-chest-83c9ed.glb) · [module](https://polyfork.dev/cdn/ice-chest-83c9ed.mjs) |
 | [Ice Chunk](https://polyfork.dev/asset/ice-chunk-b23ad7) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 253 | [GLB](https://polyfork.dev/cdn/ice-chunk-b23ad7.glb) · [module](https://polyfork.dev/cdn/ice-chunk-b23ad7.mjs) |
-| [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 620 | [GLB](https://polyfork.dev/cdn/ice-rink-tile-aceb6a.glb) · [module](https://polyfork.dev/cdn/ice-rink-tile-aceb6a.mjs) |
 | [Icicle Light Run](https://polyfork.dev/asset/icicle-light-run-70458b) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 680 | [GLB](https://polyfork.dev/cdn/icicle-light-run-70458b.glb) · [module](https://polyfork.dev/cdn/icicle-light-run-70458b.mjs) |
 | [Illuminated Bollard](https://polyfork.dev/asset/illuminated-bollard-9af752) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 596 | [GLB](https://polyfork.dev/cdn/illuminated-bollard-9af752.glb) · [module](https://polyfork.dev/cdn/illuminated-bollard-9af752.mjs) |
 | [Illuminated Exit Sign](https://polyfork.dev/asset/illuminated-exit-sign-23becd) | [Office](../kits/office-794453.md) | 327 | [GLB](https://polyfork.dev/cdn/illuminated-exit-sign-23becd.glb) · [module](https://polyfork.dev/cdn/illuminated-exit-sign-23becd.mjs) |
@@ -502,8 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Kyudo Longbow](https://polyfork.dev/asset/kyudo-longbow-a7f88f) |  | 704 | [GLB](https://polyfork.dev/cdn/kyudo-longbow-a7f88f.glb) · [module](https://polyfork.dev/cdn/kyudo-longbow-a7f88f.mjs) |
 | [Lab Bench](https://polyfork.dev/asset/lab-bench-740e7b) |  | 594 | [GLB](https://polyfork.dev/cdn/lab-bench-740e7b.glb) · [module](https://polyfork.dev/cdn/lab-bench-740e7b.mjs) |
 | [Lab Coat Rack](https://polyfork.dev/asset/lab-coat-rack-a089e3) | [Research Lab](../kits/research-lab-9b9b5d.md) | 575 | [GLB](https://polyfork.dev/cdn/lab-coat-rack-a089e3.glb) · [module](https://polyfork.dev/cdn/lab-coat-rack-a089e3.mjs) |
-| [Lab Notebook](https://polyfork.dev/asset/lab-notebook-e60f7a) | [Research Lab](../kits/research-lab-9b9b5d.md) | 302 | [GLB](https://polyfork.dev/cdn/lab-notebook-e60f7a.glb) · [module](https://polyfork.dev/cdn/lab-notebook-e60f7a.mjs) |
-| [Lab Stool](https://polyfork.dev/asset/lab-stool-022713) | [Research Lab](../kits/research-lab-9b9b5d.md) | 642 | [GLB](https://polyfork.dev/cdn/lab-stool-022713.glb) · [module](https://polyfork.dev/cdn/lab-stool-022713.mjs) |
-| [Lab Stool](https://polyfork.dev/asset/lab-stool-f405c7) |  | 492 | [GLB](https://polyfork.dev/cdn/lab-stool-f405c7.glb) · [module](https://polyfork.dev/cdn/lab-stool-f405c7.mjs) |
-| [Laced Hide Stretching Rack](https://polyfork.dev/asset/laced-hide-stretching-rack-8152a1) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 836 | [GLB](https://polyfork.dev/cdn/laced-hide-stretching-rack-8152a1.glb) · [module](https://polyfork.dev/cdn/laced-hide-stretching-rack-8152a1.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
